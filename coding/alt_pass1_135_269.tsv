@@ -1,0 +1,135 @@
+135	Housecall Pro	Housecall Pro ; Jobber ; FieldEdge ; Service Fusion ; FieldPulse ; BuildOps	yes	
+136	Housecall Pro	Housecall Pro ; Jobber ; FieldEdge ; FieldPulse ; Simpro ; ServiceTrade	no	
+137	Housecall Pro	Housecall Pro ; Jobber ; FieldEdge ; Service Fusion ; BuildOps ; Simpro ; Workiz	yes	
+138	Jobber	Jobber ; Housecall Pro ; FieldEdge ; Workiz ; mHelpDesk ; ServiceM8 ; Salesforce Field Service ; Service Fusion ; simPRO ; ServiceTrade ; BuildOps ; FieldPulse ; Fieldproxy	yes	intro 'commonly compare with' list counted as offered (mHelpDesk, ServiceM8 only there); BuildOps from 'more relevant to commercial ops' line
+139	Jobber	Jobber ; Housecall Pro ; FieldEdge ; Workiz ; mHelpDesk ; ServiceM8 ; Salesforce Field Service ; Service Fusion ; FieldPulse ; ServiceTrade ; BuildOps ; simPRO ; Kickserv	yes	intro 'commonly compare with' list counted as offered (mHelpDesk, ServiceM8 only there); BuildOps from 'alongside BuildOps and Simpro' line
+140	Jobber	Jobber ; Housecall Pro ; FieldEdge ; Workiz ; mHelpDesk ; ServiceM8 ; Salesforce Field Service ; Service Fusion ; FieldPulse ; ServiceTrade ; simPRO ; BuildOps ; ThermoGRID	yes	intro 'commonly compare with' list counted as offered (mHelpDesk, ServiceM8 only there); ThermoGRID from HVAC-built line in commercial section
+141	Jobber	Jobber ; Housecall Pro ; FieldPulse ; Service Fusion ; Workiz ; FieldEdge ; Simpro ; Kickserv	yes	
+142	Jobber	Jobber ; Housecall Pro ; FieldPulse ; Service Fusion ; Workiz ; Simpro ; Kickserv ; BuildOps ; ServiceTrade ; AccuLynx	yes	
+143	Jobber	Jobber ; Housecall Pro ; FieldPulse ; Service Fusion ; Workiz ; Simpro ; ServiceTrade ; BuildOps ; Kickserv	yes	
+144	Jobber	Jobber ; Housecall Pro ; Workiz ; Simpro	yes	
+145	Jobber	Jobber ; Housecall Pro ; Service Fusion ; FieldEdge ; Simpro	yes	
+146	Jobber	Jobber ; Housecall Pro ; Workiz ; FieldEdge ; Service Fusion	yes	
+147	Housecall Pro	Housecall Pro ; Jobber ; FieldEdge ; Service Fusion ; Workiz	yes	
+148	Housecall Pro	Housecall Pro ; Jobber ; Workiz ; BuildOps ; ServiceTrade ; Simpro ; FieldEdge	yes	RingCentral integration left out (passing)
+149	Jobber	Jobber ; Housecall Pro ; Workiz ; Service Fusion ; BuildOps ; Simpro ; ServiceTrade	yes	
+150	Jobber	Jobber ; Workiz ; FieldPulse ; Service Fusion ; ServiceTitan	yes	
+151	Jobber	Jobber ; Service Fusion ; ServiceTitan ; FieldPulse ; ServiceM8	yes	
+152	Jobber	Jobber ; Service Fusion ; Workiz ; ServiceTitan ; FieldEdge ; ServiceM8	yes	
+153	Jobber	Jobber ; ServiceTitan ; Workiz ; Service Fusion ; FieldPulse ; Kickserv ; FieldCamp ; ServiceM8 ; Tradify ; Workever ; Fergus	yes	Fergus only in the small-team sentence, counted as offered
+154	Jobber	Jobber ; ServiceTitan ; Workiz ; FieldPulse ; Kickserv ; Service Fusion ; ServiceM8 ; FieldCamp	yes	
+155	Jobber	Jobber ; ServiceTitan ; Workiz ; Kickserv ; FieldPulse ; Service Fusion ; ServiceM8 ; FieldCamp	yes	
+156	Jobber	Jobber ; FieldPulse ; ServiceTitan ; Workiz ; Service Fusion ; Kickserv ; ServiceM8 ; Method CRM	yes	Method CRM for Field Services written as Method CRM; Connecteam and Wrike left out (reported as Capterra list items, not offered)
+157	Jobber	Jobber ; ServiceTitan ; FieldPulse ; Workiz ; Service Fusion ; Kickserv ; Method CRM ; FieldEdge	yes	
+158	Jobber	Jobber ; FieldPulse ; ServiceTitan ; Workiz ; Service Fusion ; Kickserv ; Method CRM ; ServiceM8	yes	
+159	Jobber	Jobber ; Workiz ; QuoteIQ ; FieldEdge ; ServiceTitan	yes	inline link tokens in text ignored
+160	Jobber	Jobber ; Workiz ; QuoteIQ ; FieldPulse ; FieldEdge	yes	
+161	Jobber	Jobber ; Workiz ; QuoteIQ	yes	three category sections have no vendor name in the text (headings missing); only named vendors coded
+162	Jobber	Jobber ; ServiceTitan ; Workiz ; Service Fusion ; QuoteIQ	yes	MapMeasure Pro, InstaQuote are QuoteIQ features, not entries
+163	Jobber	Jobber ; ServiceTitan ; QuoteIQ ; FieldPulse	yes	
+164	Jobber	Jobber ; ServiceTitan ; Workiz ; Service Fusion ; FieldPulse	yes	
+165	Housecall Pro	Housecall Pro ; Workiz ; Service Fusion ; GorillaDesk ; FieldPulse ; ServiceTitan ; Kickserv	yes	
+166	Housecall Pro	Housecall Pro ; Kickserv ; Workiz ; GorillaDesk ; Service Fusion ; ServiceTitan	yes	
+167	Housecall Pro	Housecall Pro ; ServiceM8 ; Workiz ; Service Fusion ; ServiceTitan	yes	
+168	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; Service Fusion ; Kickserv ; Fergus ; BigChange	yes	truncated (summary table ends mid-row)
+169	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; Service Fusion ; Kickserv ; ServiceM8	yes	QuickBooks, Stripe, Mailchimp integrations left out
+170	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; Service Fusion ; FieldPulse ; Kickserv ; ServiceM8	yes	
+171	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; Service Fusion ; FieldPulse ; Kickserv ; ServiceM8	yes	
+172	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; Service Fusion ; Kickserv ; ServiceM8 ; Workever	yes	
+173	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; ServiceM8 ; Service Fusion ; FieldEdge	yes	
+174	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; QuoteIQ ; Kickserv	yes	
+175	Housecall Pro	Housecall Pro ; Workiz ; QuoteIQ ; FieldPulse ; ServiceTitan	yes	
+176	Housecall Pro	Housecall Pro ; Workiz ; Kickserv ; QuoteIQ ; ServiceTitan	yes	Kickserv block repeated in text, one entry
+177	Housecall Pro	Housecall Pro ; Workiz ; ServiceTitan ; FieldPulse ; Contractor+	yes	
+178	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; Contractor+	yes	
+179	Housecall Pro	Housecall Pro ; ServiceTitan ; Workiz ; FieldPulse ; Service Fusion	yes	
+180	Mews	Mews ; Cloudbeds ; Stayntouch ; Infor HMS ; Agilysys PMS ; Little Hotelier	yes	
+181	Mews	Mews ; Cloudbeds ; Stayntouch ; Infor HMS ; Shiji Daylight PMS	yes	
+182	Mews	Mews ; Cloudbeds ; Stayntouch ; Infor HMS ; Agilysys ; Little Hotelier	yes	
+183	Cloudbeds	Cloudbeds ; Mews ; Hotelogix ; Maestro PMS ; StayNTouch ; Little Hotelier ; eZee Absolute ; RoomRaccoon ; WebRezPro ; Apaleo	yes	StayNTouch Cloud PMS written as StayNTouch; Oracle OPERA Cloud in WebRezPro line is X
+184	Cloudbeds	Cloudbeds ; Mews ; Hotelogix ; Maestro PMS ; StayNTouch ; Little Hotelier ; eZee Absolute ; SkyTouch ; WebRezPro ; Apaleo ; RoomRaccoon	yes	SkyTouch Hotel Operations Platform written as SkyTouch; RoomRaccoon only in decision table, counted
+185	Cloudbeds	Cloudbeds ; Mews ; Maestro PMS ; StayNTouch ; Hotelogix ; Little Hotelier ; WebRezPro ; eZee Absolute ; RMS Cloud ; Agilysys Versa ; RoomRaccoon	yes	truncated (ends 'Most top'); RoomRaccoon only in choose table, counted
+186	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; roommaster ; RMS Cloud ; Hotelogix ; eZee Absolute ; Little Hotelier ; Lodgify	yes	'sources also highlight' niche list counted as offered
+187	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; RMS Cloud ; roommaster ; Hotelogix ; eZee Absolute ; FrontDesko ; Maestro PMS ; Sirvoy ; Little Hotelier ; Hotelizer	yes	
+188	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; roommaster ; RMS Cloud ; Hotelogix ; FrontDesko ; Lodgify ; Hotelizer ; Guesty ; ResNexus ; Maestro PMS	yes	cheapest-options list counted as offered
+189	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; roomMaster ; RMS Cloud ; FrontDesko	yes	
+190	Cloudbeds	Cloudbeds ; Mews ; StayNTouch ; WebRezPro ; RMS Cloud	yes	
+191	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; RMS Cloud ; mycloud PMS	yes	
+192	Mews	Mews ; Cloudbeds ; Stayntouch ; RMS Cloud ; Maestro PMS	yes	
+193	Mews	Mews ; Cloudbeds ; Stayntouch ; RMS Cloud ; Maestro PMS ; roomMaster	yes	
+194	Cloudbeds	Cloudbeds ; Maestro PMS ; Mews ; Stayntouch ; Infor HMS ; RMS Cloud	yes	
+195	Mews	Mews ; RoomRaccoon ; innRoad ; Little Hotelier ; RMS ; Beds24	yes	SiteMinder left out (powers Little Hotelier)
+196	Mews	Mews ; RoomRaccoon ; Little Hotelier ; Stayntouch ; Beds24 ; Oracle OPERA Cloud	yes	SiteMinder left out (powers Mews channel manager)
+197	Mews	Mews ; RoomRaccoon ; Little Hotelier ; RMS ; Stayntouch ; Beds24	yes	SiteMinder left out
+198	Little Hotelier	Little Hotelier ; Mews ; RoomRaccoon ; eviivo ; Hostaway ; Guesty ; Lodgify ; roommaster ; Oracle OPERA Cloud ; Yanolja Cloud Solution ; WebRezPro ; Maestro PMS ; Hotelogix	yes	Maestro PMS from line under WebRezPro heading; Hotelogix only in decision table; SiteMinder, Hotel Tech Report left out
+199	Little Hotelier	Little Hotelier ; Mews ; eviivo ; RoomRaccoon ; Oracle OPERA Cloud ; Hostaway ; Guesty ; Lodgify ; roommaster ; Yanolja Cloud Solution ; Hotelogix	yes	ampliphi RMS connection left out (integration)
+200	Little Hotelier	Little Hotelier ; Mews ; RoomRaccoon ; eviivo ; Hostaway ; Guesty ; Lodgify ; eZee Absolute ; roommaster ; Oracle OPERA Cloud ; Maestro ; Hotelogix ; ResNexus	yes	Opera PMS line folded into Oracle OPERA Cloud (one vendor); ampliphi, SiteMinder left out
+201	Little Hotelier	Little Hotelier ; RoomRaccoon ; Mews ; eviivo ; Guesty ; Hotelogix ; WebRezPro ; Hostaway	yes	Hostaway named as G2 best overall, counted
+202	Little Hotelier	Little Hotelier ; RoomRaccoon ; eviivo ; Mews ; Guesty ; Hotelogix ; WebRezPro ; Hostaway ; ResNexus	yes	roommaster left out (cited as source only)
+203	Little Hotelier	Little Hotelier ; RoomRaccoon ; Mews ; eviivo ; Guesty ; Hostaway ; Hotelogix ; WebRezPro ; ResNexus ; Amenitiz ; Sirvoy ; Lodgify ; Yanolja Cloud Solution	yes	'other notable alternatives' list counted
+204	Little Hotelier	Little Hotelier ; Guesty ; RoomRaccoon ; Yanolja Cloud Solution ; eviivo ; RMS Cloud	yes	intro has a missing name ('and for vacation rentals')
+205	Little Hotelier	Little Hotelier ; Mews ; RoomRaccoon ; Beds24	yes	vacation-rental entry has no vendor name in the text
+206	Mews	Mews ; Guesty ; Little Hotelier ; Stayntouch ; Oracle OPERA Cloud	yes	
+207	Mews	Mews ; SiteMinder ; Little Hotelier ; Sirvoy ; HotelRunner ; Guesty ; Hostaway ; Oracle OPERA Cloud	yes	myallocator left out (Cloudbeds' own channel manager)
+208	Little Hotelier	Little Hotelier ; SiteMinder ; Sirvoy ; Hostaway ; Guesty ; Oracle Hospitality OPERA Cloud	yes	SiteMinder ordered by its first appearance ('Powered by SiteMinder') before Sirvoy; offered later as its own entry
+209	Mews	Mews ; Little Hotelier ; Sirvoy ; Guesty ; Stayntouch ; Oracle Hospitality OPERA Cloud	yes	
+210	Agilysys	Agilysys ; Oracle OPERA Cloud ; Mews ; Cloudbeds ; Stayntouch	yes	
+211	Agilysys	Agilysys ; Oracle OPERA Cloud ; Mews ; Stayntouch ; Cloudbeds	yes	
+212	Agilysys	Agilysys ; Oracle OPERA Cloud ; Mews ; Cloudbeds ; Stayntouch ; RMS	yes	
+213	Cloudbeds	Cloudbeds ; Mews ; ThinkReservations ; Oracle Hospitality OPERA Cloud ; StayNTouch ; Agilysys ; WebRezPro ; Hotelogix ; Guesty ; innRoad ; Hostaway ; Smoobu ; CiiRUS ; RMS Cloud ; Aiosell	yes	ThinkReservations first named in Cloudbeds section ranking; cloud-alternatives sentence list under Hotelogix counted
+214	Oracle Hospitality OPERA Cloud	Oracle Hospitality OPERA Cloud ; Cloudbeds ; Mews ; StayNTouch ; Agilysys ; WebRezPro ; ThinkReservations ; Hotelogix ; Little Hotelier ; eviivo ; Guesty	yes	Little Hotelier heading text describes eviivo; both counted; Nor1 left out
+215	Oracle Hospitality OPERA Cloud	Oracle Hospitality OPERA Cloud ; Cloudbeds ; Mews ; StayNTouch ; Agilysys ; WebRezPro ; ThinkReservations ; Hotelogix ; innRoad ; Hostaway ; Smoobu ; RMS Cloud ; mycloud PMS ; Aiosell ; RDPWin ; Roomsy	yes	cloud-alternatives and free-trial sentence lists under Hotelogix counted (Aiosell, RDPWin, Roomsy only in free-trial line)
+216	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; Oracle Hospitality OPERA ; roommaster ; RMS Cloud ; Hotelogix ; WebRezPro	yes	
+217	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; Oracle Hospitality OPERA ; roommaster	yes	
+218	Cloudbeds	Cloudbeds ; Mews ; Stayntouch ; Oracle Hospitality OPERA ; Infor HMS ; freetobook ; HOTELTIME ; ThinkReservations ; RMS Cloud ; WebRezPro ; Hotelogix ; roommaster	yes	'other credible alternatives' list counted
+219	Cloudbeds	Cloudbeds ; Oracle Hospitality OPERA ; Mews ; roommaster ; StayNTouch	yes	
+220	Cloudbeds	Cloudbeds ; Mews ; Oracle Hospitality OPERA ; StayNTouch	yes	one entry has no name, only '(formerly innQuest)'; left out
+221	Cloudbeds	Cloudbeds ; Mews ; Oracle Hospitality OPERA ; StayNTouch	yes	Mews named only in intro (its list entry lost its name); one entry has only '(formerly innQuest)', left out
+222	Stayntouch	Stayntouch ; Mews ; Cloudbeds ; HOTELTIME ; roommaster	yes	PMS suffix dropped on Mews, Cloudbeds, HOTELTIME; SynXis left out
+223	Cloudbeds	Cloudbeds ; Mews ; Oracle Hospitality OPERA ; roommaster ; StayNTouch	yes	
+224	Cloudbeds	Cloudbeds ; Mews ; roommaster	yes	
+225	HawkSoft	HawkSoft ; Applied Epic ; AMS360 ; QQCatalyst ; Momentum AMS ; PL Rating	yes	TurboRater left out (integration); NowCerts is former name of Momentum AMS
+226	HawkSoft	HawkSoft ; Applied Epic ; Vertafore AMS360 ; QQCatalyst ; PL Rating	yes	
+227	HawkSoft	HawkSoft ; Applied Epic ; AMS360 ; QQCatalyst ; Vertafore PL Rating	yes	
+228	Applied Epic	Applied Epic ; AMS360 ; PL Rating ; HawkSoft ; QQCatalyst ; NowCerts ; AgencyZoom ; AgencyBloc	yes	PL Rating only in intro sentence, counted
+229	Applied Epic	Applied Epic ; AMS360 ; PL Rating ; QQCatalyst ; HawkSoft ; NowCerts ; Jenesis Software ; AgencyZoom ; NextAgency ; AgencyBloc	yes	HawkSoft CMS written as HawkSoft; PL Rating and NextAgency only in intro sentences, counted
+230	Applied Epic	Applied Epic ; AMS360 ; PL Rating ; QQCatalyst ; Insly ; AgencyBloc ; HawkSoft ; NowCerts ; Jenesis Software ; AgencyZoom ; NextAgency	yes	intro small-business list counted (Insly, NextAgency only there); Zywave left out (owner)
+231	Applied Epic	Applied Epic ; Vertafore AMS360 ; HawkSoft ; PL Rating ; QQCatalyst ; NowCerts ; Jenesis Software ; AgencyZoom ; BriteCover	yes	
+232	Applied Epic	Applied Epic ; Vertafore AMS360 ; HawkSoft ; QQCatalyst ; Jenesis Software ; NowCerts	yes	
+233	Applied Epic	Applied Epic ; Vertafore AMS360 ; HawkSoft ; NowCerts ; QQCatalyst ; Jenesis Software ; AgencyZoom ; ePayPolicy	yes	ePayPolicy offered with 'not a full replacement' caveat, counted
+234	HawkSoft	HawkSoft ; Applied Epic ; Vertafore AMS360 ; PL Rating ; unLocked CRM	yes	QuoteSweep, Software Advice, G2 left out (sources)
+235	Applied Epic	Applied Epic ; HawkSoft ; Vertafore AMS360 ; PL Rating ; AgencyZoom	yes	'Vertafore AMS360 / PL Rating' combined entry coded as two products (could be one Vertafore entry)
+236	Applied Epic	Applied Epic ; HawkSoft ; AMS360 ; Jenesis Software ; Vertafore PL Rating ; unLocked CRM ; AgencyZoom	yes	
+237	Applied Epic	Applied Epic ; HawkSoft ; Vertafore AMS360 ; Vertafore PL Rating ; NowCerts	yes	UI link text in answer ignored
+238	Applied Epic	Applied Epic ; HawkSoft ; Vertafore AMS360 ; PL Rating ; NowCerts	yes	UI link text in answer ignored
+239	Applied Epic	Applied Epic ; Vertafore AMS360 ; PL Rating ; HawkSoft ; Better Agency ; Momentum	yes	'Vertafore AMS360 / PL Rating' pair coded as two products (could be one Vertafore entry); Applied as EZLynx owner left out
+240	AMS360	AMS360 ; HawkSoft ; EZLynx ; Sagitta ; QQCatalyst ; Momentum AMP	yes	Momentum AMP / NowCerts one entry; QuickBooks left out
+241	AMS360	AMS360 ; HawkSoft ; EZLynx ; QQCatalyst ; Sagitta ; Novidea ; AgencyBloc	yes	Salesforce left out (platform base)
+242	AMS360	AMS360 ; HawkSoft ; EZLynx ; QQCatalyst ; Sagitta ; AgencyBloc AMS+	yes	
+243	AMS360	AMS360 ; HawkSoft ; EZLynx ; QQCatalyst ; NowCerts ; Sagitta ; The Agency Manager ; AgencyBloc ; Jenesis Software	yes	
+244	QQCatalyst	QQCatalyst ; AMS360 ; HawkSoft ; EZLynx ; NowCerts ; AgencyBloc ; Macaw AMS	yes	intro 'alternative landscape' list names QQCatalyst first; numbered list starts with AMS360
+245	AMS360	AMS360 ; HawkSoft ; EZLynx ; NowCerts ; QQCatalyst ; Sagitta ; AgencyBloc ; Jenesis Software ; Macaw AMS	yes	NowCerts/Momentum AMP one entry
+246	AMS360	AMS360 ; HawkSoft ; EZLynx ; QQCatalyst ; Jenesis Software ; NowCerts ; ePayPolicy ; AgencyBloc AMS+ ; Macaw	yes	free-plan options (reported from Capterra) counted
+247	AMS360	AMS360 ; EZLynx ; QQCatalyst ; HawkSoft ; Jenesis Software ; NowCerts ; AgencyZoom	yes	
+248	AMS360	AMS360 ; EZLynx ; QQCatalyst ; Jenesis Software ; HawkSoft ; NowCerts ; ePayPolicy ; Sembley	yes	Sembley only in Capterra small-agency sentence, counted
+249	Vertafore AMS360	Vertafore AMS360 ; EZLynx ; NowCerts ; unLocked CRM ; Jenesis Software	yes	quoted user comments are empty in the text; Reddit, Insurance Forums left out
+250	Vertafore AMS360	Vertafore AMS360 ; EZLynx ; unLocked CRM ; Jenesis Software ; QQCatalyst ; Sagitta ; NowCerts ; Better Agency	yes	EZLynx Management System written as EZLynx; G2, Gartner left out (sources)
+251	Vertafore AMS360	Vertafore AMS360 ; EZLynx ; HawkSoft ; unLocked CRM ; AgencyZoom	yes	
+252	Vertafore AMS360	Vertafore AMS360 ; HawkSoft ; EZLynx ; AgencyZoom ; NowCerts	yes	UI link text in answer ignored
+253	Vertafore AMS360	Vertafore AMS360 ; EZLynx ; HawkSoft ; QQCatalyst ; AgencyZoom	yes	UI link text in answer ignored
+254	Vertafore AMS360	Vertafore AMS360 ; HawkSoft ; EZLynx ; NowCerts ; QQCatalyst	yes	
+255	InsuredMine	InsuredMine ; GloveBoxCRM ; AgencyBloc AMS+ ; EZLynx Sales Center ; Agency Revolution Fuse ; HubSpot	yes	GloveBoxCRM / Better Agency one product (rebrand), one entry
+256	InsuredMine	InsuredMine ; GloveBox CRM ; Agency Revolution Fuse ; HubSpot ; AgencyBloc AMS+ ; EZLynx	yes	AMS integrations (Applied Epic, AMS360, HawkSoft, QQCatalyst) left out
+257	InsuredMine	InsuredMine ; GloveBox CRM ; AgencyBloc ; EZLynx ; HubSpot ; Agency Revolution	yes	
+258	EZLynx	EZLynx ; Applied Epic ; HawkSoft ; AgencyBloc AMS+ ; Jenesis Software ; NextAgency ; QQCatalyst ; NowCerts ; Vertafore WorkSmart ; Indio	yes	HawkSoft CMS written as HawkSoft
+259	EZLynx	EZLynx ; HawkSoft ; Applied Epic ; AgencyBloc AMS+ ; Jenesis Software ; NextAgency ; QQCatalyst ; Vertafore WorkSmart ; Indio ; Better Agency	yes	HawkSoft CMS written as HawkSoft
+260	EZLynx	EZLynx ; HawkSoft ; Applied Epic ; AgencyBloc AMS+ ; Jenesis Software ; NextAgency ; NowCerts ; QQCatalyst ; Vertafore WorkSmart ; Indio	yes	HawkSoft CMS written as HawkSoft
+261	HubSpot Sales Hub	HubSpot Sales Hub ; Zoho CRM ; Vtiger All-In-One CRM ; Salesmate ; Applied Epic ; NextAgency ; AgencyBloc AMS+ ; A1 Tracker ; Jenesis Software ; HawkSoft ; EZLynx ; AMS360	yes	HawkSoft, EZLynx, AMS360 only in insurance-specific contenders sentence, counted
+262	HubSpot Sales Hub	HubSpot Sales Hub ; Salesforce Sales Cloud ; InsuredMine ; Better Agency ; HawkSoft ; Applied Epic ; Vertafore AMS360 ; EZLynx ; AgencyBloc AMS+ ; NextAgency ; Zoho CRM	yes	Zoho CRM only in shortlist line, counted; US Tech Automations left out (source)
+263	HubSpot Sales Hub	HubSpot Sales Hub ; Zoho CRM ; Vtiger All-In-One CRM ; Salesmate ; InsuredMine ; Better Agency ; Applied Epic ; HawkSoft ; EZLynx ; Vertafore AMS360	yes	Vtiger only in intro (G2 list), counted
+264	InsuredMine	InsuredMine ; HawkSoft ; AgencyBloc ; Applied Epic ; HubSpot Sales Hub	yes	intro third name missing ('and .'); AMS360, QQCatalyst left out (current-AMS examples)
+265	unLocked CRM	unLocked CRM ; EZLynx ; InsuredMine ; HubSpot Sales Hub ; Zoho CRM	yes	intro has blank names (X and first alternative missing); first named alternative is unLocked CRM though list item 1 is InsuredMine
+266	Better Agency	Better Agency ; HawkSoft ; InsuredMine ; Applied Epic ; unLocked CRM	yes	intro first name blank; list item 1 is InsuredMine; Better Agency (GloveBox CRM) one entry; AMS360, QQCatalyst left out
+267	InsuredMine	InsuredMine ; AgencyBloc ; HawkSoft ; HubSpot Sales Hub ; EZLynx	yes	
+268	InsuredMine	InsuredMine ; HubSpot Sales Hub ; AgencyBloc ; unLocked CRM ; HawkSoft ; Applied Epic	yes	'HawkSoft / Applied Epic' two vendors, two entries
+269	Better Agency	Better Agency ; InsuredMine ; Binder ; HubSpot Sales Hub ; AgencyBloc ; EZLynx ; NowCerts	yes	Vertafore, HawkSoft, EZLynx in closing question are current-AMS examples (EZLynx already offered)

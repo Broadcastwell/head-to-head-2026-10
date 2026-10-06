@@ -1,0 +1,1817 @@
+{
+ "questionSet": [
+  {
+   "category": "construction-project-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "dealership-management-systems",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "dental-practice-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "field-service-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "hotel-property-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "insurance-agency-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "legal-practice-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "loan-origination-software",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "residential-property-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 74
+  },
+  {
+   "category": "transportation-management-systems",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  },
+  {
+   "category": "veterinary-practice-management",
+   "head_to_head_questions": 2,
+   "alternatives_questions": 3,
+   "answers": 75,
+   "scored": 75
+  }
+ ],
+ "totals": {
+  "head_to_head_questions": 24,
+  "alternatives_questions": 36,
+  "head_to_head_answers": 360,
+  "head_to_head_scored": 359,
+  "alternatives_answers": 540,
+  "alternatives_scored": 540,
+  "capture_dates": [
+   "2026-09-22"
+  ]
+ },
+ "verdicts": {
+  "overall": {
+   "A": 38,
+   "B": 37,
+   "both": 271,
+   "depends": 12,
+   "neither": 1
+  },
+  "byEngine": {
+   "ChatGPT": {
+    "A": 11,
+    "B": 12,
+    "both": 49,
+    "depends": 0,
+    "neither": 0
+   },
+   "Claude": {
+    "A": 10,
+    "B": 5,
+    "both": 52,
+    "depends": 5,
+    "neither": 0
+   },
+   "Perplexity": {
+    "A": 12,
+    "B": 9,
+    "both": 51,
+    "depends": 0,
+    "neither": 0
+   },
+   "Google AI Overviews": {
+    "A": 3,
+    "B": 8,
+    "both": 54,
+    "depends": 6,
+    "neither": 0
+   },
+   "Google AI Mode": {
+    "A": 2,
+    "B": 3,
+    "both": 65,
+    "depends": 1,
+    "neither": 1
+   }
+  }
+ },
+ "winnerRate": {
+  "overall": {
+   "count": 75,
+   "base": 359,
+   "pct": 20.9,
+   "ci": [
+    17,
+    25.4
+   ]
+  },
+  "byEngine": {
+   "ChatGPT": {
+    "count": 23,
+    "base": 72,
+    "pct": 31.9,
+    "ci": [
+     22.3,
+     43.4
+    ]
+   },
+   "Claude": {
+    "count": 15,
+    "base": 72,
+    "pct": 20.8,
+    "ci": [
+     13.1,
+     31.6
+    ]
+   },
+   "Perplexity": {
+    "count": 21,
+    "base": 72,
+    "pct": 29.2,
+    "ci": [
+     19.9,
+     40.5
+    ]
+   },
+   "Google AI Overviews": {
+    "count": 11,
+    "base": 71,
+    "pct": 15.5,
+    "ci": [
+     8.9,
+     25.7
+    ]
+   },
+   "Google AI Mode": {
+    "count": 5,
+    "base": 72,
+    "pct": 6.9,
+    "ci": [
+     3,
+     15.2
+    ]
+   }
+  }
+ },
+ "splitRate": {
+  "count": 271,
+  "base": 359,
+  "pct": 75.5,
+  "ci": [
+   70.8,
+   79.7
+  ]
+ },
+ "winnerTable": [
+  {
+   "category": "construction-project-management",
+   "question_id": "q7",
+   "a": "Procore",
+   "b": "Buildertrend",
+   "base": 15,
+   "A": 0,
+   "B": 11,
+   "both": 3,
+   "depends": 0,
+   "neither": 1,
+   "leader": "Buildertrend",
+   "a_index": 109,
+   "b_index": 83,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "construction-project-management",
+   "question_id": "q8",
+   "a": "Kahua",
+   "b": "e-Builder",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 15,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 22,
+   "b_index": null,
+   "index_base": 150,
+   "both_measured": false
+  },
+  {
+   "category": "dealership-management-systems",
+   "question_id": "q7",
+   "a": "Tekion",
+   "b": "CDK",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 14,
+   "depends": 1,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 76,
+   "b_index": 90,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "dealership-management-systems",
+   "question_id": "q8",
+   "a": "DealerCenter",
+   "b": "Frazer",
+   "base": 15,
+   "A": 3,
+   "B": 3,
+   "both": 9,
+   "depends": 0,
+   "neither": 0,
+   "leader": "tie",
+   "a_index": 79,
+   "b_index": 59,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "dental-practice-management",
+   "question_id": "q7",
+   "a": "Open Dental",
+   "b": "Dentrix",
+   "base": 15,
+   "A": 1,
+   "B": 0,
+   "both": 13,
+   "depends": 1,
+   "neither": 0,
+   "leader": "Open Dental",
+   "a_index": 118,
+   "b_index": 120,
+   "index_base": 149,
+   "both_measured": true
+  },
+  {
+   "category": "dental-practice-management",
+   "question_id": "q8",
+   "a": "Dentrix",
+   "b": "Eaglesoft",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 15,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 120,
+   "b_index": 69,
+   "index_base": 149,
+   "both_measured": true
+  },
+  {
+   "category": "field-service-management",
+   "question_id": "q7",
+   "a": "Jobber",
+   "b": "Housecall Pro",
+   "base": 15,
+   "A": 1,
+   "B": 1,
+   "both": 12,
+   "depends": 1,
+   "neither": 0,
+   "leader": "tie",
+   "a_index": 50,
+   "b_index": 108,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "field-service-management",
+   "question_id": "q8",
+   "a": "FieldEdge",
+   "b": "ServiceTitan",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 15,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 44,
+   "b_index": 102,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "hotel-property-management",
+   "question_id": "q7",
+   "a": "Mews",
+   "b": "Cloudbeds",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 15,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 48,
+   "b_index": 115,
+   "index_base": 149,
+   "both_measured": true
+  },
+  {
+   "category": "hotel-property-management",
+   "question_id": "q8",
+   "a": "Maestro PMS",
+   "b": "RoomKeyPMS",
+   "base": 15,
+   "A": 0,
+   "B": 4,
+   "both": 11,
+   "depends": 0,
+   "neither": 0,
+   "leader": "RoomKeyPMS",
+   "a_index": 43,
+   "b_index": 15,
+   "index_base": 149,
+   "both_measured": true
+  },
+  {
+   "category": "insurance-agency-management",
+   "question_id": "q7",
+   "a": "HawkSoft",
+   "b": "EZLynx",
+   "base": 15,
+   "A": 1,
+   "B": 0,
+   "both": 14,
+   "depends": 0,
+   "neither": 0,
+   "leader": "HawkSoft",
+   "a_index": 97,
+   "b_index": 127,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "insurance-agency-management",
+   "question_id": "q8",
+   "a": "Applied Epic",
+   "b": "EZLynx",
+   "base": 15,
+   "A": 0,
+   "B": 2,
+   "both": 13,
+   "depends": 0,
+   "neither": 0,
+   "leader": "EZLynx",
+   "a_index": 127,
+   "b_index": 127,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "legal-practice-management",
+   "question_id": "q7",
+   "a": "Clio",
+   "b": "MyCase",
+   "base": 15,
+   "A": 2,
+   "B": 3,
+   "both": 10,
+   "depends": 0,
+   "neither": 0,
+   "leader": "MyCase",
+   "a_index": 126,
+   "b_index": 96,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "legal-practice-management",
+   "question_id": "q8",
+   "a": "CosmoLex",
+   "b": "Rocket Matter",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 9,
+   "depends": 6,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 77,
+   "b_index": 26,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "loan-origination-software",
+   "question_id": "q7",
+   "a": "MeridianLink",
+   "b": "nCino",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 15,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 81,
+   "b_index": 92,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "loan-origination-software",
+   "question_id": "q8",
+   "a": "Encompass",
+   "b": "Blend",
+   "base": 15,
+   "A": 2,
+   "B": 0,
+   "both": 13,
+   "depends": 0,
+   "neither": 0,
+   "leader": "Encompass",
+   "a_index": 62,
+   "b_index": 22,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "question_id": "q7",
+   "a": "Sectra",
+   "b": "Visage Imaging",
+   "base": 15,
+   "A": 6,
+   "B": 0,
+   "both": 7,
+   "depends": 2,
+   "neither": 0,
+   "leader": "Sectra",
+   "a_index": 87,
+   "b_index": 65,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "question_id": "q8",
+   "a": "Visage",
+   "b": "Intelerad",
+   "base": 15,
+   "A": 0,
+   "B": 6,
+   "both": 9,
+   "depends": 0,
+   "neither": 0,
+   "leader": "Intelerad",
+   "a_index": 65,
+   "b_index": 80,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "residential-property-management",
+   "question_id": "q7",
+   "a": "Buildium",
+   "b": "AppFolio",
+   "base": 14,
+   "A": 0,
+   "B": 0,
+   "both": 14,
+   "depends": 0,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 119,
+   "b_index": 95,
+   "index_base": 148,
+   "both_measured": true
+  },
+  {
+   "category": "residential-property-management",
+   "question_id": "q8",
+   "a": "Yardi Breeze",
+   "b": "Buildium",
+   "base": 15,
+   "A": 0,
+   "B": 7,
+   "both": 8,
+   "depends": 0,
+   "neither": 0,
+   "leader": "Buildium",
+   "a_index": 71,
+   "b_index": 119,
+   "index_base": 148,
+   "both_measured": true
+  },
+  {
+   "category": "transportation-management-systems",
+   "question_id": "q7",
+   "a": "AscendTMS",
+   "b": "Alvys",
+   "base": 15,
+   "A": 6,
+   "B": 0,
+   "both": 9,
+   "depends": 0,
+   "neither": 0,
+   "leader": "AscendTMS",
+   "a_index": 64,
+   "b_index": 58,
+   "index_base": 150,
+   "both_measured": true
+  },
+  {
+   "category": "transportation-management-systems",
+   "question_id": "q8",
+   "a": "Truckbase",
+   "b": "Alvys",
+   "base": 15,
+   "A": 3,
+   "B": 0,
+   "both": 12,
+   "depends": 0,
+   "neither": 0,
+   "leader": "Truckbase",
+   "a_index": null,
+   "b_index": 58,
+   "index_base": null,
+   "both_measured": false
+  },
+  {
+   "category": "veterinary-practice-management",
+   "question_id": "q7",
+   "a": "ezyVet",
+   "b": "Cornerstone",
+   "base": 15,
+   "A": 13,
+   "B": 0,
+   "both": 2,
+   "depends": 0,
+   "neither": 0,
+   "leader": "ezyVet",
+   "a_index": 115,
+   "b_index": 90,
+   "index_base": 149,
+   "both_measured": true
+  },
+  {
+   "category": "veterinary-practice-management",
+   "question_id": "q8",
+   "a": "Shepherd",
+   "b": "Digitail",
+   "base": 15,
+   "A": 0,
+   "B": 0,
+   "both": 14,
+   "depends": 1,
+   "neither": 0,
+   "leader": "no winner declared",
+   "a_index": 56,
+   "b_index": 67,
+   "index_base": 149,
+   "both_measured": true
+  }
+ ],
+ "repeatAgreement": {
+  "sameVerdict": {
+   "count": 89,
+   "base": 119,
+   "pct": 74.8,
+   "ci": [
+    66.3,
+    81.7
+   ]
+  },
+  "sameWinner": {
+   "count": 13,
+   "base": 119,
+   "pct": 10.9,
+   "ci": [
+    6.5,
+    17.8
+   ]
+  },
+  "cellsWithThreeScored": 119
+ },
+ "engineAgreement": {
+  "allFiveSameWinner": {
+   "count": 1,
+   "base": 24,
+   "pct": 4.2,
+   "ci": [
+    0.7,
+    20.2
+   ]
+  },
+  "allFiveSameVerdict": {
+   "count": 12,
+   "base": 24,
+   "pct": 50,
+   "ci": [
+    31.4,
+    68.6
+   ]
+  },
+  "anyEngineMajorityWinner": {
+   "count": 11,
+   "base": 24,
+   "pct": 45.8,
+   "ci": [
+    27.9,
+    64.9
+   ]
+  },
+  "conflicting": {
+   "count": 1,
+   "base": 24,
+   "pct": 4.2,
+   "ci": [
+    0.7,
+    20.2
+   ]
+  },
+  "majorities": {
+   "construction-project-management|q7": [
+    "both",
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "construction-project-management|q8": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "dealership-management-systems|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "dealership-management-systems|q8": [
+    "B",
+    "A",
+    "both",
+    "both",
+    "both"
+   ],
+   "dental-practice-management|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "dental-practice-management|q8": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "field-service-management|q7": [
+    "both",
+    "both",
+    "both",
+    "split",
+    "both"
+   ],
+   "field-service-management|q8": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "hotel-property-management|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "hotel-property-management|q8": [
+    "both",
+    "both",
+    "B",
+    "both",
+    "both"
+   ],
+   "insurance-agency-management|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "insurance-agency-management|q8": [
+    "B",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "legal-practice-management|q7": [
+    "both",
+    "A",
+    "both",
+    "both",
+    "both"
+   ],
+   "legal-practice-management|q8": [
+    "both",
+    "depends",
+    "both",
+    "depends",
+    "both"
+   ],
+   "loan-origination-software|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "loan-origination-software|q8": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "radiology-medical-imaging|q7": [
+    "A",
+    "both",
+    "A",
+    "split",
+    "both"
+   ],
+   "radiology-medical-imaging|q8": [
+    "B",
+    "both",
+    "B",
+    "both",
+    "both"
+   ],
+   "residential-property-management|q7": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ],
+   "residential-property-management|q8": [
+    "B",
+    "both",
+    "both",
+    "B",
+    "both"
+   ],
+   "transportation-management-systems|q7": [
+    "A",
+    "both",
+    "A",
+    "both",
+    "both"
+   ],
+   "transportation-management-systems|q8": [
+    "both",
+    "both",
+    "A",
+    "both",
+    "both"
+   ],
+   "veterinary-practice-management|q7": [
+    "A",
+    "A",
+    "A",
+    "A",
+    "A"
+   ],
+   "veterinary-practice-management|q8": [
+    "both",
+    "both",
+    "both",
+    "both",
+    "both"
+   ]
+  }
+ },
+ "winnerVsIndex": {
+  "winnerIsMoreNamed": {
+   "count": 46,
+   "base": 70,
+   "pct": 65.7,
+   "ci": [
+    54,
+    75.8
+   ]
+  },
+  "excludedNotMeasured": 3,
+  "excludedTied": 2
+ },
+ "firstNamed": {
+  "aFirst": {
+   "count": 256,
+   "base": 359,
+   "pct": 71.3,
+   "ci": [
+    66.4,
+    75.7
+   ]
+  },
+  "winnerIsFirstNamed": {
+   "count": 69,
+   "base": 75,
+   "pct": 92,
+   "ci": [
+    83.6,
+    96.3
+   ]
+  },
+  "winnerIsA": {
+   "count": 38,
+   "base": 75,
+   "pct": 50.7,
+   "ci": [
+    39.6,
+    61.7
+   ]
+  }
+ },
+ "winnerCites": {
+  "base": 75,
+  "winnerOwn": {
+   "count": 45,
+   "base": 75,
+   "pct": 60,
+   "ci": [
+    48.7,
+    70.3
+   ]
+  },
+  "rivalOwn": {
+   "count": 31,
+   "base": 75,
+   "pct": 41.3,
+   "ci": [
+    30.9,
+    52.6
+   ]
+  },
+  "thirdParty": {
+   "count": 63,
+   "base": 75,
+   "pct": 84,
+   "ci": [
+    74.1,
+    90.6
+   ]
+  },
+  "none": {
+   "count": 0,
+   "base": 75,
+   "pct": 0,
+   "ci": [
+    0,
+    4.9
+   ]
+  },
+  "citations": 743,
+  "citationsByClass": {
+   "winner_own": 68,
+   "rival_own": 51,
+   "third_party": 624
+  }
+ },
+ "winnerCitesByEngine": {
+  "ChatGPT": {
+   "base": 23,
+   "winnerOwn": {
+    "count": 17,
+    "base": 23,
+    "pct": 73.9,
+    "ci": [
+     53.5,
+     87.5
+    ]
+   },
+   "rivalOwn": {
+    "count": 21,
+    "base": 23,
+    "pct": 91.3,
+    "ci": [
+     73.2,
+     97.6
+    ]
+   },
+   "thirdParty": {
+    "count": 11,
+    "base": 23,
+    "pct": 47.8,
+    "ci": [
+     29.2,
+     67
+    ]
+   },
+   "none": {
+    "count": 0,
+    "base": 23,
+    "pct": 0,
+    "ci": [
+     0,
+     14.3
+    ]
+   },
+   "citations": 87,
+   "citationsByClass": {
+    "winner_own": 34,
+    "rival_own": 32,
+    "third_party": 21
+   }
+  },
+  "Claude": {
+   "base": 15,
+   "winnerOwn": {
+    "count": 5,
+    "base": 15,
+    "pct": 33.3,
+    "ci": [
+     15.2,
+     58.3
+    ]
+   },
+   "rivalOwn": {
+    "count": 1,
+    "base": 15,
+    "pct": 6.7,
+    "ci": [
+     1.2,
+     29.8
+    ]
+   },
+   "thirdParty": {
+    "count": 15,
+    "base": 15,
+    "pct": 100,
+    "ci": [
+     79.6,
+     100
+    ]
+   },
+   "none": {
+    "count": 0,
+    "base": 15,
+    "pct": 0,
+    "ci": [
+     0,
+     20.4
+    ]
+   },
+   "citations": 159,
+   "citationsByClass": {
+    "winner_own": 5,
+    "rival_own": 1,
+    "third_party": 153
+   }
+  },
+  "Perplexity": {
+   "base": 21,
+   "winnerOwn": {
+    "count": 12,
+    "base": 21,
+    "pct": 57.1,
+    "ci": [
+     36.5,
+     75.5
+    ]
+   },
+   "rivalOwn": {
+    "count": 4,
+    "base": 21,
+    "pct": 19,
+    "ci": [
+     7.7,
+     40
+    ]
+   },
+   "thirdParty": {
+    "count": 21,
+    "base": 21,
+    "pct": 100,
+    "ci": [
+     84.5,
+     100
+    ]
+   },
+   "none": {
+    "count": 0,
+    "base": 21,
+    "pct": 0,
+    "ci": [
+     0,
+     15.5
+    ]
+   },
+   "citations": 384,
+   "citationsByClass": {
+    "winner_own": 15,
+    "rival_own": 12,
+    "third_party": 357
+   }
+  },
+  "Google AI Overviews": {
+   "base": 11,
+   "winnerOwn": {
+    "count": 8,
+    "base": 11,
+    "pct": 72.7,
+    "ci": [
+     43.4,
+     90.3
+    ]
+   },
+   "rivalOwn": {
+    "count": 3,
+    "base": 11,
+    "pct": 27.3,
+    "ci": [
+     9.7,
+     56.6
+    ]
+   },
+   "thirdParty": {
+    "count": 11,
+    "base": 11,
+    "pct": 100,
+    "ci": [
+     74.1,
+     100
+    ]
+   },
+   "none": {
+    "count": 0,
+    "base": 11,
+    "pct": 0,
+    "ci": [
+     0,
+     25.9
+    ]
+   },
+   "citations": 88,
+   "citationsByClass": {
+    "winner_own": 10,
+    "rival_own": 3,
+    "third_party": 75
+   }
+  },
+  "Google AI Mode": {
+   "base": 5,
+   "winnerOwn": {
+    "count": 3,
+    "base": 5,
+    "pct": 60,
+    "ci": [
+     23.1,
+     88.2
+    ]
+   },
+   "rivalOwn": {
+    "count": 2,
+    "base": 5,
+    "pct": 40,
+    "ci": [
+     11.8,
+     76.9
+    ]
+   },
+   "thirdParty": {
+    "count": 5,
+    "base": 5,
+    "pct": 100,
+    "ci": [
+     56.6,
+     100
+    ]
+   },
+   "none": {
+    "count": 0,
+    "base": 5,
+    "pct": 0,
+    "ci": [
+     0,
+     43.4
+    ]
+   },
+   "citations": 25,
+   "citationsByClass": {
+    "winner_own": 4,
+    "rival_own": 3,
+    "third_party": 18
+   }
+  }
+ },
+ "topThirdParty": [
+  {
+   "domain": "ustechautomations.com",
+   "answers": 26,
+   "base": 75
+  },
+  {
+   "domain": "capterra.com",
+   "answers": 21,
+   "base": 75
+  },
+  {
+   "domain": "reddit.com",
+   "answers": 16,
+   "base": 75
+  },
+  {
+   "domain": "softwareadvice.com",
+   "answers": 13,
+   "base": 75
+  },
+  {
+   "domain": "g2.com",
+   "answers": 11,
+   "base": 75
+  },
+  {
+   "domain": "projul.com",
+   "answers": 10,
+   "base": 75
+  },
+  {
+   "domain": "puppilot.co",
+   "answers": 10,
+   "base": 75
+  },
+  {
+   "domain": "selecthub.com",
+   "answers": 10,
+   "base": 75
+  },
+  {
+   "domain": "engage.klasresearch.com",
+   "answers": 9,
+   "base": 75
+  },
+  {
+   "domain": "getapp.com",
+   "answers": 7,
+   "base": 75
+  }
+ ],
+ "allHeadToHeadCites": {
+  "anyOwnSite": {
+   "count": 241,
+   "base": 359,
+   "pct": 67.1,
+   "ci": [
+    62.1,
+    71.8
+   ]
+  },
+  "none": {
+   "count": 1,
+   "base": 359,
+   "pct": 0.3,
+   "ci": [
+    0,
+    1.6
+   ]
+  }
+ },
+ "alternatives": [
+  {
+   "category": "construction-project-management",
+   "question_id": "q4",
+   "x": "Procore",
+   "base": 15,
+   "firstAlternative": "Autodesk Construction Cloud",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Autodesk Construction Cloud",
+   "mostOfferedCount": 15,
+   "meanListLength": 8
+  },
+  {
+   "category": "construction-project-management",
+   "question_id": "q5",
+   "x": "Buildertrend",
+   "base": 15,
+   "firstAlternative": "JobTread",
+   "firstCount": 11,
+   "runnerUp": "Procore (2)",
+   "distinctFirsts": 4,
+   "xNamed": 15,
+   "mostOffered": "Contractor Foreman",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.1
+  },
+  {
+   "category": "construction-project-management",
+   "question_id": "q6",
+   "x": "Autodesk Construction Cloud",
+   "base": 15,
+   "firstAlternative": "Procore",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Procore",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.9
+  },
+  {
+   "category": "dealership-management-systems",
+   "question_id": "q4",
+   "x": "CDK Global",
+   "base": 15,
+   "firstAlternative": "Tekion",
+   "firstCount": 9,
+   "runnerUp": "DealerCenter (4)",
+   "distinctFirsts": 3,
+   "xNamed": 15,
+   "mostOffered": "DealerCenter",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.1
+  },
+  {
+   "category": "dealership-management-systems",
+   "question_id": "q5",
+   "x": "Reynolds and Reynolds",
+   "base": 15,
+   "firstAlternative": "Tekion",
+   "firstCount": 8,
+   "runnerUp": "CDK Global (7)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "CDK Global",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.1
+  },
+  {
+   "category": "dealership-management-systems",
+   "question_id": "q6",
+   "x": "Dealertrack DMS",
+   "base": 15,
+   "firstAlternative": "CDK Global",
+   "firstCount": 9,
+   "runnerUp": "Tekion (6)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "CDK Global",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.7
+  },
+  {
+   "category": "dental-practice-management",
+   "question_id": "q4",
+   "x": "Dentrix",
+   "base": 15,
+   "firstAlternative": "Open Dental",
+   "firstCount": 13,
+   "runnerUp": "Curve Dental (2)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "CareStack",
+   "mostOfferedCount": 15,
+   "meanListLength": 5.8
+  },
+  {
+   "category": "dental-practice-management",
+   "question_id": "q5",
+   "x": "Eaglesoft",
+   "base": 15,
+   "firstAlternative": "Curve Dental",
+   "firstCount": 9,
+   "runnerUp": "Open Dental (6)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "Curve Dental",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.1
+  },
+  {
+   "category": "dental-practice-management",
+   "question_id": "q6",
+   "x": "Open Dental",
+   "base": 15,
+   "firstAlternative": "Curve Dental",
+   "firstCount": 11,
+   "runnerUp": "Dentrix (3)",
+   "distinctFirsts": 3,
+   "xNamed": 15,
+   "mostOffered": "Curve Dental",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.7
+  },
+  {
+   "category": "field-service-management",
+   "question_id": "q4",
+   "x": "ServiceTitan",
+   "base": 15,
+   "firstAlternative": "Jobber",
+   "firstCount": 10,
+   "runnerUp": "Housecall Pro (5)",
+   "distinctFirsts": 2,
+   "xNamed": 14,
+   "mostOffered": "Housecall Pro",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.9
+  },
+  {
+   "category": "field-service-management",
+   "question_id": "q5",
+   "x": "Housecall Pro",
+   "base": 15,
+   "firstAlternative": "Jobber",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Jobber",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.3
+  },
+  {
+   "category": "field-service-management",
+   "question_id": "q6",
+   "x": "Jobber",
+   "base": 15,
+   "firstAlternative": "Housecall Pro",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Housecall Pro",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.1
+  },
+  {
+   "category": "hotel-property-management",
+   "question_id": "q4",
+   "x": "Opera PMS",
+   "base": 15,
+   "firstAlternative": "Cloudbeds",
+   "firstCount": 10,
+   "runnerUp": "Mews (5)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "Cloudbeds",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.7
+  },
+  {
+   "category": "hotel-property-management",
+   "question_id": "q5",
+   "x": "Cloudbeds",
+   "base": 15,
+   "firstAlternative": "Little Hotelier",
+   "firstCount": 9,
+   "runnerUp": "Mews (6)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "Little Hotelier",
+   "mostOfferedCount": 15,
+   "meanListLength": 8
+  },
+  {
+   "category": "hotel-property-management",
+   "question_id": "q6",
+   "x": "Maestro PMS",
+   "base": 15,
+   "firstAlternative": "Cloudbeds",
+   "firstCount": 9,
+   "runnerUp": "Agilysys (3)",
+   "distinctFirsts": 4,
+   "xNamed": 15,
+   "mostOffered": "Cloudbeds",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.3
+  },
+  {
+   "category": "insurance-agency-management",
+   "question_id": "q4",
+   "x": "EZLynx",
+   "base": 15,
+   "firstAlternative": "Applied Epic",
+   "firstCount": 11,
+   "runnerUp": "HawkSoft (4)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "AMS360",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.7
+  },
+  {
+   "category": "insurance-agency-management",
+   "question_id": "q5",
+   "x": "Applied Epic",
+   "base": 15,
+   "firstAlternative": "AMS360",
+   "firstCount": 14,
+   "runnerUp": "QQCatalyst (1)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "AMS360",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.7
+  },
+  {
+   "category": "insurance-agency-management",
+   "question_id": "q6",
+   "x": "AgencyZoom",
+   "base": 15,
+   "firstAlternative": "InsuredMine",
+   "firstCount": 6,
+   "runnerUp": "EZLynx (3)",
+   "distinctFirsts": 5,
+   "xNamed": 15,
+   "mostOffered": "AgencyBloc",
+   "mostOfferedCount": 12,
+   "meanListLength": 7.6
+  },
+  {
+   "category": "legal-practice-management",
+   "question_id": "q4",
+   "x": "Clio",
+   "base": 15,
+   "firstAlternative": "MyCase",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "CosmoLex",
+   "mostOfferedCount": 15,
+   "meanListLength": 5.2
+  },
+  {
+   "category": "legal-practice-management",
+   "question_id": "q5",
+   "x": "PracticePanther",
+   "base": 15,
+   "firstAlternative": "Clio",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Clio",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.1
+  },
+  {
+   "category": "legal-practice-management",
+   "question_id": "q6",
+   "x": "Smokeball",
+   "base": 15,
+   "firstAlternative": "Clio",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Clio",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.5
+  },
+  {
+   "category": "loan-origination-software",
+   "question_id": "q4",
+   "x": "Encompass",
+   "base": 15,
+   "firstAlternative": "LendingPad",
+   "firstCount": 6,
+   "runnerUp": "ARIVE (3)",
+   "distinctFirsts": 5,
+   "xNamed": 15,
+   "mostOffered": "LendingPad",
+   "mostOfferedCount": 12,
+   "meanListLength": 9.5
+  },
+  {
+   "category": "loan-origination-software",
+   "question_id": "q5",
+   "x": "MeridianLink",
+   "base": 15,
+   "firstAlternative": "nCino",
+   "firstCount": 4,
+   "runnerUp": "Encompass (3)",
+   "distinctFirsts": 7,
+   "xNamed": 15,
+   "mostOffered": "nCino",
+   "mostOfferedCount": 15,
+   "meanListLength": 9.7
+  },
+  {
+   "category": "loan-origination-software",
+   "question_id": "q6",
+   "x": "nCino",
+   "base": 15,
+   "firstAlternative": "Abrigo",
+   "firstCount": 12,
+   "runnerUp": "Encompass (2)",
+   "distinctFirsts": 3,
+   "xNamed": 15,
+   "mostOffered": "Abrigo",
+   "mostOfferedCount": 15,
+   "meanListLength": 8.1
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "question_id": "q4",
+   "x": "Sectra PACS",
+   "base": 15,
+   "firstAlternative": "Visage Imaging",
+   "firstCount": 8,
+   "runnerUp": "Agfa HealthCare Enterprise Imaging (4)",
+   "distinctFirsts": 3,
+   "xNamed": 15,
+   "mostOffered": "Fujifilm Synapse",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.7
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "question_id": "q5",
+   "x": "Intelerad",
+   "base": 15,
+   "firstAlternative": "Sectra",
+   "firstCount": 7,
+   "runnerUp": "RamSoft (4)",
+   "distinctFirsts": 4,
+   "xNamed": 15,
+   "mostOffered": "Sectra",
+   "mostOfferedCount": 14,
+   "meanListLength": 7.1
+  },
+  {
+   "category": "radiology-medical-imaging",
+   "question_id": "q6",
+   "x": "Philips IntelliSpace PACS",
+   "base": 15,
+   "firstAlternative": "Sectra",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "Fujifilm Synapse",
+   "mostOfferedCount": 15,
+   "meanListLength": 7
+  },
+  {
+   "category": "residential-property-management",
+   "question_id": "q4",
+   "x": "AppFolio",
+   "base": 15,
+   "firstAlternative": "Buildium",
+   "firstCount": 14,
+   "runnerUp": "Rent Manager (1)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "Buildium",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.7
+  },
+  {
+   "category": "residential-property-management",
+   "question_id": "q5",
+   "x": "Buildium",
+   "base": 15,
+   "firstAlternative": "DoorLoop",
+   "firstCount": 12,
+   "runnerUp": "AppFolio (3)",
+   "distinctFirsts": 2,
+   "xNamed": 13,
+   "mostOffered": "AppFolio",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.3
+  },
+  {
+   "category": "residential-property-management",
+   "question_id": "q6",
+   "x": "Azibo",
+   "base": 15,
+   "firstAlternative": "Baselane",
+   "firstCount": 11,
+   "runnerUp": "TurboTenant (4)",
+   "distinctFirsts": 2,
+   "xNamed": 15,
+   "mostOffered": "Stessa",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.7
+  },
+  {
+   "category": "transportation-management-systems",
+   "question_id": "q4",
+   "x": "MercuryGate",
+   "base": 15,
+   "firstAlternative": "Oracle Transportation Management",
+   "firstCount": 9,
+   "runnerUp": "Descartes (3)",
+   "distinctFirsts": 3,
+   "xNamed": 13,
+   "mostOffered": "Oracle Transportation Management",
+   "mostOfferedCount": 15,
+   "meanListLength": 9
+  },
+  {
+   "category": "transportation-management-systems",
+   "question_id": "q5",
+   "x": "AscendTMS",
+   "base": 15,
+   "firstAlternative": "Tailwind TMS",
+   "firstCount": 5,
+   "runnerUp": "Freightview (4)",
+   "distinctFirsts": 5,
+   "xNamed": 10,
+   "mostOffered": "McLeod Software",
+   "mostOfferedCount": 12,
+   "meanListLength": 9.3
+  },
+  {
+   "category": "transportation-management-systems",
+   "question_id": "q6",
+   "x": "McLeod",
+   "base": 15,
+   "firstAlternative": "Tai TMS",
+   "firstCount": 11,
+   "runnerUp": "Descartes (2)",
+   "distinctFirsts": 4,
+   "xNamed": 13,
+   "mostOffered": "Tai TMS",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.5
+  },
+  {
+   "category": "veterinary-practice-management",
+   "question_id": "q4",
+   "x": "IDEXX Cornerstone",
+   "base": 15,
+   "firstAlternative": "ezyVet",
+   "firstCount": 15,
+   "runnerUp": "",
+   "distinctFirsts": 1,
+   "xNamed": 15,
+   "mostOffered": "ezyVet",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.3
+  },
+  {
+   "category": "veterinary-practice-management",
+   "question_id": "q5",
+   "x": "ezyVet",
+   "base": 15,
+   "firstAlternative": "Covetrus Pulse",
+   "firstCount": 6,
+   "runnerUp": "Shepherd (5)",
+   "distinctFirsts": 4,
+   "xNamed": 15,
+   "mostOffered": "Shepherd",
+   "mostOfferedCount": 15,
+   "meanListLength": 6.9
+  },
+  {
+   "category": "veterinary-practice-management",
+   "question_id": "q6",
+   "x": "Covetrus Pulse",
+   "base": 15,
+   "firstAlternative": "ezyVet",
+   "firstCount": 5,
+   "runnerUp": "IDEXX Cornerstone (4)",
+   "distinctFirsts": 4,
+   "xNamed": 11,
+   "mostOffered": "ezyVet",
+   "mostOfferedCount": 15,
+   "meanListLength": 7.1
+  }
+ ],
+ "altTotals": {
+  "xNamed": {
+   "count": 524,
+   "base": 540,
+   "pct": 97,
+   "ci": [
+    95.2,
+    98.2
+   ]
+  },
+  "xNamedByEngine": {
+   "ChatGPT": {
+    "count": 107,
+    "base": 108,
+    "pct": 99.1,
+    "ci": [
+     94.9,
+     99.8
+    ]
+   },
+   "Claude": {
+    "count": 108,
+    "base": 108,
+    "pct": 100,
+    "ci": [
+     96.6,
+     100
+    ]
+   },
+   "Perplexity": {
+    "count": 104,
+    "base": 108,
+    "pct": 96.3,
+    "ci": [
+     90.9,
+     98.6
+    ]
+   },
+   "Google AI Overviews": {
+    "count": 100,
+    "base": 108,
+    "pct": 92.6,
+    "ci": [
+     86.1,
+     96.2
+    ]
+   },
+   "Google AI Mode": {
+    "count": 105,
+    "base": 108,
+    "pct": 97.2,
+    "ci": [
+     92.1,
+     99.1
+    ]
+   }
+  },
+  "sameFirstAllFifteen": 9,
+  "questions": 36,
+  "modalFirstShare": {
+   "count": 384,
+   "base": 540,
+   "pct": 71.1,
+   "ci": [
+    67.1,
+    74.8
+   ]
+  }
+ },
+ "reading": {
+  "headToHeadDisagreements": 11,
+  "headToHeadConsistencyChanges": 22,
+  "alternativesThirdReads": 23
+ }
+}

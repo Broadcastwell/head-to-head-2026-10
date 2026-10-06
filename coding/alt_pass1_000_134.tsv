@@ -1,0 +1,135 @@
+0	Autodesk Forma Build	Autodesk Forma Build ; Trimble ProjectSight ; Buildertrend ; Contractor Foreman ; Fieldwire ; CMiC	yes	Fieldwire by Hilti written as Fieldwire
+1	Autodesk Forma Build	Autodesk Forma Build ; Trimble ProjectSight ; Buildertrend ; JobTread ; Fieldwire ; Contractor Foreman	yes	
+2	Autodesk Forma Build	Autodesk Forma Build ; Trimble ProjectSight ; Buildertrend ; JobTread ; Fieldwire ; Contractor Foreman ; CMiC	yes	CMiC offered as one additional option
+3	Autodesk Construction Cloud	Autodesk Construction Cloud ; Buildertrend ; Fieldwire ; Oracle Primavera ; CMiC ; Mastt ; Bluebeam ; Contractor Foreman	yes	BuildingConnected passing (Autodesk module) left out
+4	Autodesk Construction Cloud	Autodesk Construction Cloud ; Oracle Primavera ; Buildertrend ; Fieldwire ; CMiC ; Contractor Foreman ; HCSS ; Mastt ; Jonas	yes	Jonas only in closing line suits enterprise firms, included as offered
+5	Autodesk Construction Cloud	Autodesk Construction Cloud ; Oracle Primavera ; Buildertrend ; Fieldwire ; CMiC ; Contractor Foreman ; Bluebeam ; HCSS ; Mastt ; INGENIOUS.BUILD	yes	
+6	Autodesk Forma	Autodesk Forma ; Fieldwire ; Buildertrend ; Contractor Foreman ; Premier Construction Software ; Acumatica Construction Edition ; CMiC ; Oracle Primavera ; Viewpoint ; Kahua ; Newforma ; Smartsheet ; Wrike ; ProjectManager	yes	Autodesk written as Autodesk Forma / Autodesk Construction Cloud, one entry
+7	Autodesk Forma	Autodesk Forma ; Fieldwire ; Buildertrend ; Contractor Foreman ; Premier Construction Software ; Oracle Primavera ; CMiC ; Viewpoint ; Kahua ; InEight ; Oracle Aconex	yes	Autodesk written as Autodesk Forma / Autodesk Construction Cloud, one entry
+8	Autodesk Forma	Autodesk Forma ; Fieldwire ; Buildertrend ; Contractor Foreman ; Oracle Primavera ; CMiC ; Premier Construction Software ; Smartsheet ; Jobber ; Wrike ; Viewpoint ; Acumatica Construction Edition ; Kahua ; InEight	yes	Autodesk written as Autodesk Forma / Autodesk Construction Cloud, one entry
+9	Autodesk Construction Cloud	Autodesk Construction Cloud ; Buildertrend ; Premier Construction Software ; CMiC ; Fieldwire ; Kahua	yes	opening line has a dropped name after Premier or
+10	Autodesk Build	Autodesk Build ; Fieldwire ; Buildertrend ; Contractor Foreman ; CMiC ; Premier Construction Software ; Kahua	yes	
+11	Autodesk Build	Autodesk Build ; CMiC ; Fieldwire ; Contractor Foreman ; Buildertrend ; Buildxact	yes	CMiC Construction Platform written as CMiC
+12	Autodesk Construction Cloud	Autodesk Construction Cloud ; Fieldwire ; Buildertrend ; CMiC ; Kahua	yes	BuildingConnected passing (Autodesk tool) left out
+13	Autodesk Build	Autodesk Build ; Fieldwire ; Buildertrend ; InEight ; HCSS ; Contractor Foreman	yes	duplicated budget item with no vendor name left out; PlanGrid passing left out
+14	Autodesk Construction Cloud	Autodesk Construction Cloud ; Fieldwire ; Buildertrend ; CMiC ; Contractor Foreman ; Kahua	yes	
+15	JobTread	JobTread ; Contractor Foreman ; Buildxact ; Houzz Pro ; Procore	yes	CoConstruct explicitly left off by the answer, not offered
+16	JobTread	JobTread ; Contractor Foreman ; Buildxact ; Houzz Pro ; Procore	yes	CoConstruct explicitly left off by the answer, not offered
+17	JobTread	JobTread ; Contractor Foreman ; Buildxact ; Houzz Pro ; Procore	yes	
+18	Procore	Procore ; JobTread ; Contractor Foreman ; Buildern ; Fieldwire ; Houzz Pro ; Premier Construction Software ; Knowify ; JobNimbus	yes	QuickBooks integration passing left out
+19	JobTread	JobTread ; Procore ; Contractor Foreman ; Buildern ; Houzz Pro ; Fieldwire ; CoConstruct ; Premier Construction Software ; ProjectManager	yes	opening summary line names JobTread before numbered list starting Procore
+20	Procore	Procore ; JobTread ; Contractor Foreman ; CoConstruct ; Fieldwire ; Premier Construction Software ; Buildern ; Houzz Pro ; Buildxact ; ProjectManager	yes	QuickBooks integration passing left out
+21	JobTread	JobTread ; Procore ; Contractor Foreman ; Fieldwire ; Houzz Pro ; JobNimbus ; BuildBook ; RedTeam ; Smartsheet ; monday.com ; Autodesk Forma	yes	Autodesk Forma / Autodesk Construction Cloud as one entry
+22	JobTread	JobTread ; Procore ; Contractor Foreman ; Houzz Pro ; Fieldwire ; BuildBook ; Foreman ; Premier Construction Software ; Autodesk Forma ; Smartsheet ; monday.com ; Wrike	yes	Autodesk Forma / Autodesk Construction Cloud as one entry; Capterra and G2 sources left out
+23	JobTread	JobTread ; Procore ; Contractor Foreman ; Fieldwire ; BuildBook ; Houzz Pro ; CoConstruct ; Smartsheet ; monday.com ; ClickUp ; Autodesk Forma	yes	Autodesk Forma / Autodesk Construction Cloud as one entry
+24	Houzz Pro	Houzz Pro ; Contractor Foreman ; Procore ; BuildBook ; AccuLynx	yes	opening line has a dropped name after and
+25	Contractor Foreman	Contractor Foreman ; Procore ; JobTread ; Houzz Pro	yes	opening line drops a name before offers budget-first, so Contractor Foreman is first by text; headings start JobTread
+26	JobTread	JobTread ; Contractor Foreman ; Procore ; Houzz Pro ; ConstructionOnline	yes	Software Advice review site left out
+27	JobTread	JobTread ; Contractor Foreman ; Procore ; Houzz Pro ; Projul	yes	
+28	JobTread	JobTread ; Contractor Foreman ; Houzz Pro ; Procore ; Fieldwire	yes	QuickBooks integration passing left out
+29	JobTread	JobTread ; Contractor Foreman ; Houzz Pro ; Projul ; Procore	yes	CoConstruct passing (acquired by X) left out
+30	Procore	Procore ; Trimble ProjectSight ; Oracle Aconex ; Fieldwire ; Dalux ; Revizto	yes	Forma Design Collaboration is X own product, left out
+31	Procore	Procore ; Trimble ProjectSight ; Oracle Aconex ; Fieldwire ; Dalux ; Revizto ; Buildertrend	yes	
+32	Procore	Procore ; Trimble ProjectSight ; Oracle Aconex ; Dalux ; Fieldwire ; Revizto ; Buildertrend	yes	Dalux Box + Field written as Dalux; Vista and Spectrum passing left out
+33	Procore	Procore ; Oracle Aconex ; Fieldwire ; Buildertrend ; Bluebeam ; Revizto ; Trimble Connect ; Dalux ; InEight ; Archdesk	yes	Buildertrend integration partners left out
+34	Procore	Procore ; Oracle Aconex ; Fieldwire ; Buildertrend ; Bluebeam ; PlanGrid ; Trimble Connect ; Revizto ; InEight ; Dalux	yes	PlanGrid (an Autodesk product) offered as an alternative, kept
+35	Procore	Procore ; Fieldwire ; Bluebeam ; Buildertrend ; Newforma ; Dalux ; RedTeam ; eSUB	yes	Newforma Project Center / Newforma Konekt one heading, one entry
+36	Procore	Procore ; CMiC ; Oracle Aconex ; InEight ; Fieldwire ; Bluebeam Revu ; Buildertrend ; RedTeam	yes	
+37	Procore	Procore ; CMiC ; Oracle Aconex ; InEight ; Fieldwire ; Bluebeam ; RedTeam Flex ; Bentley ProjectWise ; Newforma	yes	Bentley ProjectWise and Newforma offered in closing sentence as better fits, kept
+38	Procore	Procore ; CMiC ; Oracle Aconex ; InEight ; Fieldwire ; Bluebeam ; Buildertrend ; Newforma	yes	
+39	Procore	Procore ; Trimble Connect ; Dalux ; Bricsys 24/7 ; Bentley Systems	yes	last item has its product name dropped, only by Bentley Systems remains; entered as Bentley Systems
+40	Procore	Procore ; Trimble Connect ; Fieldwire ; Archdesk ; Dalux	yes	heading Trimble Connect & ProjectSight is one alternative, one entry
+41	Procore	Procore ; Trimble Connect ; Dalux ; Bentley ProjectWise	yes	Sage, QuickBooks, SketchUp, Tekla integrations and G2 left out
+42	Procore	Procore ; Revizto ; Oracle Aconex ; Fieldwire ; Archdesk	yes	heading Oracle Aconex / Primavera one entry; BIM 360 is X own
+43	Procore	Procore ; Oracle Aconex ; Trimble Construction One ; Fieldwire ; Buildertrend	yes	combined headings one entry each (Oracle Aconex & Primavera; Trimble Construction One with Viewpoint, e-Builder, ProjectSight; Buildertrend / CoConstruct); FinishLine in quoted source left out
+44	Procore	Procore ; Fieldwire ; Bluebeam Revu ; Oracle Construction and Engineering ; Revizto ; Trimble Connect	yes	Oracle heading written as Oracle Construction and Engineering (Aconex / Primavera), one entry; Revizto or Trimble Connect two vendors, two entries
+45	Tekion	Tekion ; Reynolds & Reynolds ; Dealertrack DMS ; PBS Systems ; DealerCenter	yes	X named as CDK; VinSolutions passing left out
+46	Tekion	Tekion ; Reynolds & Reynolds ; Dealertrack ; PBS Systems ; Auto/Mate ; DealerCenter	yes	X named as CDK; DealerSocket CRM passing (Solera product) left out
+47	Tekion	Tekion ; Reynolds and Reynolds ; Dealertrack DMS ; PBS Systems ; DealerCenter	yes	VinSolutions, vAuto, Xtime passing left out
+48	Reynolds and Reynolds	Reynolds and Reynolds ; Tekion ; Dealertrack DMS ; DealerSocket ; Cox Automotive ; DealerBuilt ; DealerCenter ; Dabadu XRM ; AutoManager ; Blackpurl	yes	Cox Automotive heading kept as own entry; ADP and Reynolds product names in switch program, Shopify, QuickBooks, Xero left out
+49	Reynolds & Reynolds	Reynolds & Reynolds ; Tekion ; Dealertrack DMS ; DealerSocket ; DealerCenter ; PBS Systems ; Autosoft ; DealerBuilt ; Blackpurl ; AutoManager	yes	Shopify, Quickbooks, Xero integrations left out
+50	Tekion	Tekion ; Reynolds and Reynolds ; Dealertrack DMS ; DealerCenter ; DealerBuilt ; VinSolutions Connect CRM ; Autodeals ; Frazer DMS	yes	DealerBuilt (Lightyear DMS) written as DealerBuilt; OEM names passing left out
+51	DealerCenter	DealerCenter ; Tekion ; Dealertrack DMS ; Reynolds and Reynolds ; Odoo	yes	Cox Automotive passing left out
+52	DealerCenter	DealerCenter ; Tekion ; Dealertrack DMS ; Reynolds and Reynolds ; Odoo ; AutoManager	yes	
+53	DealerCenter	DealerCenter ; Tekion ; Reynolds and Reynolds ; Dealertrack ; Odoo ; AutoManager ; Carsforsale.com	yes	Capterra, RFP.wiki, G2, GetApp sources left out
+54	DealerCenter	DealerCenter ; Tekion ; Dealertrack DMS	yes	two table rows have dropped vendor names, not counted
+55	Tekion	Tekion ; DealerCenter ; Dealertrack DMS ; Reynolds and Reynolds ; Carsforsale.com ; AutoManager ; Odoo ; Procede Software	yes	one SMB item has a dropped vendor name, not counted
+56	Tekion	Tekion ; Dealertrack DMS ; DealerCenter ; Reynolds and Reynolds	yes	two table rows have dropped vendor names, not counted
+57	Tekion	Tekion ; Dealertrack DMS ; Reynolds and Reynolds ; DealerCenter ; PBS Systems	yes	
+58	Tekion	Tekion ; Dealertrack DMS ; Reynolds and Reynolds ; DealerCenter	yes	
+59	Tekion	Tekion ; Dealertrack DMS ; DealerCenter ; Reynolds and Reynolds ; Auto/Mate	yes	
+60	Tekion	Tekion ; CDK Global ; Dealertrack DMS ; PBS Systems ; Dominion VUE	yes	VinSolutions, Xtime, Microsoft Azure passing left out
+61	Tekion	Tekion ; CDK Global ; Dealertrack ; PBS Systems ; DealerBuilt	yes	
+62	Tekion	Tekion ; CDK Global ; Dealertrack ; PBS Systems ; DealerBuilt ; DealerCenter ; Frazer	yes	DealerCenter and Frazer offered for independent dealers, kept
+63	CDK Global	CDK Global ; Dealertrack ; Solera DealerSocket ; Tekion ; RouteOne ; VinSolutions Connect CRM ; Autosoft ; Auto/Mate ; AutoStar ; Dominion Dealer Solutions	yes	heading Autosoft / Auto/Mate names two separate vendors, two entries
+64	CDK Global	CDK Global ; Dealertrack ; Solera DealerSocket ; Tekion ; RouteOne ; VinSolutions ; AutoStar ; Dominion Dealer Solutions	yes	
+65	CDK Global	CDK Global ; Tekion ; Dealertrack DMS ; Solera DealerSocket ; Dominion VUE ; Auto/Mate ; DealerBuilt ; Autosoft ; PBS ; VinSolutions ; AutoStar ; DealerCenter	yes	DealerBuilt, Autosoft, PBS from one sentence in Auto/Mate section (serve dealers who need core functionality), kept as offered; DealerCenter only in how-to-choose line, kept; Cox brands passing left out
+66	Tekion	Tekion ; CDK Global ; DealerCenter ; Dealertrack ; DealerBuilt ; PBS Systems ; DealerSocket ; Karmak	yes	
+67	Tekion	Tekion ; CDK Global ; Dealertrack ; DealerCenter ; DealerBuilt ; PBS Systems ; Karmak ; Lightspeed DMS ; HubSpot ; Odoo ; Workbooks ; VinSolutions ; DealerSocket ; ELEAD1ONE	yes	CRM and marketing alternatives offered conditionally, kept
+68	CDK Global	CDK Global ; Tekion ; Dealertrack ; DealerCenter ; HubSpot ; Odoo ; Workbooks ; DealerBuilt ; PBS Systems ; DealerSocket	yes	HubSpot, Odoo, Workbooks offered as broader CRM alternatives, kept
+69	CDK Global	CDK Global ; Tekion ; Dealertrack ; DealerSocket	yes	Fortellis (CDK marketplace) passing left out; DealerSocket (Focus / Auto/Mate) one entry
+70	Tekion	Tekion ; CDK Global ; Dealertrack ; DealerSocket	yes	heading DealerSocket / Auto/Mate one alternative, one entry
+71	CDK Global	CDK Global ; Tekion ; Dealertrack ; Autosoft	yes	
+72	Tekion	Tekion ; CDK Global ; Dealertrack ; PBS Systems ; Auto/Mate	yes	VinSolutions CRM passing left out
+73	CDK Global	CDK Global ; Tekion ; Dealertrack ; PBS Systems ; DealerSocket ; Autosoft	yes	
+74	Tekion	Tekion ; CDK Global ; Dealertrack ; PBS Systems ; Dealersocket	yes	Dealertrack first written as Cox Automotive (Dealertrack); Dealersocket only in key differences line, kept
+75	Tekion	Tekion ; PBS Systems ; Reynolds & Reynolds ; CDK ; DealerBuilt ; Autosoft ; DealerCenter	yes	Reynolds first written Reynolds ERA-IGNITE; DealerCenter offered for BHPH, kept
+76	Tekion	Tekion ; PBS Systems ; Reynolds & Reynolds ; CDK ; Autosoft ; DealerCenter ; Frazer	yes	
+77	Tekion	Tekion ; Reynolds & Reynolds ; CDK ; PBS Systems ; Autosoft ; DealerCenter ; Frazer	yes	RouteOne lenders passing left out
+78	CDK Drive	CDK Drive ; Reynolds & Reynolds ; Tekion ; DealerSocket ; DealerCenter ; Auto/Mate ; Autosoft ; EverLogic ; Frazer ; Autodeals	yes	Gubagoo, Solera, QuickBooks passing left out
+79	CDK Drive	CDK Drive ; Reynolds & Reynolds ; Tekion ; DealerSocket ; DealerCenter ; Frazer ; Wayne Reaves ; VINCUE ; PBS Systems ; EverLogic ; Autodeals	yes	Wayne Reaves and VINCUE only in a should-evaluate sentence, kept; Fortellis, RCI, Gubagoo passing left out
+80	CDK Drive	CDK Drive ; Reynolds & Reynolds ; Tekion ; DealerSocket ; DealerCenter ; Frazer ; PBS Systems ; EverLogic ; Autosoft ; Auto/Mate ; DealerBuilt	yes	Auto/Mate and DealerBuilt from one sentence in Autosoft section (competitive for one to five stores), kept; Frazer Auto Dealer Software written Frazer
+81	CDK	CDK ; Tekion ; DealerCenter ; Frazer ; RouteOne ; vAuto Provision ; DealerBuilt ; Autosoft ; Auto/Mate ; PBS Systems ; Reynolds and Reynolds	yes	Frazer Auto Dealer Software and Autosoft DMS written without generic words
+82	CDK	CDK ; Tekion ; DealerCenter ; Frazer ; RouteOne ; vAuto Provision ; DealerBuilt ; Reynolds & Reynolds ; Autosoft ; PBS Systems ; AutoManager	yes	
+83	CDK	CDK ; Tekion ; DealerCenter ; Frazer ; RouteOne ; vAuto Provision ; Reynolds and Reynolds ; DealerBuilt	yes	
+84	Tekion	Tekion ; CDK Global ; Frazer ; Reynolds and Reynolds	yes	Tekion named in intro, its item has dropped name; one independent item has a dropped name, not counted; Frazer Computing written Frazer; Voltra.ai and G2 left out
+85	CDK Global	CDK Global ; Reynolds and Reynolds ; Tekion ; Frazer ; DealerCenter	yes	Frazer Computing written Frazer
+86	CDK Global	CDK Global ; Tekion ; DealerCenter ; Frazer ; Reynolds and Reynolds ; AutoManager	yes	Frazer Auto Dealer Software written Frazer
+87	Tekion	Tekion ; CDK Global ; Reynolds and Reynolds ; DealerSocket ; DealerCenter ; Frazer	yes	Auto/Mate as DealerSocket DMS core passing left out; Frazer Computing written Frazer
+88	CDK Global	CDK Global ; Tekion ; Reynolds and Reynolds ; DealerSocket ; DealerCenter ; Frazer	yes	
+89	Tekion	Tekion ; CDK Global ; Reynolds and Reynolds ; DealerSocket ; DealerCenter ; Frazer	yes	DealerSocket / Solera DealerSuite one entry
+90	Open Dental	Open Dental ; Curve Dental ; CareStack ; Denticon ; tab32	yes	Planet DDS owner left out
+91	Open Dental	Open Dental ; Curve Dental ; CareStack ; Denticon ; Eaglesoft	yes	Planet DDS and Patterson owners left out
+92	Open Dental	Open Dental ; Curve Dental ; CareStack ; Denticon ; Eaglesoft	yes	
+93	Open Dental	Open Dental ; Eaglesoft ; Curve Dental ; CareStack ; Dentrix Ascend ; Denticon ; Sensei Cloud ; Tab32	yes	Dentrix Ascend (X vendor cloud product) offered as a numbered alternative, kept; Apteryx Imaging passing left out
+94	Open Dental	Open Dental ; Eaglesoft ; Curve Dental ; CareStack ; Dentrix Ascend ; Tab32 ; Denticon	yes	Dentrix Ascend (X vendor cloud product) offered as a numbered alternative, kept
+95	Open Dental	Open Dental ; Curve Dental ; CareStack ; Eaglesoft ; Dentrix Ascend ; Denticon ; Tab32	yes	Dentrix Ascend (X vendor cloud product) offered as a numbered alternative, kept
+96	Curve Dental	Curve Dental ; Open Dental ; Eaglesoft ; CareStack ; Dentrix Ascend ; Denticon ; tab32 ; Practice-Web	yes	Dentrix Ascend (X vendor product) kept
+97	Curve Dental	Curve Dental ; Open Dental ; Eaglesoft ; CareStack ; Dentrix Ascend ; tab32 ; Denticon	yes	Dentrix Ascend (X vendor product) kept
+98	Open Dental	Open Dental ; Curve Dental ; Eaglesoft ; CareStack ; Denticon ; Dentrix Ascend	yes	Dentrix Ascend (X vendor product) kept
+99	Open Dental	Open Dental ; Curve Dental ; BestoSys ; iDentalSoft ; CareStack	yes	three table rows have dropped vendor names, not counted; BestoSys and iDentalSoft from a Capterra-highlights note, kept; CareStack only in decision framework
+100	Open Dental	Open Dental ; Curve Dental ; CareStack	yes	one table row has a dropped vendor name, not counted
+101	Open Dental	Open Dental ; Curve Dental ; CareStack ; tab32 ; Eaglesoft	yes	
+102	Open Dental	Open Dental ; Curve Dental ; CareStack ; Archy	yes	Dexis passing left out
+103	Open Dental	Open Dental ; Curve Dental ; CareStack ; Denticon ; Dentrix Ascend ; tab32	yes	Dentrix Ascend (X vendor cloud product) offered, kept
+104	Open Dental	Open Dental ; CareStack ; Curve Dental ; Eaglesoft ; Denticon ; Practice-Web	yes	Patterson and Planet DDS owners left out
+105	Open Dental	Open Dental ; Curve Dental ; Dentrix Ascend ; CareStack ; Denticon	yes	
+106	Open Dental	Open Dental ; Curve Dental ; Dentrix Ascend ; CareStack ; Denticon	yes	
+107	Open Dental	Open Dental ; Curve Dental ; Dentrix Ascend ; CareStack ; Denticon	yes	
+108	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Denticon ; tab32 ; Oryx	yes	Dentrix Ascend mentioned as a version inside the Dentrix section, one entry
+109	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Denticon ; tab32 ; Oryx	yes	Dentrix Ascend mentioned as a version inside the Dentrix section, one entry
+110	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Denticon ; tab32 ; Oryx Dental	yes	Dentrix Ascend mentioned as a version inside the Dentrix section, one entry
+111	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Dentrix Ascend ; CareStack ; tab32 ; iDentalSoft ; Adit	yes	Dentrix and Dentrix Ascend offered as separate items, two entries
+112	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Dentrix Ascend ; CareStack ; Denticon ; tab32	yes	Dentrix and Dentrix Ascend offered as separate items, two entries
+113	Curve Dental	Curve Dental ; Dentrix ; Open Dental ; Dentrix Ascend ; CareStack ; tab32 ; Archy ; SoftDent ; ACE Dental ; Adit ; Denticon ; iDentalSoft ; Sensei Cloud ; YAPI ; Lighthouse 360	yes	Dentrix and Dentrix Ascend separate rows, two entries; other commonly listed line kept
+114	Curve Dental	Curve Dental ; Dentrix Ascend ; Open Dental ; CareStack ; Dentrix ; Practice-Web	yes	DentalStack, Capterra, Software Advice left out
+115	Curve Dental	Curve Dental ; Open Dental ; Dentrix Ascend ; Practice-Web	yes	Henry Schein One owner left out
+116	Curve Dental	Curve Dental ; Dentrix Ascend ; Open Dental ; CareStack	yes	
+117	Open Dental	Open Dental ; Dentrix Ascend ; Curve Dental ; Practice-Web	yes	first sentence names Open Dental first
+118	Open Dental	Open Dental ; Curve Dental ; Dentrix ; CareStack ; Denticon	yes	heading Dentrix or Dentrix Ascend coded as one entry (one heading); Patterson, Henry Schein, Planet DDS left out
+119	Open Dental	Open Dental ; Curve Dental ; Dentrix ; CareStack ; DentiMax	yes	Dentrix (or Dentrix Ascend) one entry; Patterson and Henry Schein left out
+120	Curve Dental	Curve Dental ; Dentrix Ascend ; CareStack ; Denticon ; Dentrix ; Eaglesoft	yes	
+121	Curve Dental	Curve Dental ; Dentrix Ascend ; CareStack ; Denticon ; Archy ; Dentrix ; Eaglesoft	yes	Dentrix or Eaglesoft row is two vendors, two entries; Open Dental Cloud is X own product, left out
+122	Curve Dental	Curve Dental ; CareStack ; Dentrix Ascend ; Denticon ; Dentrix ; Eaglesoft	yes	
+123	Dentrix	Dentrix ; Eaglesoft ; Curve Dental ; Dentrix Ascend ; Denticon ; CareStack ; iDentalSoft ; tab32 ; Practice-Web ; ABELDent ; Adit ; OperaDDS ; Easy Dental	yes	list in order offered; Eaglesoft and Dentrix Ascend first appear in passing inside the Dentrix item; Easy Dental only in a leading-alternatives sentence, kept; Detect AI and Henry Schein left out
+124	Dentrix	Dentrix ; Eaglesoft ; Curve Dental ; Dentrix Ascend ; CareStack ; Denticon ; tab32 ; Adit ; Practice-Web ; iDentalSoft	yes	list in order offered; Dentrix Ascend and Eaglesoft first appear in passing earlier; Detect AI left out
+125	Dentrix	Dentrix ; Eaglesoft ; Curve Dental ; CareStack ; Denticon ; tab32 ; Dentrix Ascend ; Practice-Web ; Adit	yes	list in order offered; Dentrix Ascend first appears inside the Dentrix item, offered as item 7; Henry Schein, Patterson, Planet DDS, Detect AI left out
+126	Curve Dental	Curve Dental ; CareStack ; Dentrix ; Dentrix Ascend ; Eaglesoft ; Denticon ; iDentalSoft ; ABELDent ; tab32 ; Practice-Web ; Adit ; SoftDent	yes	other-names line kept as offered
+127	Curve Dental	Curve Dental ; CareStack ; Dentrix ; Dentrix Ascend ; Eaglesoft ; Denticon ; Practice-Web ; tab32 ; iDentalSoft ; ABELDent ; Adit	yes	other-alternatives line kept as offered; G2, Capterra, Software Advice left out
+128	Curve Dental	Curve Dental ; CareStack ; Dentrix ; Eaglesoft ; Dentrix Ascend ; Denticon ; iDentalSoft ; ABELDent	yes	iDentalSoft / ABELDent row is two vendors, two entries
+129	Curve Dental	Curve Dental ; CareStack ; tab32 ; Dentrix ; Eaglesoft ; Practice-Web	yes	opening line has a dropped name after heavyweights like
+130	Curve Dental	Curve Dental ; CareStack ; Archy ; tab32 ; Dentrix ; Eaglesoft ; Practice-Web	yes	Dentrix (or Dentrix Ascend) one entry
+131	Curve Dental	Curve Dental ; CareStack ; Practice-Web ; tab32 ; Dentrix Ascend	yes	duplicated pros/cons block with no vendor name not counted; Software Advice, G2, Get Dentra left out
+132	Curve Dental	Curve Dental ; Dentrix ; Eaglesoft ; Practice-Web ; tab32	yes	
+133	CareStack	CareStack ; Curve Dental ; Dentrix ; Eaglesoft ; Practice-Web	yes	Dentrix Ascend noted in parentheses inside Dentrix item, one entry; Henry Schein One and Patterson left out
+134	Curve Dental	Curve Dental ; Dentrix ; Denticon ; Eaglesoft ; Practice-Web ; Oryx Dental	yes	heading Dentrix / Dentrix Ascend one entry; Google Cloud passing left out

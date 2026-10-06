@@ -1,0 +1,155 @@
+0	both	split residential B, commercial A, no default
+1	B	split, but default for the question as asked: start with Buildertrend
+2	both	split residential B, commercial A, no default
+3	B	bottom line Buildertrend better fit
+4	B	Buildertrend almost always better
+5	B	Buildertrend better fit for most small GCs
+6	B	Buildertrend usually better; Procore only if complex commercial
+7	B	Buildertrend usually better fit; Procore only if heavy document control
+8	B	Buildertrend usually the better fit for a small GC
+9	B	Buildertrend almost always the more practical choice
+10	B	Buildertrend generally better unless exclusively heavy commercial
+11	B	Buildertrend generally much better for a small GC
+12	B	Buildertrend almost always the better choice
+13	B	Buildertrend generally the better choice
+14	neither	request limit message, no answer; scored in the deposit, names neither
+15	both	e-Builder for standardizing owner controls, Kahua for adaptable workflows
+16	both	same split by owner priority
+17	both	e-Builder benchmark for central controls, Kahua for flexibility
+18	both	closing table choose e-Builder if, choose Kahua if
+19	both	target owner table gives each a best fit owner type, no default (rule 2)
+20	both	structured owners lean e-Builder, flexibility owners lean Kahua
+21	both	e-Builder for structured programs, Kahua for complexity
+22	both	depends on standardized versus flexible, pick per type
+23	both	e-Builder if structured, Kahua if configurability needed
+24	both	neither universally better; choose Kahua if, choose e-Builder if
+25	both	e-Builder best for standardized owners, Kahua for configurability
+26	both	neither universally better; choose each if
+27	both	best for per vendor by program style
+28	both	best suited for per vendor in table, no default
+29	both	best for per vendor by owner type
+30	both	Tekion for modernizing, CDK for a working CDK store; new store default is another buyer type
+31	both	same split, no award
+32	both	Tekion first on fresh shortlist, CDK for functioning install
+33	both	best for each by group type (truncated)
+34	both	depends; best fit per group type later
+35	both	choose Tekion if, choose CDK if
+36	both	CDK for traditional, Tekion for tech forward
+37	both	choose CDK if large group, Tekion if growth oriented
+38	both	choose CDK if, choose Tekion if
+39	both	neither universally better; when each is better by group type
+40	A	Tekion generally better for a modern franchise dealer, CDK only for massive legacy groups (borderline)
+41	both	neither universally better; choose each if
+42	both	Tekion for UX priority, CDK for OEM depth priority
+43	depends	no universal winner, depends on appetite for change; strengths only
+44	both	Tekion for tech forward, CDK for large enterprise groups
+45	B	lean Frazer for small owner operated lot unless lead follow up is central
+46	B	my default with no other details: Frazer
+47	B	lean Frazer for a small owner operated lot, unless leads
+48	A	for most independent dealers DealerCenter is the safer choice
+49	A	starting fresh, DealerCenter stronger for most independent lots
+50	A	overall verdict DealerCenter safer choice for most
+51	both	DealerCenter if safer all around, Frazer if lower cost; per lot size
+52	both	DealerCenter if safer all around wanted, Frazer if cost first; default only for new or growing lots
+53	both	pick by lot type
+54	both	choose Frazer if, choose DealerCenter if
+55	both	choose DealerCenter if, pick Frazer if
+56	both	choose each if
+57	both	pick Frazer if, pick DealerCenter if
+58	both	choose each if; depends on how you run
+59	both	pick each if
+60	both	new practice lean Open Dental, existing Dentrix office stay
+61	both	same split by starting point
+62	A	bottom line: Open Dental would be my starting choice (default); Dentrix for an established team (borderline)
+63	both	pick Dentrix if, pick Open Dental if; per practice type table
+64	both	Open Dental for smaller independents, Dentrix for larger practices
+65	both	best choice per practice type; pick each if
+66	both	no universal better; choose each if
+67	both	no universal winner; each better for a practice type
+68	both	no universal winner; choose each if; table names Open Dental best for many general practices but no default
+69	depends	strengths split only (cost and flexibility vs enterprise support), no buyer assignment
+70	both	neither universally better; best for per vendor
+71	both	Open Dental for cost conscious, Dentrix for large established clinics
+72	both	Open Dental for modern cost conscious, Dentrix for legacy offices
+73	both	neither universally better; go with each if
+74	both	neither universally better; choose each if
+75	both	neither universally better; per priority first demo
+76	both	lean Eaglesoft for imaging priority, Dentrix for reporting priority
+77	both	per priority first demo; default is the system the team runs best, not a vendor
+78	both	Dentrix for mid to large, Eaglesoft for solo or small
+79	both	per practice size and priorities
+80	both	per practice size
+81	both	neither universally better; choose each if
+82	both	neither universally better; per priority table
+83	both	Dentrix if reporting and integrations valued, Eaglesoft if simpler; neither universally better
+84	both	Dentrix best if, Eaglesoft best if
+85	both	choose Dentrix if, choose Eaglesoft if
+86	both	choose each if
+87	both	Dentrix generally better if wanting reporting, Eaglesoft better if easier learning
+88	both	choose each if
+89	both	each wins by supply relationship
+90	both	residential service plumbing lean Housecall Pro, solo plumber lean Jobber
+91	both	multi technician Housecall Pro, solo Jobber
+92	both	multi technician residential Housecall Pro, solo Jobber
+93	both	choose Jobber if commercial, Housecall Pro if residential
+94	both	residential Housecall Pro, multi tech or mixed Jobber
+95	both	choose each if by operation type
+96	A	Jobber usually the better default; for most plumbing businesses lean Jobber
+97	A	one default recommendation: Jobber for most scaling plumbing businesses (borderline)
+98	both	depends on operating style; pick each if
+99	depends	strengths split: Jobber for operations and value, Housecall Pro for sales tools; no buyer assignment
+100	B	Housecall Pro generally better for a dedicated plumbing business, Jobber only if cleaner interface wanted
+101	both	neither universally better; choose each if
+102	both	best for per vendor (growing teams vs solo operators)
+103	both	neither universally better; best for per vendor
+104	both	neither universally better; best for per vendor
+105	A	lean FieldEdge; ServiceTitan worth it only if its tools are actively used
+106	A	lean FieldEdge; pay more for ServiceTitan only if its capabilities are used
+107	A	lean FieldEdge; ServiceTitan only if its tools are used
+108	both	if smaller FieldEdge, if scaling ServiceTitan (symmetric if, if)
+109	both	symmetric by size
+110	both	symmetric by size
+111	A	FieldEdge usually the better value, worth it for most small to mid; ServiceTitan only if
+112	A	FieldEdge usually the better value for most contractors; ServiceTitan only if
+113	A	FieldEdge usually the better value; ServiceTitan only if enterprise needs
+114	both	size mapping without a general default (small to mid FieldEdge, large ServiceTitan)
+115	both	small to mid FieldEdge, ServiceTitan only for large enterprise; size mapping, no general default
+116	both	symmetric by size
+117	both	comes down to size; each worth it when
+118	both	each worth it if, by size
+119	both	ServiceTitan for large, FieldEdge for small to mid
+120	both	Cloudbeds for integrated distribution, Mews for automation
+121	both	start Cloudbeds for unified package, Mews for automation or groups
+122	both	Cloudbeds for straightforward independent, Mews for automation focused
+123	both	no universal winner; smaller independents Cloudbeds, tech forward boutique Mews
+124	both	choose each if
+125	both	no universal winner; pick each if
+126	both	no single better; Cloudbeds for smaller all in one, Mews for flexibility
+127	both	no universal better; choose each by priority
+128	both	no universal winner; each usually better if
+129	both	Cloudbeds for independents, Mews for tech savvy groups
+130	both	neither universally better; choose each if
+131	both	depends on property; best for per vendor
+132	both	best for per vendor; go with each if
+133	both	go with each if
+134	both	go with each if
+135	both	RoomKeyPMS for rooms focused, Maestro for full service
+136	both	same split by operational complexity
+137	both	same split
+138	both	verdict table by scenario
+139	both	smaller independent RoomKeyPMS, larger full service Maestro
+140	B	for most independent hotels without complex ancillary operations RoomKeyPMS offers the better balance
+141	B	choose RoomKeyPMS for a typical independent hotel; Maestro if complex
+142	B	for a typical independent hotel lean RoomKeyPMS unless Maestro complexity needed
+143	B	RoomKeyPMS for most independent hotels; Maestro only if enterprise complexity
+144	both	RoomKeyPMS if ease of use is the priority, Maestro if full service (if, if)
+145	B	RoomKeyPMS generally better for a standard independent hotel; Maestro if large full service resort
+146	both	RoomKeyPMS for smaller or boutique, Maestro for full service resorts
+147	both	head-to-head verdict: choose Maestro if full service, choose RoomKeyPMS if standard
+148	both	summary recommendation: choose each if
+149	both	verdict table choose each if
+150	both	lean EZLynx for personal lines quoting, lean HawkSoft for core AMS plus own tools; not universally better
+151	both	EZLynx better fit if one platform, HawkSoft better fit if own tools; bottom line split
+152	both	EZLynx default for a personal-lines agency, HawkSoft for agency wanting own tools; fit-based split
+153	A	bottom line table awards HawkSoft the trophy; answer truncated in table
+154	both	no one-size-fits-all; factor table; choose EZLynx if personal-lines-heavy (truncated before HawkSoft branch)

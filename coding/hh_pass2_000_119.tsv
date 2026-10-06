@@ -1,0 +1,120 @@
+0	both	lean Buildertrend for small residential GC, Procore for small commercial GC; demo split by need; no default, asks residential or commercial
+1	B	split by residential/commercial but closing "My default: start with a Buildertrend demo unless formal commercial documentation"
+2	both	lean Buildertrend for residential/remodeler, Procore for commercial with heavy docs; practical rec split; no default
+3	B	short answer "for most small general contractors, Buildertrend wins"; bottom line Buildertrend is the better fit
+4	B	"Buildertrend is almost always the better choice for a small general contractor"; verdict Buildertrend wins
+5	B	short answer "For most small GCs ... Buildertrend is the better fit"; bottom line Buildertrend almost certainly better, Procore only if scaling
+6	B	"Buildertrend is usually the better choice" for small GC; Procore "only if" complex commercial; "Why Buildertrend usually wins for small GCs"
+7	B	"For a small GC, Buildertrend is usually the better fit if ... residential"; Procore "only if" commercial; Procore overkill for many small firms (judgment: usually+if close to split)
+8	B	"For a small GC, Buildertrend is usually the better fit"; Procore often overkill for smaller firms
+9	B	"For a small GC, Buildertrend is almost always the more practical and affordable choice"; skip Procore unless
+10	B	"Buildertrend is generally better and more affordable for a small GC, unless you focus exclusively on heavy commercial"
+11	B	"Buildertrend is generally much better for a small GC"; header "Buildertrend: Best for Small GCs", Procore overkill
+12	B	"For a small GC, Buildertrend is almost always the better, more practical choice than Procore"
+13	B	"For a small general contractor, Buildertrend is generally the better, more practical choice"; Procore only if scaling
+14	neither	request limit message returned as the answer
+15	both	lean e-Builder for standardization-first owner, Kahua for adaptability-first; bottom line split; no default
+16	both	lean e-Builder for standardizing controls, Kahua when adapting to varied programs; favor-each-when lists; no default
+17	both	lean toward e-Builder when one controlled system, Kahua when varied processes; bottom line benchmarks each; no default
+18	depends	truncated in bottom-line table header ("Choose e-Builder if... | Choose"); present text is factor comparison only, no pick
+19	both	truncated before any bottom line; target-profile table gives a "Best fit" line per vendor (institutional owners vs owners needing configurability); no default
+20	both	truncated in pricing; ideal customer profile gives "stronger fit for" per vendor (e-Builder structured institutional, Kahua configurable); lean each by priority; no default
+21	both	e-Builder "usually the better default if" structured program, Kahua stronger if configurability; closing symmetric split; condition not exception (judgment)
+22	both	"better fit usually depends"; choose e-Builder if structured, choose Kahua if complex/custom; no default
+23	both	"usually e-Builder if" highly structured, Kahua if configurability; choose-each-if lists; no general default (judgment)
+24	both	"Neither platform is universally better"; choose Kahua if / choose e-Builder if; no default
+25	both	opening: e-Builder "best for" standardized institutional owners, Kahua "stronger when" deep configurability; no default; truncated after heading
+26	both	"Neither platform is universally better"; choose e-Builder if standardized, choose Kahua if unique workflows
+27	both	"Best For" line per vendor (e-Builder structured programs, Kahua evolving workflows); no pick
+28	both	"Best Suited For" row per vendor (Kahua bespoke governance, e-Builder structured government CIPs); offers to narrow, no pick
+29	both	"Best for" per vendor and ideal organizational fit row; no default
+30	both	lean Tekion for dealer modernizing, CDK for dealer already running it well; bottom line Tekion for transformation, CDK for continuity; new-store Tekion-first is another branch (judgment)
+31	both	lean Tekion for modernizing, CDK for existing store preserving workflows; favor-each-if lists; new store Tekion first demo "no automatic award" (judgment)
+32	both	lean Tekion for fresh selection, CDK if already run successfully; bottom line Tekion first on fresh shortlist, keep functioning CDK (judgment)
+33	both	truncated in "CDK is best for" list; "Tekion is best for" multi-rooftop groups willing to migrate, "CDK is best for" groups needing deepest OEM network; no pick
+34	depends	truncated in legal section; short answer "Tekion better-engineered, CDK safer ... depends heavily on size, OEM, risk"; per-factor winners only (judgment: body has scattered fit lines)
+35	both	"it depends"; bottom line choose Tekion if frustrated and can migrate, choose CDK if need OEM breadth or cannot afford disruption; truncated at end
+36	both	CDK "usually the safer bet if" OEM depth, Tekion "often better if" modern cloud; simple rule: mature group CDK, forward-looking group Tekion
+37	both	choose CDK if large established group, choose Tekion if growth-oriented; "rather than one universal winner"; blunt rec split by store type
+38	both	CDK safer "if you prioritize" OEM depth, Tekion better "if you prioritize" modern; choose-each-if; no default
+39	both	"Neither ... universally better"; When Tekion is better (tech-forward groups) / When CDK is better (large entrenched groups)
+40	A	"Tekion is generally better for a modern franchise dealer ... though CDK remains dominant for massive multi-rooftop legacy"; choose-if split follows (judgment: "modern" could be read as buyer type)
+41	both	"Neither system is universally better"; Best For per vendor; verdict choose Tekion if forward-looking, CDK if zero disruption
+42	both	Tekion better for dealers prioritizing modern UX, CDK superior for legacy OEM integrations; choose Tekion if / choose CDK if
+43	depends	"Neither is a universal winner ... depends on appetite for change"; pros/cons only, no buyer type assigned, asks for details
+44	both	"Tekion generally better for modern, tech-forward dealerships ... CDK better for large enterprise groups"; no default
+45	B	"I'd lean Frazer for a small, owner-operated lot, unless internet-lead follow-up is major; then DealerCenter"; closing deciding question splits (judgment: lean+unless read as default)
+46	B	"My default with no other details: Frazer"; switch to DealerCenter if leads are main problem
+47	B	"For a small, owner-operated independent lot, I'd lean Frazer, unless managing internet leads is your biggest problem"; bottom line split by use (judgment: lean+unless)
+48	A	bottom line "For most independent dealers, DealerCenter ... the safer choice"; Frazer if price-constrained / small lot (default over split)
+49	A	"For most independent dealers, DealerCenter ... safer choice"; bottom line DealerCenter stronger bet for most lots if starting fresh; Frazer for tiny shoestring
+50	A	overall verdict "For most independent dealers, DealerCenter ... makes it the safer choice"; Frazer if shoestring budget (default over split)
+51	both	"generally pick DealerCenter if you want the safer all-around choice, Frazer if priority is lower cost"; shortest rec split by lot size; no default (judgment)
+52	both	pick DealerCenter if safer all-around, Frazer if lower cost; "better default" only for new/growing lot, Frazer for very small lot (judgment)
+53	both	"usually pick DealerCenter if" modern and growing, Frazer if small budget lot; rec by lot type split; caveat calls DealerCenter stronger all-around product (judgment)
+54	both	choose Frazer if flat pricing, choose DealerCenter if cloud all-in-one; Best For per vendor; asks details
+55	both	choose DealerCenter if modern cloud/CRM, pick Frazer if smaller budget lot; When to Pick each; asks details
+56	both	choose DealerCenter if modern cloud; "choose [name missing] if budget-friendly"; When to Pick DealerCenter / When to Pick Frazer
+57	both	pick Frazer if budget flat-rate small lot, DealerCenter if modern all-in-one; Best Suited For row per vendor
+58	both	choose DealerCenter if modern cloud, choose Frazer if traditional flat price; "right choice depends on how you run"
+59	both	Pick DealerCenter if mobile leads/cloud CRM, Pick Frazer if traditional or BHPH lot; no default
+60	both	lean Open Dental for a new independent practice; office already running Dentrix well should stay; rec list split by situation; no default (judgment)
+61	both	lean Open Dental for new practice; "already productive on Dentrix: my default would be stay"; split by situation (judgment)
+62	A	opening split new vs existing, but bottom line "Open Dental would be my starting choice"; Dentrix strong option for established team (judgment)
+63	both	verdict "they fit different buyers. Pick Dentrix if ..., Pick Open Dental if ..."; best fit by practice type table; per-factor wins only
+64	both	summary "Open Dental generally better for independent or smaller practices on a budget, Dentrix better for larger enterprise practices"
+65	both	verdict: Open Dental stronger pick for cost-conscious general practices; Pick Dentrix if budget for polished system, Pick Open Dental if lower cost; best fit by practice type
+66	both	"no universal better choice"; choose Open Dental if price/customization, choose Dentrix if guided workflows; fit table by priority
+67	both	"no universal winner"; shortest answer Open Dental better for most value-conscious practices, Dentrix for practices prioritizing premium
+68	both	"no universal winner"; choose Open Dental if price/control, Dentrix if workflow depth; table row "Best for many general practices: Open Dental" not read as default (judgment)
+69	depends	strengths-only: Open Dental better for cost/flexibility, Dentrix preferred for enterprise support; asks practice size, no pick
+70	both	"Neither ... universally better"; Best For per vendor (Open Dental cost-conscious tech-savvy, Dentrix medium-large Henry Schein practices)
+71	both	"Neither ... universally better; Open Dental generally better for cost-conscious practices, [Dentrix] better for large established clinics"
+72	both	Open Dental better for modern cost-conscious practices, Dentrix preferred by established legacy offices; asks details, no default
+73	both	"Neither is universally better"; Go with Open Dental if low overhead, Go with Dentrix if enterprise standard
+74	both	"Neither is universally better"; verdict choose Open Dental if lower overhead, choose Dentrix if staff trained/Henry Schein
+75	both	"Neither is universally better"; favor system team knows (no vendor); priority table gives Eaglesoft first demo for imaging, Dentrix first demo for insurance (judgment: could be depends, demo order only)
+76	both	"Neither is universally better"; lean Eaglesoft if imaging and line-item accounting priority, lean Dentrix if reporting/connected services
+77	both	"Neither is universally better ... would depend"; "When I would favor each" table by priority; default vendor-neutral (judgment: could be depends)
+78	both	bottom line table Best for: Dentrix mid-to-large, Eaglesoft solo/small; Dentrix stronger pick for mid-large, Eaglesoft for solo
+79	both	split by practice size (Dentrix mid-large, Eaglesoft solo/small); final tip "no single best"; body bullet "Dentrix gets the slight edge in 2026" not read as the recommendation (judgment)
+80	both	"depends on the size and needs"; bottom line Dentrix stronger pick for mid-large, Eaglesoft for solo; pro tip "no single best"
+81	both	"Neither is universally better"; choose Dentrix if reporting/integrations/larger practice, choose Eaglesoft if ease/Patterson/solo
+82	both	"Neither is universally better"; choose Dentrix if mid-size or larger, choose Eaglesoft if ease of use/Patterson
+83	both	Dentrix usually better "if" reporting valued, Eaglesoft better fit "if" simplicity; "Neither is universally better"; shortest rec: Dentrix for most growing practices, Eaglesoft if simplicity
+84	both	Dentrix best if integrations/cloud, Eaglesoft best if Patterson; choose Dentrix if multi-location, Eaglesoft if solo on Patterson
+85	both	"right choice depends"; Choose Dentrix if cloud/analytics/add-ons, Choose Eaglesoft if Patterson/gentler learning curve
+86	both	"depends on practice size"; Choose Dentrix if scaling/Henry Schein, Choose Eaglesoft if solo budget-conscious/Patterson
+87	both	"Dentrix generally better if you want deeper reporting ..., Eaglesoft better if easier learning curve/Patterson"; asks details, no default
+88	both	Choose Dentrix if trained staff/analytics/cloud path, Choose Eaglesoft if Patterson ties/flatter learning curve
+89	both	"comes down to matching"; Eaglesoft wins if relying on Patterson, Dentrix wins if buying through Henry Schein or wanting flexibility; asks details
+90	both	lean Housecall Pro for residential service plumbing, Jobber for solo plumber needing basics; rec list split by need; no default
+91	both	lean Housecall Pro for residential service with multiple techs, Jobber for solo plumber; owner-operator Jobber, growing shop HCP
+92	both	lean Housecall Pro for multi-tech residential service, Jobber for solo; choose Jobber if organizing/invoicing, choose HCP if tech sales/memberships
+93	both	bottom line choose Jobber if small-to-mid commercial multi-stop, choose Housecall Pro if residential service calls; per-category winners only
+94	both	"In short": residential plumber go Housecall Pro, multiple techs/complex/mixed go Jobber; no default
+95	both	recommendation: choose Jobber if multi-crew or commercial, choose Housecall Pro if residential; per-category winners only; no default
+96	A	split by need, but closing "For most plumbing businesses, especially those with estimates, service agreements, or multiple technicians, I'd lean Jobber" (default over split)
+97	A	split table, but "If you want one default recommendation: choose Jobber for most plumbing businesses that are scaling operations; HCP if growth depends on marketing" (judgment: default qualified by scaling)
+98	both	"depends on your operating style"; Jobber for quote-heavy/multi-tech/commercial, Housecall Pro for residential-focused; no default
+99	depends	strengths-only: "Jobber generally better for day-to-day operations and overall value, Housecall Pro stronger for on-the-truck sales"; asks details
+100	B	"Housecall Pro is generally better for a dedicated plumbing business ... However, [Jobber, name missing] is better if" cleaner UI/routing/lower price
+101	both	"Neither ... universally better"; summary choose Housecall Pro if flat-rate price books, choose Jobber if budget/route optimization
+102	both	opening strengths split; table "Best For" per vendor (Jobber growing teams, Housecall Pro solo operators); asks details, no pick
+103	both	"Neither is universally better"; Best for: Housecall Pro residential-focused, Jobber growing multi-crew shops
+104	both	"Neither is universally better"; Best for: Housecall Pro solo/small residential teams, Jobber growing multi-crew companies
+105	A	"I'd lean FieldEdge for a straightforward service operation; ServiceTitan is worth a higher quote only if you'll actively use" its tools; closing choose-if is symmetric (judgment: lean+only-if vs split)
+106	A	"I'd lean FieldEdge for a straightforward service operation; I'd pay more for ServiceTitan only if"; bottom line buy FieldEdge if lower cost, ServiceTitan if premium earns back (judgment)
+107	A	"lean toward FieldEdge for straightforward service operations; pay extra for ServiceTitan only if"; buying rule: don't pay the premium without named problems (judgment)
+108	both	verdict Best for: FieldEdge small-mid shops (<20 techs), ServiceTitan mid-large (20+); choose-if lists; no default
+109	both	verdict Best for: FieldEdge 1-20 techs, ServiceTitan 20+; in short FieldEdge more value for smaller QuickBooks shops, ServiceTitan worth premium past 20 techs
+110	both	verdict: small-to-mid shop FieldEdge more value, scaling aggressively ServiceTitan justified; Best for row per vendor; no default
+111	A	"FieldEdge is usually the better value for small to mid-sized contractors, ServiceTitan worth the higher cost only if"; shortest: FieldEdge worth it for most small/mid contractors (judgment: also has size split)
+112	A	"which is worth the price for most contractors? FieldEdge is usually the better value ..., ServiceTitan worth the higher price only if"
+113	A	short answer "FieldEdge is usually the better value for small to mid-sized shops, ServiceTitan worth higher price only if" enterprise needs (judgment: also size split)
+114	both	FieldEdge worth it for small-to-mid shops, ServiceTitan worth it "only for large, multi-location or rapidly scaling enterprises"; no "usually", no general default
+115	both	FieldEdge worth it for small-to-mid contractors, ServiceTitan worth it "only for larger, enterprise-level operations"; When each is worth it; no general default
+116	both	FieldEdge worth it for small-to-mid contractors, ServiceTitan for large or scaling enterprises; asks company size
+117	both	"comes down to the size of your operation"; verdict ServiceTitan worth it if high-volume sales-driven shop, FieldEdge worth it if operational efficiency/QuickBooks
+118	both	FieldEdge "Best for Small-to-Mid-Sized Shops", ServiceTitan "Best for Large, Aggressive Growth"; verdict split by size
+119	both	ServiceTitan worth it for large shops past 10-15 techs, FieldEdge better value for small-to-mid; Best Suited For row per vendor

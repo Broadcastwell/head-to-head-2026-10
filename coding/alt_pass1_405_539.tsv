@@ -1,0 +1,135 @@
+405	Buildium	Buildium ; Rent Manager ; Yardi Breeze ; DoorLoop ; Entrata ; Avail	yes	Yardi Breeze / Breeze Premier row coded as one entry
+406	Buildium	Buildium ; Rent Manager ; DoorLoop ; Rentvine ; Entrata ; Avail	yes	
+407	Buildium	Buildium ; Rent Manager ; Yardi Breeze ; DoorLoop ; Entrata	yes	Yardi Breeze / Breeze Premier row coded as one entry
+408	Buildium	Buildium ; DoorLoop ; Yardi Breeze ; Rent Manager ; MRI Software ; Entrata ; RentRedi ; TenantCloud ; Innago ; Hemlane	yes	
+409	Buildium	Buildium ; DoorLoop ; Yardi Breeze ; ResMan ; Innago ; TenantCloud ; MRI Software ; Entrata ; Rent Manager ; Hemlane ; TurboTenant	yes	TurboTenant offered only in size table
+410	Buildium	Buildium ; DoorLoop ; Yardi Breeze ; ResMan ; Rent Manager ; Innago ; RentRedi ; Re-Leased ; MRI Software ; TenantCloud ; Hemlane	yes	Re-Leased included: named as a top choice inside the MRI section (judgment)
+411	Buildium	Buildium ; DoorLoop ; Innago ; Yardi Breeze ; Rent Manager ; Entrata ; ResMan ; Propertyware	yes	
+412	Buildium	Buildium ; DoorLoop ; Innago ; Yardi Breeze ; Entrata ; Rent Manager ; Yardi Voyager ; Propertyware ; TurboTenant ; TenantCloud ; Hemlane ; MRI Software ; Re-Leased ; RealPage	yes	Yardi Voyager offered separately from Yardi Breeze, two entries
+413	Buildium	Buildium ; DoorLoop ; Innago ; Yardi Breeze ; Entrata ; Rent Manager ; Propertyware ; ResMan	yes	
+414	Buildium	Buildium ; DoorLoop ; Rent Manager ; Yardi Breeze	yes	fifth table row has no vendor name (emoji only), left out; answer ends at a heading, truncated
+415	Buildium	Buildium ; Rent Manager ; Yardi Breeze ; DoorLoop	yes	intro name missing; fifth table row has no vendor name, left out
+416	Rent Manager	Rent Manager ; Buildium ; DoorLoop ; Yardi Breeze ; Innago ; TenantCloud	yes	names appear only in closing label list; Yardi Voyager passing mention left out
+417	Buildium	Buildium ; DoorLoop ; Yardi Breeze ; Rentec Direct ; MRI Software ; Re-Leased	yes	MRI Software or Re-Leased item coded as two vendors
+418	Buildium	Buildium ; Rent Manager ; Yardi Voyager ; Yardi Breeze ; Propertyware ; DoorLoop ; TenantCloud ; Rentec Direct ; Innago ; TurboTenant	yes	Yardi Voyager / Yardi Breeze item coded as two products (judgment); RealPage as owner left out
+419	Buildium	Buildium ; DoorLoop ; Yardi Breeze ; Rentec Direct ; MRI Software ; TenantCloud	yes	Leasense and ResMan only in quoted user comments, left out (judgment)
+420	AppFolio	AppFolio ; DoorLoop ; Rentec Direct ; Rent Manager ; Yardi Breeze ; TenantCloud	yes	Rentec Direct / Rentec PM and Yardi Breeze / Breeze Premier each one entry
+421	DoorLoop	DoorLoop ; AppFolio ; Rent Manager ; TenantCloud ; Avail ; Yardi Breeze	yes	
+422	AppFolio	AppFolio ; DoorLoop ; Rentec Direct ; Rent Manager ; Rentvine ; Yardi Breeze	yes	
+423	DoorLoop	DoorLoop ; AppFolio ; Yardi Breeze ; Propertyware ; Re-Leased ; MRI Software ; Entrata ; Rent Manager ; Hemlane ; RentRedi ; Avail ; TenantCloud	yes	RentRedi & Avail heading coded as two vendors
+424	DoorLoop	DoorLoop ; AppFolio ; Yardi Breeze ; Re-Leased ; MRI Software ; Entrata ; Propertyware ; Rent Manager ; Hemlane ; TenantCloud ; RentRedi	yes	
+425	DoorLoop	DoorLoop ; AppFolio ; Yardi Breeze ; Propertyware ; Re-Leased ; MRI Software ; Entrata ; Rent Manager ; TenantCloud ; Hemlane ; RentRedi ; Avail	yes	Avail offered only in choose table
+426	DoorLoop	DoorLoop ; AppFolio ; Innago ; Yardi Breeze ; TenantCloud ; Propertyware ; Rent Manager	yes	
+427	DoorLoop	DoorLoop ; AppFolio ; Innago ; Yardi Breeze ; Propertyware ; Rent Manager ; TenantCloud	yes	
+428	DoorLoop	DoorLoop ; AppFolio ; Innago ; Yardi Breeze ; Propertyware ; TenantCloud ; Rent Manager ; Hemlane	yes	
+429	DoorLoop	DoorLoop ; AppFolio ; Innago ; Rentec Direct	no	Buildium appears only in the opening echo of the question
+430	DoorLoop	DoorLoop ; AppFolio ; Innago ; Re-Leased ; Propertyware	yes	Best Overall item has its vendor name missing; DoorLoop named in opening line
+431	DoorLoop	DoorLoop ; AppFolio ; Innago ; Yardi Breeze ; Rentec Direct ; Re-Leased ; MRI Software	no	Buildium appears only in question echo and an echo heading (judgment); one name missing in Under 50 Units line
+432	DoorLoop	DoorLoop ; AppFolio ; Innago ; Yardi Breeze ; Rentec Direct	yes	
+433	AppFolio	AppFolio ; DoorLoop ; Yardi Breeze ; TenantCloud ; Rentec Direct ; Propertyware	yes	RealPage as owner left out
+434	DoorLoop	DoorLoop ; AppFolio ; Re-Leased ; MRI Software ; TenantCloud ; Innago ; Rentec Direct	yes	
+435	Baselane	Baselane ; Innago ; Stessa ; TurboTenant ; Avail	yes	
+436	Baselane	Baselane ; Apartments.com ; TurboTenant ; Stessa ; Avail	yes	Apartments.com Rental Manager written as Apartments.com
+437	Baselane	Baselane ; Apartments.com ; Stessa ; Innago ; TurboTenant	yes	Apartments.com Rental Manager written as Apartments.com
+438	TurboTenant	TurboTenant ; Stessa ; Avail ; Innago ; Buildium ; DoorLoop ; Rentec Direct ; AppFolio Property Manager ; Yardi Breeze ; Hemlane	yes	TurboTenant offered as item 1 although it is the acquirer
+439	TurboTenant	TurboTenant ; Stessa ; Innago ; Avail ; Buildium ; DoorLoop ; AppFolio Property Manager ; Yardi Breeze ; Rentec Direct	yes	TurboTenant offered as item 1 although it is the acquirer
+440	TurboTenant	TurboTenant ; Stessa ; AppFolio Property Manager ; Innago ; Buildium ; DoorLoop ; Rentec Direct ; Avail ; Yardi Breeze ; Entrata	yes	Realtor.com as owner left out
+441	Baselane	Baselane ; Stessa ; TurboTenant ; Rentec Direct ; Avail ; RentRedi ; SimplifyEm ; Apartment.com ; Zillow Rental Manager	yes	Apartment.com / Zillow Rental Manager-style tools item coded as two vendors, spelled as written (judgment)
+442	Baselane	Baselane ; TurboTenant ; Stessa ; Rentec Direct ; Avail ; RentRedi ; Buildium ; AppFolio Property Manager	yes	
+443	Baselane	Baselane ; TurboTenant ; Stessa ; Rentec Direct ; Avail ; Buildium ; RentRedi ; SimplifyEm ; Apartments.com ; Yardi Breeze ; Innago	yes	last five from a closing also-include line called viable options, included (judgment)
+444	Baselane	Baselane ; Stessa ; TurboTenant ; Avail ; Innago	yes	one item has its name missing (likely Innago); Innago placed at its first named appearance in the table; Roofstock and Realtor.com owners left out
+445	Baselane	Baselane ; TurboTenant ; Avail ; Stessa	yes	Baselane item lead name missing but named in its text; Apartments.com, Redfin, Realtor.com, Roofstock passing, left out
+446	Baselane	Baselane ; Stessa ; TurboTenant ; Innago ; Avail	yes	item lead names missing for Baselane, Stessa, TurboTenant, identified from item text; TurboTenant intro mention as acquirer not counted as offer
+447	Baselane	Baselane ; TurboTenant ; Stessa ; Landlord Studio	yes	
+448	TurboTenant	TurboTenant ; Baselane ; Stessa ; Avail ; TenantCloud	yes	
+449	Baselane	Baselane ; TurboTenant ; Stessa ; Innago ; Apartments.com	yes	Cozy as former name left out
+450	Descartes 3G TMS	Descartes 3G TMS ; Oracle Transportation Management ; Uber Freight TMS ; SAP Transportation Management ; Blue Yonder TMS ; e2open Transportation Management ; Turvo	yes	Infios named as X renamed, not offered
+451	Descartes 3G TMS	Descartes 3G TMS ; Oracle Transportation Management ; e2open ; Blue Yonder ; SAP TM ; Manhattan Active Transportation Management	yes	Infios named as X renamed, not offered
+452	Descartes 3G TMS	Descartes 3G TMS ; Oracle Transportation Management ; e2open ; SAP Transportation Management ; Manhattan Active ; Blue Yonder ; Descartes Aljex	yes	Descartes Aljex offered separately for brokers, separate entry; Infios named as X renamed
+453	Oracle Transportation Management	Oracle Transportation Management ; SAP Transportation Management ; Blue Yonder TMS ; Descartes 3G TMS ; Manhattan Associates TMS ; E2open TMS ; Shipwell ; project44 ; AscendTMS ; Kuebix TMS ; McLeod Software ; FreightPOP	yes	Infios named as X renamed; Korber owner left out
+454	Oracle Transportation Management	Oracle Transportation Management ; Blue Yonder TMS ; SAP Transportation Management ; Manhattan TMS ; Descartes 3G TMS ; project44 ; Kuebix TMS ; AscendTMS ; Trimble TMS ; FreightPOP ; Alvys	yes	Infios named as X renamed; Korber owner left out
+455	Oracle Transportation Management	Oracle Transportation Management ; Blue Yonder TMS ; SAP Transportation Management ; Descartes 3G TMS ; E2open TMS ; Manhattan Associates TMS ; McLeod Software ; Kuebix TMS ; AscendTMS ; project44	yes	Trimble TMS named only as Kuebix's parent suite, left out; Infios named as X renamed
+456	Trimble TMS	Trimble TMS ; SAP Transportation Management ; Oracle Transportation Management ; Descartes Aljex ; Descartes 3G TMS ; Shipsy ; project44 ; GoComet ; AscendTMS ; Freightview ; Truckstop TMS	yes	Descartes Aljex / 3G TMS coded as two products (listed separately in table); 3Gtms later treated as same as Descartes 3G TMS
+457	Trimble TMS	Trimble TMS ; SAP Transportation Management ; Oracle Transportation Management ; 3Gtms ; Shipwell ; Turvo ; Descartes ; E2open ; AscendTMS ; FreightPOP ; Loadsmart ; ShippersEdge ; Cirrus TMS	yes	3Gtms and Descartes offered as separate rows, two entries; last five from a some-lists-also-mention line, included (judgment)
+458	Trimble TMS	Trimble TMS ; Oracle Transportation Management ; SAP Transportation Management ; Descartes 3G TMS ; Descartes Aljex ; Shipwell ; Turvo ; AscendTMS ; Odoo ; Loadsmart ; FreightPOP ; Tai Software	yes	Descartes 3G TMS / Descartes Aljex coded as two products; later 3Gtms treated as same as Descartes 3G TMS
+459	Oracle Transportation Management	Oracle Transportation Management ; SAP Transportation Management ; Descartes TMS ; Freightview ; Blue Yonder Transportation Management ; Uber Freight ; Alvys ; Rose Rocket	no	MercuryGate appears only in the opening echo with an Infios parenthetical (judgment); last broker item has no vendor name; Transplace parenthetical dropped
+460	Oracle Transportation Management Cloud	Oracle Transportation Management Cloud ; McLeod Software Enterprise ; SAP Transport Management ; Transporeon ; Tai Software ; Freightview ; Truckstop ITS Dispatch ; LoadPilot ; AscendTMS ; CartongCloud ; Transport Pro ; Logisoft	no	MercuryGate only in opening echo; one mid-market item and one community name missing; Transport Pro and Logisoft from community-insights line called alternatives, included (judgment)
+461	Oracle Transportation Management Cloud	Oracle Transportation Management Cloud ; SAP Transportation Management ; McLeod Software ; Descartes Aljex ; Transporeon ; Tai Software ; Freightview ; Truckstop ITS Dispatch	yes	Descartes (Aljex / Forwarder TMS) item coded as one entry
+462	Oracle Transportation Management	Oracle Transportation Management ; SAP Transportation Management ; Manhattan Active Transportation Management ; FreightPOP ; 3Gtms ; Descartes Systems Group ; Alpega TMS ; Trimble Transportation ; Alvys ; Rose Rocket	yes	Alvys or Rose Rocket item coded as two vendors; Infios named as X ecosystem
+463	Oracle Transportation Management Cloud	Oracle Transportation Management Cloud ; SAP Transportation Management ; Blue Yonder TMS ; Alvys ; Rose Rocket ; AscendTMS ; McLeod Software	no	MercuryGate only in opening echo
+464	Oracle Transportation Management Cloud	Oracle Transportation Management Cloud ; SAP Transportation Management ; McLeod Software ; Alvys ; Rose Rocket ; AscendTMS	yes	
+465	Alvys	Alvys ; Tai TMS ; Truckbase ; Descartes Aljex ; Rose Rocket	yes	
+466	Alvys	Alvys ; Truckbase ; Descartes Aljex ; ITS Dispatch ; Rose Rocket ; Freightview	yes	ITS Dispatch by Truckstop written as ITS Dispatch
+467	Alvys	Alvys ; Tai TMS ; Truckbase ; Descartes Aljex ; Rose Rocket ; ITS Dispatch ; McLeod PowerBroker	yes	ITS Dispatch by Truckstop written as ITS Dispatch
+468	Samsara	Samsara ; Motive ; DAT Load Board ; Tai TMS ; FreightPOP ; Tailwind TMS ; Route4Me ; PCS TMS ; Transvirtual ; McLeod LoadMaster ; Alvys ; Oracle Transportation Management	yes	DAT Load Board / DAT iQ heading coded as one entry; KeepTruckin former name dropped
+469	Samsara	Samsara ; Motive ; DAT Load Board ; Tai TMS ; FreightPOP ; Tailwind TMS ; McLeod LoadMaster ; PCS TMS ; Truckbase ; Alvys ; Oracle Transportation Management ; Freightview	yes	DAT Load Board / DAT iQ heading coded as one entry; Trucker Tools and POD Complete passing, left out
+470	Tai TMS	Tai TMS ; FreightPOP ; DAT One ; Tailwind TMS ; Samsara ; Motive ; PCS TMS ; Route4Me ; McLeod LoadMaster ; MyCarrierTMS ; Transvirtual ; Alvys ; Freightview ; Oracle OTM ; Elite EXTRA	yes	DAT One / DAT Load Board heading one entry; Freightview, Oracle OTM, Elite EXTRA offered only in choose table
+471	Freightview	Freightview ; Rose Rocket ; Kuebix ; McLeod TMS ; Trimble TMS ; Oracle Transportation Management ; SAP Transportation Management ; Manhattan TMS ; Alpega TMS ; ShipStation ; MyCarrierTMS ; DAT Load Board	yes	
+472	Freightview	Freightview ; Rose Rocket ; Kuebix ; McLeod TMS ; Trimble TMS ; Oracle Transportation Management ; SAP Transportation Management ; Manhattan TMS ; Alpega TMS ; ShipStation ; MyCarrierTMS ; DAT Load Board ; Metrobi ; Truckstop ITS Dispatch ; Motive ; Elite EXTRA ; Truckbase ; Alvys ; MercuryGate	no	AscendTMS only in opening echo; Alvys and MercuryGate offered only in use-case lines
+473	Freightview	Freightview ; Rose Rocket ; Kuebix ; McLeod TMS ; Trimble TMS ; MyCarrierTMS ; DAT Load Board ; ShipStation ; Metrobi	no	AscendTMS only in opening echo
+474	Tailwind TMS	Tailwind TMS ; Alvys ; BrokerPro ; Samsara ; FreightPOP ; McLeod PowerBroker	no	AscendTMS only in opening echo
+475	Tailwind TMS	Tailwind TMS ; Alvys ; FreightPOP ; Samsara ; Motive ; MercuryGate ; McLeod PowerBroker ; BrokerPro	no	AscendTMS only in opening echo; Samsara / Motive and MercuryGate / McLeod PowerBroker items each coded as two vendors
+476	Tailwind TMS	Tailwind TMS ; Alvys ; UROUTE ; FreightPOP ; BrokerPro ; MercuryGate ; McLeod PowerBroker	yes	
+477	Tailwind TMS	Tailwind TMS ; McLeod PowerBroker ; Turvo ; Tai TMS ; Revenova ; PCS TMS	yes	Salesforce passing, left out
+478	Tailwind TMS	Tailwind TMS ; Freightview ; Project44 ; Descartes Aljex ; McLeod PowerBroker ; GoComet	yes	
+479	Freightview	Freightview ; FreightPOP ; MyCarrierTMS ; project44 ; FarEye ; Motive ; Samsara ; Oracle Transportation Management ; Blue Yonder TMS	no	AscendTMS only in opening echo
+480	Tai TMS	Tai TMS ; Turvo ; Descartes Aljex ; Revenova ; Infios ; AscendTMS	yes	Infios (formerly MercuryGate) one entry; Salesforce passing
+481	Tai TMS	Tai TMS ; Descartes Aljex ; Turvo ; Revenova ; Rose Rocket ; Infios Transportation Management	yes	Infios (formerly MercuryGate) one entry; Salesforce passing
+482	Tai	Tai ; Turvo ; Descartes Aljex ; Revenova ; AscendTMS ; Infios	yes	Tai = Tai TMS in table; Infios (formerly MercuryGate) one entry
+483	Descartes Aljex	Descartes Aljex ; Tai TMS ; Alvys ; Rose Rocket ; Turvo ; AscendTMS ; DAT Broker TMS ; MercuryGate ; BrokerPro	yes	truncated in closing table; Teknowlogi, SaferWatch, QuickBooks passing
+484	Tai TMS	Tai TMS ; Descartes Aljex ; Rose Rocket ; Alvys ; Turvo ; MercuryGate ; AscendTMS ; BrokerPro ; DAT Broker TMS ; Trimble ; Infios	yes	Trimble and Infios from closing also-have-the-depth line, included (judgment); McLeod itself listed in choose table
+485	Descartes Aljex	Descartes Aljex ; Tai TMS ; Rose Rocket ; Alvys ; Turvo ; DAT Broker TMS ; 3PL Systems BrokerWare ; ARK TMS ; AscendTMS	yes	
+486	Tai TMS	Tai TMS ; Aljex ; AscendTMS ; Turvo ; Rose Rocket ; Alvys ; Tailwind TMS	yes	Aljex (Descartes) written as Aljex; QuickBooks passing
+487	Tai TMS	Tai TMS ; AscendTMS ; Turvo ; Alvys ; Rose Rocket ; Descartes Aljex ; DAT Broker TMS ; Tailwind TMS	no	McLeod only in opening echo; DAT Broker TMS / DAT iQ row one entry
+488	Tai TMS	Tai TMS ; AscendTMS ; Rose Rocket ; Turvo ; Aljex ; Alvys ; DAT Broker TMS ; Truckstop	yes	DAT Broker TMS / Truckstop item coded as two vendors; E2open passing
+489	Tai TMS	Tai TMS ; Turvo ; AscendTMS ; Transfix	no	McLeod only in opening echo (with PowerBroker added) and an echo heading (judgment)
+490	AscendTMS	AscendTMS ; TAI TMS ; Turvo ; ARK TMS ; BrokerPro	yes	QuickBooks passing; one table row name missing (Turvo row)
+491	Rose Rocket	Rose Rocket ; Tai TMS ; PCS Software ; Infios TMS	yes	last table row has no vendor name, left out; Infios TMS (formerly MercuryGate) one entry
+492	Tai TMS	Tai TMS ; AscendTMS ; Turvo ; Alvys ; MercuryGate	yes	
+493	Tai TMS	Tai TMS ; Alvys ; AscendTMS ; Rose Rocket ; BrokerPro	yes	
+494	Tai TMS	Tai TMS ; Alvys ; AscendTMS ; Trimble ; BrokerPro	yes	Trimble (Transportation Enterprise) written as Trimble
+495	ezyVet	ezyVet ; Shepherd ; IDEXX Neo ; Provet ; Covetrus Pulse ; Instinct	yes	Provet / Provet Cloud one entry; Instinct EMR written as Instinct
+496	ezyVet	ezyVet ; Shepherd ; Digitail ; IDEXX Neo ; Provet ; Covetrus Pulse	yes	
+497	ezyVet	ezyVet ; IDEXX Neo ; Shepherd ; Provet ; Covetrus Pulse ; Instinct	yes	Instinct EMR written as Instinct
+498	ezyVet	ezyVet ; Shepherd Vet ; Provet Cloud ; Digitail ; Covetrus AVImark ; Covetrus Pulse ; VETport ; NaVetor ; Hippo Manager	yes	Xero, SmartFlow passing
+499	ezyVet	ezyVet ; Shepherd Vet ; Provet Cloud ; Digitail ; Covetrus AVImark ; Covetrus Pulse ; VETport ; NaVetor ; Hippo Manager	yes	Impromed named in passing inside AVImark section, left out (judgment)
+500	ezyVet	ezyVet ; Shepherd Vet ; Digitail ; Provet Cloud ; Covetrus AVImark ; Covetrus Pulse ; VETport ; IDEXX Neo ; Hippo Manager	yes	closing table stops after five rows, possibly truncated; Nordhealth developer passing
+501	ezyVet	ezyVet ; IDEXX Neo ; Provet Cloud ; Shepherd ; DaySmart Vet ; Covetrus AVImark ; Impromed	yes	AVImark and Impromed from a some-lists-also-include line, included (judgment)
+502	ezyVet	ezyVet ; IDEXX Neo ; Provet Cloud ; Shepherd ; DaySmart Vet ; Digitail ; AVImark ; Impromed	yes	AVImark / Impromed / Covetrus products item coded as AVImark and Impromed; generic Covetrus products left out (judgment)
+503	ezyVet	ezyVet ; IDEXX Neo ; Provet Cloud ; Shepherd ; Digitail ; DaySmart Vet	yes	
+504	ezyVet	ezyVet ; Instinct Science ; Shepherd ; Digitail ; AVImark	yes	Shepherd Veterinary Software written as Shepherd; Covetrus as owner left out
+505	ezyVet	ezyVet ; IDEXX Neo ; Covetrus Pulse ; Shepherd	yes	Shepherd Veterinary Software written as Shepherd; AVImark and VetConnect PLUS passing
+506	ezyVet	ezyVet ; IDEXX Neo ; Shepherd ; AVImark	yes	fourth name in opening line missing; Shepherd Veterinary Software written as Shepherd; Antech, VetConnect PLUS passing
+507	ezyVet	ezyVet ; IDEXX Neo ; Shepherd ; Provet Cloud ; Covetrus Pulse	yes	Shepherd Veterinary Software written as Shepherd
+508	ezyVet	ezyVet ; Vetspire ; Digitail ; DaySmart Vet ; Instinct Science	yes	
+509	ezyVet	ezyVet ; Covetrus Pulse ; IDEXX Neo ; DaySmart Vet ; AVImark	yes	DaySmart Vet & AVImark heading coded as two vendors; Vetcove, PetDesk passing
+510	Provet Cloud	Provet Cloud ; Shepherd ; Digitail ; Instinct EMR ; Vetspire ; IDEXX Neo	yes	Provet Cloud / Provet one entry
+511	Shepherd	Shepherd ; Provet Cloud ; Digitail ; Instinct EMR ; IDEXX Neo	yes	Provet Cloud / Provet one entry; Antech passing
+512	Provet	Provet ; Shepherd ; Digitail ; Instinct EMR ; IDEXX Neo ; Covetrus Pulse	yes	
+513	Shepherd	Shepherd ; NectarVet ; Digitail ; DaySmart Vet ; IDEXX Neo ; Covetrus Pulse ; Provet Cloud ; Instinct Science ; Avimark ; Cornerstone ; ImproMed	yes	Shepherd Veterinary Software written as Shepherd; legacy Avimark / Cornerstone heading two vendors, ImproMed named in that item's text, included (judgment)
+514	Shepherd	Shepherd ; Digitail ; NectarVet ; IDEXX Neo ; DaySmart Vet ; Instinct Science ; Covetrus Pulse ; Provet Cloud ; Cornerstone ; Avimark ; Impromed	yes	legacy heading Cornerstone & Avimark two vendors, Impromed named in that item's text, included (judgment); VetCove passing
+515	Shepherd	Shepherd ; Digitail ; NectarVet ; Provet Cloud ; DaySmart Vet ; IDEXX Neo ; Covetrus Pulse ; Vetspire ; Cornerstone	yes	Avimark passing inside Cornerstone section, left out
+516	Covetrus Pulse	Covetrus Pulse ; Shepherd ; Digitail ; DaySmart Vet ; IDEXX Neo ; Provet Cloud	yes	
+517	Covetrus Pulse	Covetrus Pulse ; DaySmart Vet ; Shepherd ; Digitail ; IDEXX Neo ; Provet Cloud	yes	
+518	Covetrus Pulse	Covetrus Pulse ; Shepherd ; DaySmart Vet ; Digitail ; IDEXX Neo ; Provet Cloud ; Covetrus AVImark ; Cornerstone	yes	Covetrus AVImark / Cornerstone Practice Management item coded as two vendors
+519	Shepherd	Shepherd ; Covetrus Pulse ; Vetspire ; DaySmart Vet ; IDEXX Neo	yes	opening pick name and one list item name missing (pet-parent app item), left out
+520	Instinct Science	Instinct Science ; Covetrus Pulse ; Shepherd ; Digitail ; DaySmart Vet ; IDEXX Neo	yes	Shepherd Veterinary Software written as Shepherd
+521	Covetrus Pulse	Covetrus Pulse ; Digitail ; Shepherd ; DaySmart Vet ; Instinct Science	yes	one opening name and one table row name missing; Neo only in community-opinion line, left out (judgment)
+522	Instinct EMR	Instinct EMR ; Shepherd ; Covetrus Pulse ; DaySmart Vet ; Idexx Cornerstone ; Covetrus Avimark	yes	Instinct EMR / Instinct Science one entry; Idexx Cornerstone / Covetrus Avimark item coded as two vendors
+523	Covetrus Pulse	Covetrus Pulse ; Shepherd ; Instinct ; DaySmart Vet ; AVImark ; Cornerstone	yes	Shepherd Veterinary Software written as Shepherd; legacy AVImark or Cornerstone item coded as two vendors
+524	Covetrus Pulse	Covetrus Pulse ; IDEXX Neo ; Provet Cloud ; Shepherd ; DaySmart Vet ; Cornerstone ; AVImark	yes	Shepherd Veterinary Software written as Shepherd; Cornerstone / AVImark item coded as two vendors
+525	Shepherd	Shepherd ; ezyVet ; Digitail ; Provet ; Instinct EMR	yes	X named as Pulse (switching from Pulse, Pulse migration)
+526	Shepherd	Shepherd ; Digitail ; ezyVet ; DaySmart Vet ; Provet ; Instinct EMR	yes	
+527	Shepherd	Shepherd ; Digitail ; ezyVet ; DaySmart Vet ; Provet ; Instinct EMR	yes	X named as Pulse in migration and vRxPro lines
+528	Cornerstone Practice Management	Cornerstone Practice Management ; ezyVet ; Weave ; Hippo Manager ; DaySmart Vet ; IDEXX Neo ; Shepherd ; VetBadger ; IDEXX Animana ; AVImark ; Provet Cloud	yes	first five from opening G2 sentence of top options; Cornerstone later headed IDEXX Cornerstone, one entry; Hippo Manager offered only in that sentence; Weave is a communication tool offered as an item
+529	ezyVet	ezyVet ; IDEXX Cornerstone ; Shepherd ; Digitail ; DaySmart Vet ; Instinct Science ; VetBadger ; Hippo Manager ; Provet Cloud	yes	Shepherd Veterinary Software written as Shepherd; VetConnect PLUS passing
+530	ezyVet	ezyVet ; Cornerstone Practice Management ; Shepherd ; Digitail ; DaySmart Vet ; Instinct Science ; VetBadger ; Hippo Manager ; HVMS	yes	Weave named only in passing inside DaySmart Vet item, left out (judgment); Shepherd Veterinary Software written as Shepherd
+531	Cornerstone Practice Management	Cornerstone Practice Management ; ezyVet ; Weave ; Hippo Manager ; DaySmart Vet ; Neo ; NaVetor ; IntraVet ; Shepherd ; Vetport ; Instinct Science	no	Covetrus Pulse only in opening echo; Neo Software and Shepherd Veterinary Software written without Software; last six from other-alternatives line, included
+532	Cornerstone Practice Management	Cornerstone Practice Management ; ezyVet ; Weave ; DaySmart Vet ; Hippo Manager	yes	
+533	Cornerstone Practice Management	Cornerstone Practice Management ; ezyVet ; Weave ; DaySmart Vet ; Hippo Manager ; Neo ; NaVetor ; IntraVet ; Shepherd ; Vetport	yes	Neo Software and Shepherd Veterinary Software written without Software
+534	Instinct Science	Instinct Science ; DaySmart Vet ; ezyVet ; Shepherd ; Digitail ; Covetrus AVImark	no	Covetrus Pulse only in opening echo
+535	Instinct Science	Instinct Science ; ezyVet ; DaySmart Vet ; Shepherd	yes	AI-native item has no vendor name, left out; Shepherd Veterinary Software written as Shepherd
+536	ezyVet	ezyVet ; Instinct Science ; DaySmart Vet ; Shepherd ; Covetrus Avimark	no	Covetrus Pulse only in opening echo; a duplicated pricing line may mark a dropped unnamed item; SignalPET source left out
+537	Instinct Science	Instinct Science ; ezyVet ; DaySmart Vet ; AVImark ; Cornerstone ; Shepherd	no	Covetrus Pulse only in opening echo; AVImark or Cornerstone item coded as two vendors; Shepherd Veterinary Software written as Shepherd
+538	ezyVet	ezyVet ; Instinct Science ; IDEXX Neo ; DaySmart Vet ; Provet Cloud ; Covetrus AVImark ; IDEXX Cornerstone	yes	Covetrus AVImark or IDEXX Cornerstone item coded as two vendors
+539	ezyVet	ezyVet ; DaySmart Vet ; Instinct Science ; IDEXX Neo ; Digitail ; IDEXX Cornerstone	yes	

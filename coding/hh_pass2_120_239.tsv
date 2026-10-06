@@ -1,0 +1,120 @@
+120	both	lean Cloudbeds for independent wanting integrated stack; Mews for automation/customization; starting rec demo each first per goal; no default
+121	both	start with Cloudbeds for independent wanting unified package; lean Mews if automation/integrations/group; asks property details
+122	both	bottom line: demo Cloudbeds first for straightforward independent, Mews first for automation-focused hotel or group
+123	both	bottom line: no universal winner; smaller independent go Cloudbeds, tech-forward boutique Mews
+124	both	bottom line: choose Cloudbeds if all-in-one/fast onboarding; choose Mews if API-first/automation; no default
+125	both	no universal winner; bottom line: pick Cloudbeds if all-in-one plug-and-play, pick Mews if tech-forward
+126	both	no single better: Cloudbeds usually better for small/mid independents wanting all-in-one, Mews for flexibility/API; no default
+127	both	short answer: choose Cloudbeds if value/simplicity, Mews if flexibility/automation; asks for details
+128	both	no universal winner; choose Cloudbeds if all-in-one/lower cost, Mews if customization/integrations
+129	both	opening: Cloudbeds better for independent/growing properties, Mews for tech-savvy groups; asks property type
+130	both	neither universally better; choose Cloudbeds if boutique/hostel/independent, Mews if tech-forward or group
+131	both	depends; best-for line per vendor (Cloudbeds straightforward unified, Mews tech-savvy/groups); asks details
+132	both	verdict: go with Cloudbeds if all-in-one/intuitive, go with Mews if automation/multi-property
+133	both	verdict: go with Cloudbeds if reliable all-in-one, go with Mews if automation/open API
+134	both	quick verdict: go with Mews if self-service automation, go with Cloudbeds if all-in-one core
+135	both	provisional pick: RoomKeyPMS for rooms-first hotel, Maestro for integrated full-service; no default
+136	both	bottom line: RoomKeyPMS for straightforward independent, Maestro for departmentally complex; no default
+137	both	bottom line: RoomKeyPMS for rooms-led operation, Maestro for multi-department complexity
+138	both	verdict scenario table: small/budget RoomKeyPMS, full-service/multi-property Maestro; truncated mid-table
+139	both	in short: smaller independent RoomKeyPMS, larger full-service Maestro; scenario table
+140	B	verdict split, then default: for most independent hotels without complex ancillary ops RoomKeyPMS offers better balance
+141	B	for most independent hotels RoomKeyPMS; shortest answer: RoomKeyPMS for a typical independent hotel, Maestro if complex
+142	B	for a typical independent hotel I'd lean RoomKeyPMS unless you need Maestro's complexity
+143	B	shortest recommendation: RoomKeyPMS for most independent hotels; Maestro only if enterprise complexity
+144	both	RoomKey generally better if priority is ease, Maestro if full-service resort; when-to-choose per vendor; per-factor winner table only; asks details
+145	B	opening: RoomKey generally better for a standard independent or boutique hotel; Maestro only if large full-service resort (default with exception)
+146	both	RoomKey generally better for smaller/boutique independents, Maestro for full-service resorts; best-for per vendor; asks details
+147	both	verdict: choose Maestro if full-service resort/luxury, choose RoomKeyPMS if standard/select-service; asks details
+148	both	summary: choose Maestro if full-service resort, choose RoomKeyPMS if simpler streamlined hotel; asks details
+149	both	depends; head-to-head choose-if table per vendor; best-for per vendor; asks details
+150	both	lean EZLynx for personal-lines one-system agency, HawkSoft for modular tools; demo order per goal; asks details
+151	both	bottom line: 'default' EZLynx for agency seeking one platform, HawkSoft for agency keeping its tools; per buyer type, no single default
+152	both	EZLynx 'default pick' for personal-lines agency, HawkSoft for agency wanting own tools; choose-if per vendor; asks details
+153	A	bottom line table header awards HawkSoft trophy; also HawkSoft clearly outperforms on satisfaction; truncated mid-table
+154	both	verdict: depends on priorities; per-factor winner table; then choose EZLynx if personal-lines-heavy ... truncated mid split
+155	A	pick-if split, then overall: HawkSoft tends to be the better choice for most small-to-mid agencies; EZLynx if personal-lines quoting
+156	both	depends; choose EZLynx if personal-lines heavy, HawkSoft if service-driven; review data leans HawkSoft is observation not pick
+157	both	shortest answer: personal-lines quote-heavy -> EZLynx; general independent P&C/service -> HawkSoft; HawkSoft edge on satisfaction noted
+158	both	no single better; rule of thumb: personal lines -> EZLynx, mixed/commercial book -> HawkSoft; review edge HawkSoft is data note
+159	both	HawkSoft better for core AMS/support, EZLynx for personal-lines quoting; neither universally superior; best-for per vendor
+160	both	opening: EZLynx better for personal-lines agencies, HawkSoft for independent P&C prioritizing support; asks details
+161	both	neither universally superior; summary: choose HawkSoft if management/support, choose EZLynx if quoting bottleneck
+162	both	neither universally superior; choose HawkSoft if mixed lines/support, choose EZLynx if personal-lines quoting
+163	both	depends; verdict: go with HawkSoft if policy admin/support, go with EZLynx if speed-to-quote
+164	both	comes down to priorities; choose EZLynx if fast personal-lines quoting/web, choose HawkSoft if retention/workflow
+165	B	start with EZLynx; decision rule: pay Epic premium only when demo shows measurable advantage; would not pay for Epic to future-proof (default with exception)
+166	B	bottom line: I'd choose EZLynx unless Epic demonstrates a needed capability
+167	B	default pick EZLynx; bottom line: I'd choose EZLynx unless demo shows Epic handles a requirement materially better
+168	both	verdict: choose-if table, Epic for mid-large/commercial, EZLynx for small/personal lines; per-factor winners only
+169	both	in short: EZLynx wins for small agencies, Epic for growing/larger; neither wrong, depends on size
+170	both	verdict depends on size: choose EZLynx if personal lines under 15 users, choose Epic if commercial/20+ users
+171	both	short answer: EZLynx usually better value for small/mid agencies, Epic worth it when enterprise needs; choose-if by size
+172	both	Epic worth it if larger/commercial, EZLynx better value if small/mid personal lines; rule of thumb by size
+173	both	EZLynx usually better value for smaller agencies, Epic worth it only if enterprise depth; pick tied to agency size, no general default
+174	both	EZLynx worth it for small-mid personal lines, Epic only for complex commercial/enterprise; when-worth-it per vendor; asks details
+175	both	direct answer: EZLynx worth it for small-mid personal lines, Epic only for complex commercial/multi-location; when-worth-it per vendor
+176	both	EZLynx worth it for small personal-lines agencies, Epic for growing/commercial-heavy; best-for per vendor; asks details
+177	both	Epic worth it for large/commercial-heavy, EZLynx for small-mid personal lines; depends entirely; asks details
+178	both	Epic worth it for large/commercial-heavy, EZLynx better value for small-mid personal lines; depends on size
+179	both	verdict: choose EZLynx if small-mid personal lines, choose Epic if complex commercial; asks details
+180	B	my recommendation: for a small firm without must-have integrations MyCase Pro first demo (default with exception); opening split
+181	B	practical recommendation: demo MyCase Pro first unless you need particular integrations or granular controls
+182	B	recommendation: small firm without must-have integrations demo MyCase Pro first; Clio first if reliant on specialized apps (default with exception)
+183	both	quick verdict: choose Clio if scalability/integrations, MyCase if simplicity; bottom line by firm size; no default
+184	A	short answer under trophy heading: Clio is the stronger platform overall, MyCase fine for solos; bottom line splits budget vs growth
+185	A	'bottom line first' (trophy heading): Clio is the stronger platform overall, MyCase fine for solos; final verdict is a choose-if split leaning MyCase for 1-10 attorneys (conflict)
+186	B	for a small firm MyCase is usually the better default choice; Clio if growth/integrations
+187	B	for a small firm MyCase is usually the better default choice; MyCase smarter starting point
+188	B	shortest answer: MyCase is better for most small firms; Clio for growth-minded firms
+189	both	MyCase generally better for small firms wanting all-in-one, Clio for those needing customization; best use case split; asks details
+190	both	MyCase generally better for small firms wanting all-in-one, Clio if integrations/trust depth; choose-if per vendor
+191	both	MyCase generally better for small firms wanting all-in-one, Clio for firms prioritizing integrations; when-to-choose per vendor
+192	both	verdict: choose MyCase if solo/small wanting plug-and-play, choose Clio if complex workflows/growth; asks details
+193	B	opening: MyCase is generally better for most small firms; Clio if deep customization needed
+194	both	verdict: choose MyCase if solo/small busy firm wanting quick setup, choose Clio if scaling/complex; asks details
+195	both	start with CosmoLex if accounting priority, Rocket Matter if workflow/billing; which-would-I-choose by situation; asks details
+196	both	starting recommendation: demo CosmoLex first if accounting, Rocket Matter first if billing/workflows
+197	both	shortlist CosmoLex if accounting-centered, Rocket Matter if workflow-centered; 'answers would determine my recommendation'
+198	depends	per-factor winners only (price/ease/integrations Rocket Matter, accounting CosmoLex); no bottom line; truncated in pros/cons
+199	depends	comparison only, accounting is biggest differentiator, no pick; truncated in user feedback
+200	depends	comparison only (accounting vs billing strengths), no pick; truncated in common criticisms
+201	both	CosmoLex better fit if firm wants built-in accounting, Rocket Matter if lighter billing/workflow focus; best-for per vendor; asks details
+202	both	if integrated accounting -> CosmoLex stronger choice; if PM/billing/lower cost -> Rocket Matter; best-for per vendor
+203	both	CosmoLex better fit if firm wants built-in accounting, Rocket Matter if workflow/billing focus; asks details to recommend
+204	depends	strengths comparison and pros/cons, no buyer assignment or pick; asks firm size
+205	depends	feature/strength comparison only, no buyer type or pick; ends with follow-up offers
+206	depends	strengths comparison only (accounting vs streamlined billing), no pick; asks details for personalized recommendation
+207	both	which should you choose: CosmoLex if complex financials/no QuickBooks, Rocket Matter if agile interface/lower price
+208	both	which should you pick: CosmoLex if all-in-one accounting, Rocket Matter if user-friendly/task management
+209	both	CosmoLex for firms wanting built-in accounting, Rocket Matter for firms preferring streamlined tool; best-for per vendor; asks details
+210	both	bottom line: commercial relationship lending -> nCino first, consumer/retail -> MeridianLink first; asks details
+211	both	bottom line: commercial credit -> start with nCino, consumer/retail deposit -> start with MeridianLink
+212	both	my recommendation: retail project MeridianLink, commercial project nCino, bank-wide score both; asks details
+213	both	depends on focus; bottom line: choose MeridianLink if consumer/mortgage, nCino if commercial-heavy
+214	both	depends on needs; choose-if table per vendor (consumer MeridianLink, commercial nCino); truncated mid-table
+215	A	bottom line: for most community banks with mixed retail/consumer focus MeridianLink is the more accessible choice; nCino for commercial-heavy with budget
+216	both	MeridianLink usually better if priority is consumer/mortgage, nCino if commercial/multi-product; simplest recommendation is choose-if split
+217	both	MeridianLink usually better fit if consumer/mortgage priority, nCino if commercial/multi-product; rule of thumb split (MeridianLink cited for community-bank fit)
+218	both	MeridianLink usually better if consumer/mortgage/indirect, nCino if commercial; simple rule by loan mix
+219	both	neither universally better; choose MeridianLink if consumer/mortgage, choose nCino if commercial; asks loan mix
+220	both	opening split (vendor names missing in deposit text); when-to-choose MeridianLink if retail, nCino if commercial; asks details
+221	both	MeridianLink better for retail-heavy, nCino for commercial-focused Salesforce banks; when-to-choose per vendor
+222	both	depends on size/mix; choose MeridianLink if retail/mortgage, choose nCino if commercial/CRE; asks details
+223	both	MeridianLink generally better for consumer-focused community banks, nCino for commercial-focused; asks details
+224	both	MeridianLink generally better for consumer-focused, nCino for commercial-focused; depends; when-to-choose per vendor
+225	A	opening choose-if split; bottom line: Encompass is the core-platform choice, my default would be Encompass plus an evaluated POS
+226	A	choose Encompass for core system; bottom line default: keep the LOS, benchmark Consumer Connect, add Blend only if pilot proves value
+227	both	bottom line three-way: new backbone Encompass; borrower-experience upgrade evaluate Blend alongside LOS; existing Encompass lender benchmark Consumer Connect
+228	both	not strict competitors; best-for per vendor (Encompass large banks, Blend digital-first); 'for most lenders Encompass is foundation' is descriptive; truncated
+229	both	situation table per vendor; bottom line: Encompass foundation, Blend experience layer, use both together
+230	both	not head-to-head; best-for per vendor (Encompass large banks, Blend digital-first); verdict depends, choose Encompass if... truncated
+231	A	shortest answer: most mortgage lenders should start with Encompass as the core LOS; Blend usually an add-on
+232	both	usually choose Encompass if need system of record, Blend if borrower UX pain; replacing LOS Encompass, have LOS Blend; or use both
+233	both	Encompass 'safer default' if you need system of record, Blend if borrower experience priority; simple rule: Encompass for depth, Blend for UX
+234	both	choose Encompass for back-office/compliance, Blend if digital borrower UX priority; choose-when per vendor; asks details
+235	both	should not choose between; when-to-use per vendor (Encompass system of record, Blend front door); run both together
+236	both	choose both, complementary; when-to-anchor per vendor; asks details
+237	both	not either-or; bottom line: Encompass mandatory if no underwriting system, Blend mandatory if losing borrowers at application
+238	both	generally need not choose; when to choose/prioritize Encompass (back office) vs Blend (front end); run together
+239	both	need not choose; choose Encompass if need system of record, Blend if borrower-experience bottleneck; integrate both

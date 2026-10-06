@@ -1,0 +1,102 @@
+155	A	bottom line: HawkSoft tends to be the better choice for most small-to-mid agencies; EZLynx only if personal-lines heavy
+156	both	choose EZLynx if personal-lines heavy, choose HawkSoft if service/workflow driven; best-for line per vendor, no default
+157	both	no single universal winner; personal-lines quote-heavy -> EZLynx, general independent P&C -> HawkSoft; review-edge line is factor only
+158	both	no single better choice overall; choose EZLynx if personal-lines quoting, HawkSoft if AMS depth/servicing; review edge is factor only
+159	both	neither universally superior; best-for row assigns each vendor a buyer type, no default
+160	both	EZLynx better for personal-lines agencies, HawkSoft for independent P&C agencies prioritizing support; target sweet spot per vendor, no default
+161	both	neither universally superior; choose HawkSoft if X, choose EZLynx if Y
+162	both	neither universally superior; choose HawkSoft if mixed lines/support, EZLynx if personal-lines quoting
+163	both	verdict: go with HawkSoft if X, go with EZLynx if Y; best-for per vendor, no default
+164	both	choose EZLynx if fast personal-lines quoting, choose HawkSoft if retention/workflow; no default
+165	B	opening splits by agency type, but decision rule: pay the Epic premium only when a demo shows measurable advantage; bottom line would not pay for Epic for a straightforward agency (judgment: read as EZLynx default with exception)
+166	B	bottom line: I would choose EZLynx unless Epic can demonstrate a needed advantage
+167	B	bottom line: I would choose EZLynx unless the demo reveals a requirement Epic handles materially better
+168	both	verdict table: choose Epic if mid-large/commercial, choose EZLynx if small/personal lines; per-factor winners only, no default
+169	both	verdict: Epic worth it for commercial/scaling agencies, EZLynx for small/budget agencies; depends on size, no default
+170	both	verdict depends entirely on size: choose EZLynx if personal lines under 15 users, choose Epic if commercial/scaling; no default
+171	both	short answer: EZLynx usually better value for small-mid agencies, Epic worth it when enterprise needs; choose EZLynx if X, Epic if Y; no general default (judgment: usually scoped to a buyer type)
+172	both	Epic worth it if larger/commercial, EZLynx better value if small-mid personal lines; rule of thumb by size, no default
+173	B	EZLynx usually the better value, Epic worth the higher price only if enterprise depth needed; better value overall for most smaller agencies: EZLynx (judgment: usually scoped to smaller agencies)
+174	both	EZLynx worth it for small-mid personal lines agencies, Epic only for complex commercial/enterprise; when-worth-it list per vendor, no default
+175	both	EZLynx worth it for small-mid personal-lines agencies, Epic only for complex commercial/multi-location; when-worth-it per vendor, no default
+176	both	EZLynx worth it for small personal-lines agencies, Epic for growing/commercial-heavy; best-for per vendor, no default
+177	both	Epic worth it for large/commercial, EZLynx for small-mid personal lines; depends entirely, no default
+178	both	Epic worth it for large/commercial-heavy, EZLynx better value for small-mid personal lines; no default
+179	both	verdict: choose EZLynx if small-mid personal lines, choose Epic if complex commercial; no default
+180	B	opening splits by priority, but my recommendation: for a small firm without must-have integrations MyCase Pro would be my first demo (judgment: first-demo default with integrations exception)
+181	B	practical recommendation: demo MyCase Pro first, unless you already know you need integrations or granular controls
+182	both	lean MyCase Pro if intake/communication, lean Clio if integrations; recommendation demos MyCase first without integrations, Clio first if relying on specialized apps; not universally better (judgment: close to 180/181)
+183	both	quick verdict: choose Clio if scaling/integrations, choose MyCase if simplicity/value; bottom line by firm size, no default
+184	A	short answer: Clio is the stronger platform overall, MyCase fine for solo practitioners; bottom line then splits by budget vs growth (judgment: overall-stronger line read as default over split)
+185	A	trophy bottom line first: Clio is the stronger platform overall, MyCase fine for solo practitioners; per-factor small-firm wins mostly MyCase and final verdict splits (judgment: trophy bottom line read as pick; uncertain)
+186	B	for a small firm MyCase is usually the better default choice; Clio better if growth/integrations
+187	B	MyCase usually the better default choice for a small firm; smarter starting point for a straightforward small firm; Clio if custom stack
+188	B	shortest answer: MyCase is better for most small firms; Clio for small firms already growing/complex
+189	both	MyCase generally better for small firms wanting all-in-one, Clio for small firms needing customization; best-for per vendor, choose MyCase if X, Clio if Y
+190	both	MyCase generally better for small firms wanting all-in-one, Clio if integrations/trust depth; choose MyCase if X, Clio if Y; no default
+191	both	MyCase generally better for small firms wanting all-in-one, Clio for small firms prioritizing integrations; when-to-choose per vendor, no default
+192	both	better choice depends; verdict: choose MyCase if plug-and-play, Clio if complex workflows/growth
+193	B	MyCase is generally better for most small firms; Clio better if deep customization needed
+194	both	verdict: choose MyCase if solo/small busy firm wanting quick setup, Clio if scaling/complex/integrations; no default
+195	both	start with CosmoLex if integrated accounting is the priority, Rocket Matter if workflow automation/billing; per-situation picks, no default
+196	both	demo CosmoLex first if accounting priority, Rocket Matter first if billing/workflows; fit-based, no default
+197	both	shortlist CosmoLex for accounting-centered firm, Rocket Matter for workflow-centered firm; no default
+198	depends	per-factor winners only (price, integrations, ease to Rocket Matter; accounting to CosmoLex), no bottom line; truncated mid-table
+199	depends	comparison only, accounting called biggest differentiator, no pick; truncated mid-sentence
+200	depends	comparison only, no pick or buyer assignment; truncated mid-sentence
+201	both	CosmoLex better fit if firm wants built-in accounting, Rocket Matter if lighter billing/workflow focus; best-for row per vendor, no default
+202	both	CosmoLex stronger choice if integrated accounting needed, Rocket Matter if billing/simpler setup; best-for row per vendor, no default
+203	both	CosmoLex better fit if firm wants built-in accounting, Rocket Matter if workflow/billing-focused; no default (satisfaction edge is factor only)
+204	depends	key differences and pros/cons only, no pick or buyer assignment; asks firm size
+205	depends	feature, pricing and usability comparison only, no pick or buyer assignment
+206	depends	comparison only, no choose-if or pick; asks firm size for a recommendation
+207	both	choose CosmoLex if complex financial tracking/no QuickBooks, choose Rocket Matter if agile interface/lower price; no default
+208	both	choose CosmoLex if all-in-one accounting, choose Rocket Matter if ease of use/Kanban; no default
+209	both	CosmoLex for firms wanting built-in accounting, Rocket Matter for firms preferring streamlined tool; best-for row per vendor, no default
+210	both	lean nCino for commercial lending, MeridianLink for consumer/retail; bottom line split by project, no default
+211	both	favor nCino for commercially focused bank, MeridianLink for consumer/retail deposit project; bottom line split, no default
+212	both	lean MeridianLink for consumer/retail, nCino for commercial; recommendation by project type, bank-wide score both; no default
+213	both	depends on focus; bottom line: choose MeridianLink if consumer/mortgage, choose nCino if commercial-heavy
+214	both	depends entirely; choose MeridianLink if X, choose nCino if Y table; truncated mid-table
+215	A	bottom line: for most community banks with a mixed retail/consumer focus MeridianLink is the more accessible choice; nCino for strong commercial emphasis (judgment: for most read as default over choose-if split)
+216	both	better choice usually MeridianLink if priority is consumer/mortgage, nCino if commercial/multi-product; choose A if X, B if Y; no stated default (judgment: usually is conditional)
+217	both	MeridianLink usually the better fit if consumer/mortgage priority, nCino if commercial/multi-product; rule of thumb split, no default (judgment: usually is conditional)
+218	both	MeridianLink usually better fit if consumer/mortgage focus, nCino if commercial; simple rule split; community-bank-friendly line not a pick (judgment)
+219	both	neither universally better; choose MeridianLink if consumer/retail, choose nCino if commercial
+220	both	opening (vendor names missing from sentence) typically better if consumer volume vs commercial; when-to-choose per vendor, no default
+221	both	MeridianLink better for retail-heavy, nCino for commercial-focused Salesforce banks; when-to-choose per vendor, no default
+222	both	depends on asset size and loan mix; choose MeridianLink if retail, choose nCino if commercial
+223	both	MeridianLink generally better for consumer-focused community banks, nCino for commercial-priority banks; buyer-type split, no default
+224	both	MeridianLink generally better for consumer/retail banks, nCino for commercial; depends on mix; when-to-choose per vendor
+225	A	choose Encompass for core LOS, Blend for front-end; bottom line: my default would be Encompass plus an evaluated POS, Blend a potential enhancement (judgment: default overrides split)
+226	A	choose Encompass if core system, evaluate Blend for front end; bottom line default: keep the LOS, benchmark Consumer Connect, add Blend only if a pilot shows value (judgment: default scoped to existing Encompass lender)
+227	both	bottom line: new backbone choose Encompass, borrower-experience upgrade evaluate Blend, existing Encompass lender benchmark Consumer Connect first; split by situation (judgment: close to 226)
+228	both	not strict competitors; best-for per vendor (Encompass large established banks, Blend digital-first lenders), no pick; truncated mid-sentence
+229	both	situation table assigns each vendor; bottom line: system of record -> Encompass, digital application -> Blend, often both together; no single pick
+230	both	not head-to-head competitors; best-for per vendor (Encompass large banks/IMBs, Blend digital-first lenders), verdict depends on goals; truncated mid-sentence in verdict
+231	A	shortest answer: most mortgage lenders should start with Encompass as the core LOS; Blend usually an add-on
+232	both	should usually choose Encompass if it needs a system of record, Blend if borrower-facing pain point; replacing LOS -> Encompass, have LOS -> Blend, or both; no unconditional default (judgment)
+233	A	for a lender choosing a primary system Encompass is usually the safer default; Blend better if borrower experience is the priority; simple rule then splits (judgment: safer default read as pick, compare 186)
+234	both	choose Encompass for back-office/compliance, Blend if digital borrower experience priority; choose-when list per vendor, often both together
+235	both	should not choose between them, different layers; when-to-use per vendor; most mid-large lenders run both together
+236	both	should choose both, complementary layers; when-to-anchor per vendor situation
+237	both	not either-or; bottom line: Encompass mandatory if no underwriting system, Blend mandatory if losing borrowers at application; split by situation
+238	both	generally do not have to choose; choose/prioritize Encompass if back-office bottleneck, Blend if front-end conversion
+239	both	complementary; choose Encompass if core system of record needed, Blend if borrower experience, integrate both for comprehensive ops
+240	A	opening: start with Sectra as the enterprise-wide choice, favor Visage only when radiologist reading performance is overriding; default overrides later choose-if split
+241	A	lean toward Sectra as the default; use Sectra as the starting preference, Visage if productivity dominant
+242	A	start with Sectra as the default enterprise-wide choice, favor Visage when radiologist productivity dominant; default overrides front-runner split
+243	both	bottom line: choose Sectra if KLAS/security priorities, choose Visage if speed/cloud/lower TCO; scorecard only otherwise; truncated mid-sentence
+244	depends	depends on size/priorities; per-factor edges only (Sectra satisfaction, Visage cloud/speed/AI/cost), no pick; truncated mid-sentence
+245	both	bottom line: choose Sectra if reliability/security priorities, choose Visage if speed/cloud/lower TCO; both excellent, depends; truncated mid-sentence
+246	A	for a hospital system Sectra is usually the better default choice; Visage the better pick if raw rendering speed is top priority
+247	A	for a hospital system Sectra is usually the better default choice; Visage often better when raw viewing speed is top priority
+248	A	Sectra is usually the better all-around PACS choice; Visage better if speed is the top priority
+249	both	neither universally better; summary: choose Sectra if enterprise standardization, choose Visage if radiologist productivity/remote-reading speed
+250	depends	Sectra generally considered better for hospital system management/satisfaction, Visage preferred by radiologists for speed; strengths split, no choose-if or own pick; asks focus (judgment: could be read as A)
+251	A	Sectra PACS is generally better for a complete hospital system; summary then gives choose Sectra if X, Visage if Y (judgment: opening default overrides split)
+252	both	neither universally better; go with Sectra if X, go with Visage if Y
+253	both	verdict: choose Sectra if stability/workflow integration, choose Visage if speed/remote reading; no default
+254	both	choose Sectra if stability/unified multi-specialty, choose Visage if radiologist productivity/speed; no default
+255	B	lean toward Intelerad as the starting choice for a teleradiology firm serving multiple hospitals; Visage a serious trial only if reading experience is the bottleneck; practical verdict then splits (judgment: opening default over split)
+256	B	provisionally favor Intelerad for a teleradiology firm serving multiple hospitals; Visage if viewer performance prioritized; recommendation then splits shortlist-first by challenge (judgment: opening default over split)

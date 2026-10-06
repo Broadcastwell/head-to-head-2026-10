@@ -1,0 +1,26 @@
+{
+  "title": "Head to Head: who the engines pick when a buyer asks A or B. October 2026.",
+  "upload_type": "dataset",
+  "description": "From the September 2026 Absence Index deposit (DOI 10.5281/zenodo.22907695; verbatim answers from ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, three repeats per question), we read every answer to a head to head question (\"A vs B\") and every answer to an alternatives question (\"alternatives to X\") across 14 categories. We report how often an answer declares a single winner, who wins, whether the five engines agree, whether the winner is the more-named vendor in the Index, and what the winning answers cite.",
+  "creators": [
+    {
+      "name": "Broadcastwell"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "keywords": [
+    "generative engine optimization",
+    "AI search",
+    "B2B software",
+    "vendor comparison"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22907695",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

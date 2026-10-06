@@ -1,0 +1,103 @@
+257	B	headline: for a teleradiology firm serving multiple hospitals I'd provisionally lean Intelerad; Visage worth a trial if reading experience is priority
+258	both	verdict: depends; choose Visage if speed, choose Intelerad if workflow; truncated
+259	B	for most teleradiology firms Intelerad gives an edge; Visage if viewer speed is the bottleneck
+260	both	final recommendation table assigns firm types to each, no default; truncated
+261	B	for a teleradiology firm Intelerad usually the better fit; why Intelerad often wins for teleradiology; Visage if speed priority
+262	B	practical takeaway: for a multi-site reading group Intelerad is the safer default because teleradiology depends on routing; Visage if throughput differentiator
+263	both	Intelerad usually better default if priority is routing; Visage if speed; final lean split by situation, no unconditional default
+264	both	choose Visage if streaming bottleneck, choose Intelerad if workflow routing
+265	both	verdict: choose Intelerad if new or mid-market, choose Visage if massive volumes and capital
+266	both	neither universally better; choose Visage if speed bottleneck, Intelerad if workflow engine
+267	both	verdict: choose Visage if speed objective, choose Intelerad if orchestration hurdle
+268	both	verdict split by pain point; per-factor winner table only (Visage 3 of 4) not a pick
+269	both	summary verdict: choose Visage if speed priority, Intelerad if workflow priority
+270	both	bottom line: Buildium for smaller cost-conscious, AppFolio for complex operation; not universally better
+271	both	bottom line: Buildium for smaller business, AppFolio for complex operation; fit-based, no default
+272	both	bottom line: Buildium for smaller cost-focused company, AppFolio for complex operation; choose-if lists per vendor
+273	both	bottom line scenario table and fit line: Buildium for smaller portfolios, AppFolio for growing 50+ units; less about which is better
+274	both	truncated at empty who-should-choose table; text present assigns Buildium to small-mid managers, AppFolio to larger 50+ unit firms, no pick
+275	both	truncated in pros list; who-each-is-built-for: Buildium residential/HOA small, AppFolio mid-to-large; no pick
+276	both	Buildium usually better for smaller to mid-sized, AppFolio for larger growing firms; rule of thumb split
+277	both	Buildium usually better for smaller to mid-sized, AppFolio for larger or faster-growing; choose-if per vendor
+278	both	Buildium safer default for single-family/small multifamily/HOA, AppFolio for growing larger business; split by type
+279	both	best-for lines: Buildium small to mid-sized, AppFolio larger fast-scaling portfolios
+280	both	Buildium best for small to mid-sized, AppFolio built for larger 200+ portfolios; no default
+281	excluded	no AI Overview returned
+282	both	quick recommendation: choose Buildium if 50-200 units, AppFolio if 200+
+283	both	summary checklist: choose Buildium if smaller/mid, AppFolio if 200+ units
+284	both	which to choose: Buildium if small-to-midsize, AppFolio if large or scaling
+285	B	headline: for a small residential management company I'd demo Buildium first, choose Breeze only if predictable pricing matters more; demo-first read as lean
+286	B	headline: for small company managing for outside owners demo Buildium first, Breeze better value if straightforward; final provisional pick is split; default read from headline
+287	both	provisional recommendation: Buildium for growing operation wanting automation, Breeze for lean team prioritizing cost; choose-if lists
+288	B	for most growing property management companies Buildium is the stronger long-term fit, Breeze if per-unit pricing; bottom line best-for table split; truncated
+289	B	for a small residential management company Buildium Essential likely the better fit, Breeze if mixed property types; for most growing companies Buildium; truncated
+290	both	verdict: choose Buildium if residential under 500, choose Breeze if mixed types; bottom line sentence cut off; truncated
+291	B	for a small management company Buildium usually the better default; why Buildium often better for small firms; Breeze if very small portfolio
+292	B	for a small management company Buildium usually the better default choice; Breeze if very price-sensitive
+293	B	for a small management company Buildium usually the better default choice; Breeze better fit if simple portfolio; choose-if list follows
+294	B	Buildium generally the stronger fit for a small residential company; Breeze works for per-unit pricing
+295	B	[vendor name missing in text] generally the stronger long-term fit (open API, marketplace = Buildium per table), while Breeze works for per-unit pricing
+296	B	for a small company Buildium generally the stronger long-term fit; Breeze works if per-unit pricing wanted
+297	both	choose Buildium if strictly residential/HOA, choose Breeze if mixed commercial; no default
+298	both	per-factor verdicts and best-for table: Breeze mixed portfolios, Buildium pure residential/smaller; no overall pick
+299	both	choose Breeze if simple low-cost portfolio, choose Buildium if deep accounting/HOAs
+300	A	for a small brokerage-only operation I'd start with AscendTMS; favor Alvys if automation or trucks; would not pay more for Alvys unless
+301	A	my default pick: AscendTMS for a lean standalone brokerage; Alvys if workflow savings justify cost
+302	A	bottom line: AscendTMS my default starting point for a lean brokerage; Alvys must win on workflow and quote
+303	both	bottom line: choose AscendTMS if startup or very small, choose Alvys if small broker with growth ambitions; price verdict per-factor only
+304	A	short answer: AscendTMS generally the better choice for a small broker; final: for a pure small broker AscendTMS the better fit
+305	both	verdict: choose Ascend if brand-new/very small, Alvys if planning to grow; right one depends on budget and stage
+306	A	for a small broker AscendTMS usually the better choice if low cost/quick setup; balance of sources favors Ascend under 100 loads; Alvys if growing
+307	A	for a small broker AscendTMS is usually the better choice (lower cost, easier start); Alvys if faster growth; shortest answer split overridden by default
+308	A	for a small broker AscendTMS usually the better fit; choose Alvys only if more automation needed
+309	both	Ascend generally better for budget-conscious or brand-new small broker, Alvys if hybrid or want automation; asks which applies
+310	both	Ascend better for pure low-cost brokerage, Alvys if hybrid broker-carrier; asks asset vs non-asset
+311	both	direct answer: Ascend for pure budget-conscious broker, [name missing, Alvys per table] for hybrid carrier-brokerage
+312	both	choose Ascend if shoestring/solo startup, choose Alvys if small budget and want automation; depends on volume and budget
+313	both	choose Ascend if solo startup/micro-broker, choose Alvys if small growing team or hybrid
+314	both	verdict: Ascend if brand-new or solo, Alvys if established small broker with volume
+315	both	lean Truckbase for carrier-only lean office, lean Alvys for carrier with brokerage; demo-first split, no default
+316	both	lean Truckbase for carrier-only dispatch focus, Alvys for carrier with brokerage/multiple entities; start-with split
+317	both	lean Truckbase if priority dispatch/billing, Alvys if broader carrier+brokerage; start-with split
+318	both	bottom line: choose Truckbase if pure asset carrier 5-50 trucks, choose Alvys if larger or hybrid
+319	both	choose Truckbase if small-mid pure asset carrier, choose Alvys if larger or carrier-broker
+320	both	verdict: Truckbase for pure asset carriers 5-50 trucks, Alvys for scalable carrier+brokerage
+321	A	for most asset-based carriers Truckbase is the better choice; why Truckbase is usually better for carriers; Alvys for hybrid/brokers
+322	A	for most asset-based carriers Truckbase is the better TMS; Alvys if brokerage/hybrid
+323	A	for most asset-based carriers Truckbase the better choice; Alvys if hybrid; Truckbase usually cleaner fit without brokerage book
+324	both	Truckbase better for asset carriers focused on simplicity, Alvys for hybrid; choose-if split, no default
+325	both	depends on pure asset vs hybrid; summary verdict choose-if split
+326	both	neither universally better; Truckbase best for pure asset fleets, Alvys best for hybrid
+327	both	choose Truckbase if small-midsize asset fleet, choose Alvys if larger or hybrid
+328	both	Alvys better for mid-to-large dry van/reefer fleets, Truckbase for small-mid specialized fleets; depends on size
+329	both	neither universally better; Truckbase for small-midsize, Alvys for larger/hybrid; truncated after Detailed Breakdown heading
+330	A	for a growing practice choosing a new system I'd generally favor ezyVet; don't switch from working Cornerstone
+331	A	for a growing practice I'd generally lean ezyVet, my stronger default for expansion; keep Cornerstone if already working
+332	A	bottom line: ezyVet is my default for building toward expansion; Cornerstone for preserving an efficient existing install
+333	A	bottom line up front: for a growing practice ezyVet has a clear edge; choose-if split follows
+334	A	short answer: for a growing practice ezyVet has the edge; for most growing practices ezyVet the stronger long-term choice
+335	A	quick verdict: for a growing practice ezyVet has a clear edge; Cornerstone for IDEXX-embedded; truncated
+336	A	for a growing practice ezyVet usually the better choice; Cornerstone if growth inside IDEXX on-premise environment
+337	A	for a growing practice ezyVet usually the better choice; shortest answer: choose ezyVet for growth, Cornerstone for legacy IDEXX
+338	A	for a growing practice ezyVet usually the better choice; Cornerstone if staying embedded in IDEXX
+339	A	ezyVet generally better for a growing practice (cloud scaling); Cornerstone IDEXX lab advantage noted
+340	A	for a growing practice ezyVet generally the better choice; labeled modern cloud winner
+341	both	comes down to infrastructure and scaling; verdict: go with ezyVet if multi-location, Cornerstone if IDEXX in-house reliant
+342	both	verdict conditional: if growth means locations/cloud ezyVet generally superior; if IDEXX in-house reliant Cornerstone remains functional; no unconditional default
+343	A	for a practice focused on growth ezyVet generally edges out as the better long-term fit; Cornerstone if IDEXX hardware-tethered
+344	A	for a practice focused on growth ezyVet generally the stronger choice; stick with Cornerstone only if
+345	both	demo Shepherd first if clinical workflow goal, Digitail first if client app/marketing/AI
+346	both	provisional pick: Shepherd for workflow-first GP, Digitail for clinic seeking app and automation
+347	both	demo Shepherd first if clinical workflow priority, Digitail first if client self-service; choose-if split
+348	both	bottom line: choose Shepherd if SOAP-first simplicity, Digitail if all-in-one AI; simplicity vs breadth
+349	both	which to choose table: Shepherd best for small clinics wanting simplicity, Digitail for clinics wanting AI/telemedicine; truncated in table
+350	depends	comparison and pros/cons only, no verdict reached; truncated after pros/cons
+351	A	for a small animal clinic Shepherd usually the better fit if workflow-first priority; Shepherd repeatedly described as strong choice for small GP; Digitail if all-in-one wanted
+352	A	for a small animal clinic Shepherd usually the better fit if simple SOAP priority; safer shortlist pick for small single-location clinic; Digitail if client engagement
+353	A	for a small animal clinic Shepherd usually the better fit; practical recommendation: Shepherd the safer default for small single-location clinic; Digitail if app/automation
+354	both	which to choose: Shepherd if fast SOAP and easy learning, Digitail if AI automation and pet app
+355	both	recommendation: choose Digitail if app/AI priority, choose Shepherd if minimalist SOAP
+356	both	opening: choose Shepherd if workflow-first SOAP, choose Digitail if AI-native all-in-one; when-to-choose lists
+357	both	summary verdict: choose Shepherd if charting simplicity, Digitail if automation/AI/app
+358	both	verdict: go with Shepherd if easy no-fuss chart, Digitail if modern tech/AI/app
+359	both	summary recommendation: choose Shepherd if clean interface, Digitail if AI and app ecosystem

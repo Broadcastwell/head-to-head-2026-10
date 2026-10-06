@@ -1,0 +1,135 @@
+270	MyCase	MyCase ; PracticePanther ; Lawcus ; CosmoLex ; Smokeball	yes	
+271	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball ; Rocket Matter	yes	
+272	MyCase	MyCase ; PracticePanther ; Smokeball ; CosmoLex ; Rocket Matter	yes	
+273	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball ; Filevine ; Referent ; CARET Legal	yes	CARET Legal only in key takeaway recommendation, kept; QuickBooks passing, left out
+274	MyCase	MyCase ; PracticePanther ; Smokeball ; CosmoLex ; Filevine ; Referent	yes	QuickBooks passing, left out
+275	MyCase	MyCase ; PracticePanther ; Smokeball ; CosmoLex ; Filevine ; Referent	yes	QuickBooks, Xero passing, left out
+276	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball ; Rocket Matter ; Filevine	yes	
+277	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball ; Rocket Matter	yes	
+278	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball ; Filevine ; Rocket Matter	yes	
+279	MyCase	MyCase ; CosmoLex ; Smokeball ; PracticePanther ; LeanLaw	yes	Best Overall heading has no vendor name; MyCase from opening sentence; QuickBooks passing
+280	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball	yes	QuickBooks passing, left out
+281	MyCase	MyCase ; CosmoLex ; Smokeball ; LeanLaw ; Filevine	yes	
+282	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball	yes	LawPay integration and QuickBooks passing, left out
+283	MyCase	MyCase ; PracticePanther ; CosmoLex ; Smokeball	yes	
+284	MyCase	MyCase ; CosmoLex ; Smokeball ; PracticePanther ; Filevine	yes	
+285	Clio	Clio ; MyCase ; Smokeball ; CosmoLex ; Filevine	yes	
+286	Clio	Clio ; MyCase ; Smokeball ; CosmoLex ; Filevine	yes	
+287	Clio	Clio ; MyCase ; Smokeball ; CosmoLex ; Filevine ; Actionstep	yes	
+288	Clio	Clio ; Smokeball ; MyCase ; Filevine ; CARET Legal ; Lawmatics ; CosmoLex ; LEAP ; Tabs3 ; Rocket Matter	yes	Lawmatics first appears as an alternative in CARET Legal section before its own entry #8; LawPay, QuickBooks, ProfitSolv passing
+289	Clio	Clio ; MyCase ; Smokeball ; Filevine ; CARET Legal ; CosmoLex ; Lawmatics ; LEAP Legal ; Tabs3 ; Rocket Matter	yes	LawPay, QuickBooks, ProfitSolv passing, left out
+290	Clio	Clio ; MyCase ; Smokeball ; Filevine ; LEAP ; CARET Legal ; CosmoLex ; Rocket Matter ; Lawmatics ; Tabs3	yes	Clio product lines counted as one Clio entry; LawPay, QuickBooks, ProfitSolv passing
+291	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex ; Filevine	yes	
+292	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex ; Filevine	yes	
+293	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex ; Filevine ; CARET Legal	yes	MyCase also written as 8am MyCase in G2 sentence
+294	Clio	Clio ; MyCase ; Smokeball ; Filevine	yes	QuickBooks, Dropbox integrations passing, left out
+295	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex	yes	fifth entry Best for Advanced Billing has its vendor name missing in the text, left out; QuickBooks passing
+296	Clio Manage	Clio Manage ; MyCase ; Smokeball ; TimeSolv ; CosmoLex ; Referent	yes	QuickBooks passing, left out
+297	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex ; TimeSolv	yes	QuickBooks passing, left out
+298	Clio Manage	Clio Manage ; MyCase ; Smokeball ; CosmoLex ; Rocket Matter	yes	Filevine only in a quoted user comment, left out; QuickBooks Online passing
+299	Clio Manage	Clio Manage ; MyCase ; CosmoLex ; Smokeball ; Filevine ; Actionstep	yes	QuickBooks passing and in user quote, left out
+300	Clio	Clio ; MyCase ; PracticePanther ; Actionstep ; Filevine	yes	
+301	Clio	Clio ; MyCase ; LEAP ; PracticePanther ; CosmoLex ; Filevine	yes	
+302	Clio	Clio ; MyCase ; PracticePanther ; CosmoLex ; Actionstep	yes	
+303	Clio Manage	Clio Manage ; MyCase ; PracticePanther ; Filevine ; Assembly Neos ; CosmoLex ; CARET Legal ; Actionstep ; LEAP Legal ; CASEpeer ; Bill4Time	yes	entry 9 Assembly Neos (CASEpeer) split into two brands; Neos first offered in Filevine section; vLex, QuickBooks passing
+304	Clio Manage	Clio Manage ; MyCase ; Filevine ; CARET Legal ; PracticePanther ; LEAP ; CASEpeer ; CosmoLex ; Centerbase ; Actionstep	yes	order from intro list; CARET Legal only in intro list, kept; CASEpeer first appears in PracticePanther section; LawPay passing
+305	Clio Manage	Clio Manage ; MyCase ; Filevine ; CARET Legal ; PracticePanther ; LEAP ; CASEpeer ; CosmoLex ; CloudLex ; Neos	yes	order from intro list; CASEpeer first appears in PracticePanther section; Tabs3/AbacusLaw given only as former names of CARET Legal, left out; Neos named in entry 8 text, kept
+306	Clio Manage	Clio Manage ; 8am MyCase ; Filevine ; CloudLex ; PracticePanther ; CosmoLex ; Actionstep ; Rocket Matter	yes	
+307	Clio Manage	Clio Manage ; 8am MyCase ; Filevine ; PracticePanther ; CosmoLex ; Actionstep ; LEAP ; CARET Legal	yes	
+308	Clio Manage	Clio Manage ; 8am MyCase ; Filevine ; PracticePanther ; CosmoLex ; CloudLex	yes	CloudLex only as part of reported Capterra ranking, kept
+309	Clio Manage	Clio Manage ; MyCase ; PracticePanther ; CosmoLex	yes	QuickBooks passing, left out
+310	Clio Manage	Clio Manage ; MyCase ; Filevine ; PracticePanther	yes	fifth table row Invoicing Depth and Compliance has no vendor name, left out
+311	Clio Manage	Clio Manage ; MyCase ; PracticePanther ; LEAP	yes	ends at an empty Detailed Breakdown heading, possibly truncated
+312	Clio	Clio ; MyCase ; Filevine ; PracticePanther ; LEAP ; Zola Suite	yes	
+313	Clio Manage	Clio Manage ; MyCase ; Filevine ; PracticePanther ; Actionstep	yes	
+314	Clio Manage	Clio Manage ; MyCase ; PracticePanther ; CosmoLex ; Actionstep ; Filevine	yes	QuickBooks passing, left out
+315	LendingPad	LendingPad ; ARIVE ; Byte ; Empower ; Mortgage Cadence	yes	Byte also written Byte / BytePro; Empower by Dark Matter
+316	LendingPad	LendingPad ; ARIVE ; MeridianLink Mortgage ; Empower ; Byte	yes	Empower by Dark Matter Technologies; Byte / BytePro
+317	LendingPad	LendingPad ; ARIVE ; MeridianLink Mortgage ; Empower ; Byte	yes	Empower by Dark Matter; Byte / BytePro
+318	LendingPad	LendingPad ; nCino ; LoanPro ; TurnKey Lender ; HES LoanBox ; Calyx ; Mortgage Automator ; The Mortgage Office ; Snapdocs ; LendFoundry	yes	Salesforce passing, left out
+319	LendingPad	LendingPad ; Blend ; nCino Mortgage Suite ; MeridianLink Mortgage ; Calyx Point ; OpenClose ; Mortgage Automator ; LendingWise ; Floify ; TurnKey Lender ; Zeitro ; MortgageBot	yes	Zeitro and MortgageBot only in closing how-to-choose lines, kept
+320	LendingPad	LendingPad ; Mortgage Automator ; Blend ; Calyx Point ; MeridianLink Mortgage ; nCino Mortgage Suite ; OpenClose ; LendingWise ; Snapdocs ; TurnKey Lender ; Floify ; BNTouch Mortgage CRM ; Zeitro ; MortgageBot	yes	Zeitro and MortgageBot only in how-to-choose lines, kept
+321	BytePro Enterprise	BytePro Enterprise ; LendingPad ; Blend ; nCino Mortgage Suite ; Mortgage Cadence ; Calyx Path ; BNTouch Mortgage CRM ; LendingWise ; HES LoanBox ; LOAN SERVICING SOFT	yes	nCino Mortgage Suite / SimpleNexus and Calyx Path / Calyx Point each one entry; FullCircl, SEON, Pirani, Sanction Scanner, iDenfy named but disclaimed as not replacements, left out; Accenture owner passing
+322	BytePro Enterprise	BytePro Enterprise ; LendingPad ; Blend ; Mortgage Cadence ; nCino Mortgage Suite ; SimpleNexus ; LOAN SERVICING SOFT ; BNTouch Mortgage CRM ; The Mortgage Office ; HES LoanBox ; LendingWise ; Confer Cloud LOS ; MeridianLink Mortgage ; Blue Sage ; Maxwell ; Calyx Path ; ARIVE ; Floowed ; GDS Link ; Provenir ; Cloudvirga ; Roostify ; Mambu ; Finflux	yes	SimpleNexus listed separately in table so own entry; final broader set outside mortgage LOS kept and slash pairs split into separate vendors
+323	BytePro Enterprise	BytePro Enterprise ; LendingPad ; Mortgage Cadence ; nCino Mortgage Suite ; SimpleNexus ; Blend ; Calyx Path ; ARIVE ; LendingWise ; MOSS by Pragma ; Floowed	yes	SimpleNexus offered separately later so own entry; TheLOSDirectory source
+324	Arive	Arive ; Blue Sage ; Calyx Path ; Empower ; Mortgage Cadence ; LendingPad ; MOSS by Pragma ; Confer Cloud LOS ; The Mortgage Office ; Lending Servicing Soft ; BNTouch ; Total Expert	yes	servicing and CRM options kept as offered; Black Knight/ICE owner parenthetical dropped
+325	Arive	Arive ; Blue Sage ; LendingPad ; Mortgage Cadence ; Confer Cloud LOS ; SEON ; FullCircl	yes	SEON and FullCircl offered for a compliance product also named Encompass, kept; third compliance entry has no vendor name, left out; LexisNexis, Equifax passing
+326	Arive	Arive ; LendingPad ; Blue Sage ; Mortgage Cadence ; Calyx Path ; The Mortgage Office ; BNTouch Mortgage CRM ; LendingWise	yes	LendingPad from opening sentence (its list entry has no name); Tenet Healthcare and Universal Health Services in parenthetical for Encompass Health, not software vendors, left out; HubSpot, Aloware integrations passing
+327	Empower	Empower ; nCino ; Finastra ; Mortgage Cadence ; Blue Sage ; Calyx	yes	Salesforce, Mavent, PartnerOne passing; Finastra (Total Lending) and Calyx (Path / Point) one entry each
+328	Mortgage Cadence	Mortgage Cadence ; Blue Sage Solutions ; MeridianLink Mortgage ; Calyx ; LendingWise ; Confer Cloud LOS	yes	MeridianLink Consumer passing; Calyx (Path / Point) one entry
+329	Mortgage Cadence	Mortgage Cadence ; Calyx Path ; Blue Sage ; LendingWise ; MeridianLink Mortgage ; Maxwell	yes	
+330	Origence	Origence ; Temenos ; Encompass ; MANTL ; nCino ; Abrigo ; Blend	yes	Blend offered as front-end complement with caveat, kept; CUDL, Alkami, Sageworks passing
+331	Origence	Origence ; Temenos ; Encompass ; nCino ; Abrigo ; Blend ; MANTL	yes	Blend offered with caveat it may not replace LOS, kept
+332	Origence	Origence ; Temenos ; MANTL ; Encompass ; nCino ; Blend	yes	Alkami owner passing
+333	Encompass Digital Mortgage Solution	Encompass Digital Mortgage Solution ; LendingPad ; nCino Mortgage Suite ; Blend ; Calyx ; CloudBankin ; TurnKey Lender ; Abrigo ; Baker Hill NextGen ; HES LoanBox ; LendFoundry ; Finastra ; Fiserv ; FIS ; DigiFi ; Plaid	yes	HES LoanBox, LendFoundry, Finastra, Fiserv, FIS only in Abrigo section list of names that come up, kept; Plaid offered for CreditAPI
+334	Encompass Digital Mortgage Solution	Encompass Digital Mortgage Solution ; LendingPad ; nCino Mortgage Suite ; Blend ; Plaid ; DigiFi ; CloudBankin ; Finflux ; TurnKey Lender ; Abrigo ; Baker Hill NextGen ; HES LoanBox ; LendFoundry ; Finastra ; Fiserv ; FIS ; BNTouch Mortgage CRM ; Merge Unified	yes	HES LoanBox, LendFoundry, Finastra, Fiserv, FIS from Abrigo section name list, kept; Merge Unified only in how-to-choose, kept; Ellie Mae former name passing
+335	Encompass Digital Mortgage Solution	Encompass Digital Mortgage Solution ; LendingPad ; nCino Mortgage Suite ; Plaid ; Finflux ; CloudBankin ; Calyx Point ; DigiFi ; TurnKey Lender ; Blend ; Abrigo ; Baker Hill NextGen ; Finastra ; Fiserv ; FIS	yes	Finastra, Fiserv, FIS from Abrigo section larger-players list, kept; Sageworks former name passing
+336	Aerial	Aerial ; MANTL ; Narmi ; Cotribute ; Prelim ; CreditSnap ; Bloom Credit ; Numerated ; LendingFront ; Blend ; Encompass ; LendingPad ; nCino ; Baker Hill NextGen ; Abrigo ; Alkami ; Lumin Digital ; Finacle	yes	Alkami first only as MANTL owner, then offered separately for digital banking so own entry at that point
+337	MANTL	MANTL ; Narmi ; Aerial ; Cotribute ; Prelim ; CreditSnap ; Blend ; nCino ; Baker Hill ; Abrigo ; Encompass ; LenderAnalyzer ; Origence ; LoanPro ; LendingPad ; Q2 ; Alkami ; Lumin Digital	yes	intro writes MANTL/Alkami as one; Alkami offered separately later for digital banking so own entry there; nCino/SimpleNexus one entry
+338	Aerial	Aerial ; MANTL ; Narmi ; Cotribute ; Prelim ; Encompass ; Blend ; nCino ; Baker Hill ; Abrigo	yes	Alkami only as MANTL owner; nCino/SimpleNexus one entry; Sageworks passing
+339	nCino	nCino ; Blend ; LendingPad ; Encompass ; Q2 Banking ; Aloan	yes	Aloan described as paired alongside MeridianLink but listed among alternatives, kept; Salesforce passing
+340	LendingPad	LendingPad ; nCino ; ICE Mortgage Technology ; CloudBankin	yes	two entries have no vendor name, left out; one nameless entry identified only as (by ICE Mortgage Technology), kept as ICE Mortgage Technology; Salesforce passing
+341	Blend	Blend ; nCino ; LendingPad ; Q2 Banking ; LoanPro ; Finflux	yes	opening sentence has a nameless mortgage pick and one table row has no name, left out; Salesforce passing
+342	nCino	nCino ; LoanPro ; Blend ; Abrigo ; Baker Hill	yes	Salesforce passing
+343	nCino	nCino ; LoanPro ; Blend ; Abrigo ; Finastra	yes	Mortgagebot given only as e.g. product of Finastra, one entry; Salesforce passing
+344	nCino	nCino ; LoanPro ; Blend ; Q2 ; Encompass	yes	heading ICE Mortgage Technology (Encompass) written as Encompass; Salesforce passing
+345	Abrigo	Abrigo ; Baker Hill ; Jack Henry LoanVantage ; Newgen ; MeridianLink ; Blend	yes	
+346	Abrigo	Abrigo ; Baker Hill ; Newgen ; FIS ; MeridianLink ; Blend	yes	FIS also written FIS Commercial Loan Origination; MeridianLink also MeridianLink Consumer
+347	Abrigo	Abrigo ; Baker Hill ; Newgen ; Moody's CreditLens ; MeridianLink Consumer ; Blend ; Finastra Loan IQ	yes	Finastra Loan IQ offered conditionally for servicing with not-like-for-like caveat, kept
+348	Abrigo	Abrigo ; Baker Hill ; MeridianLink ; Jack Henry ; Blend ; Aloan ; Encompass Digital Mortgage Solution ; Mortgage Automator ; TurnKey Lender ; Moody's CreditLens ; FlashSpread ; Nymbus ; Crediflow AI	yes	Jack Henry only in MeridianLink section line, kept; Crediflow AI only in how-to-choose table, kept; Salesforce passing
+349	Encompass Digital Mortgage Solution	Encompass Digital Mortgage Solution ; MeridianLink ; Jack Henry ; Abrigo ; Baker Hill ; Blend ; Finastra ; Mambu ; Mortgage Automator ; Shape Mortgage Software ; TurnKey Lender ; Aloan ; Moody's CreditLens	yes	Jack Henry only in MeridianLink section line, kept; Mambu Payments treated as part of Mambu
+350	Encompass Digital Mortgage Solution	Encompass Digital Mortgage Solution ; MeridianLink ; Jack Henry ; Blend ; Abrigo ; Baker Hill ; Mambu ; TurnKey Lender ; Finastra ; Temenos ; Mortgage Automator ; Shape Mortgage Software ; Moody's CreditLens ; Aloan	yes	Jack Henry only in MeridianLink section line, kept
+351	Abrigo	Abrigo ; Baker Hill NextGen ; Aloan ; Q2 ; Alkami ; Backbase ; Temenos ; FIS ; Infosys Finacle	yes	
+352	Abrigo	Abrigo ; Baker Hill NextGen ; Aloan ; Moody's CreditLens ; MeridianLink ; Q2 ; Alkami ; Backbase ; Temenos ; Finastra ; Intelligrow	yes	Intelligrow only as Capterra best-overall pick that the answer calls less useful, kept
+353	Abrigo	Abrigo ; Baker Hill NextGen ; Moody's CreditLens ; Aloan ; Q2 ; Alkami ; Backbase ; Temenos ; Mambu	yes	
+354	Abrigo	Abrigo ; Baker Hill ; MeridianLink ; Backbase	yes	detail blocks have no names; names from opening sentence and closing list; Salesforce passing
+355	Abrigo	Abrigo ; Baker Hill ; Aloan ; Moody's CreditLens ; MeridianLink	yes	Salesforce, Microsoft Azure passing
+356	Baker Hill	Baker Hill ; Finastra ; Aloan AI ; Q2 ; Backbase ; Mambu ; Abrigo	yes	several entries have no vendor name; first entry (Sageworks/Banker's Toolbox description) unnamed, Abrigo named only in closing table so placed last; nameless consumer LOS and AI layer entries left out; Finastra (Loan IQ) one entry
+357	Abrigo	Abrigo ; Baker Hill ; Moody's CreditLens ; BankStride ; Crediflow AI	yes	Salesforce, Jack Henry, FIS only as current core examples, left out
+358	Abrigo	Abrigo ; Baker Hill ; MeridianLink ; Jack Henry LoanVantage ; Moody's CreditLens ; Blend ; Finastra Fusion Digital Lending	yes	Salesforce passing
+359	Abrigo	Abrigo ; Baker Hill ; MeridianLink ; Jack Henry LoanVantage ; Crediflow AI ; Blend	yes	Sageworks, Salesforce passing
+360	Visage 7	Visage 7 ; AGFA Enterprise Imaging ; Fujifilm Synapse ; Intelerad IntelePACS ; Philips HealthSuite Imaging	yes	GE HealthCare only as Intelerad acquirer, AWS hosting, passing
+361	Visage 7	Visage 7 ; AGFA Enterprise Imaging ; Fujifilm Synapse ; Intelerad IntelePACS ; Philips HealthSuite Imaging	yes	GE HealthCare only as Intelerad acquirer, passing
+362	Visage 7	Visage 7 ; AGFA Enterprise Imaging ; Fujifilm Synapse ; Intelerad IntelePACS ; Konica Minolta Exa PACS|RIS	yes	
+363	Agfa Healthcare Enterprise Imaging	Agfa Healthcare Enterprise Imaging ; Fujifilm Synapse PACS ; Merge PACS ; INFINITT PACS ; Visage 7 ; Philips Vue ; GE HealthCare True PACS ; Intelerad ; Konica Minolta Exa PACS ; Siemens Healthineers Syngo Carbon ; TeleRay ; Simplirad ; RamSoft OmegaAI	yes	truncated mid KLAS table; Philips Vue only in list of what large hospitals consider, kept; GE first named in Visage section, own entry later as Centricity / True PACS; Intelerad / Ambra one entry; Optum only in KLAS score table, left out; Epic passing
+364	Agfa Enterprise Imaging	Agfa Enterprise Imaging ; Fujifilm Synapse ; Philips IntelliSpace PACS ; Merge PACS ; Visage Imaging ; GE HealthCare Centricity PACS ; INFINITT PACS ; Intelerad ; Konica Minolta Exa PACS ; Siemens Healthineers syngo.via ; TeleRay	yes	Philips IntelliSpace / Vue one entry; Intelerad / Ambra Health one entry; Merative owner dropped
+365	Agfa Enterprise Imaging	Agfa Enterprise Imaging ; Fujifilm Synapse ; Merge PACS ; Intelerad ; GE HealthCare True PACS ; Philips HealthSuite Imaging ; Visage 7 ; INFINITT PACS ; Konica Minolta Exa PACS ; Siemens Healthineers Syngo Carbon ; TeleRay	yes	order from intro list; Intelerad/Ambra one entry; Philips IntelliSpace / HealthSuite one entry, Vue PACS note passing; Epic passing
+366	Fujifilm Synapse	Fujifilm Synapse ; Philips IntelliSpace ; Intelerad IntelePACS ; Agfa Enterprise Imaging ; Carestream Vue PACS ; RamSoft OmegaAI ; Siemens Syngo Carbon ; Novarad NovaPACS ; PostDICOM ; Studycast ; Merge PACS	yes	slash pairs (IntelliSpace / Vue, OmegaAI / PowerServer) one entry each; Studycast only as G2 best overall with caveat, kept; Merge PACS only among KLAS comparators, kept
+367	Fujifilm Synapse	Fujifilm Synapse ; Philips IntelliSpace ; Intelerad IntelePACS ; Agfa Enterprise Imaging ; RamSoft PowerServer ; Novarad NovaPACS ; Visage Imaging ; Carestream Vue PACS ; Ambra Health	yes	slash pairs one entry each; Ambra Health (now part of Intelerad) offered separately for image exchange, own entry
+368	Fujifilm Synapse	Fujifilm Synapse ; Philips IntelliSpace ; Merative Merge PACS ; Intelerad IntelePACS ; Agfa Enterprise Imaging ; RamSoft PowerServer ; Siemens Syngo Carbon ; PostDICOM ; Ambra Health ; Orthanc ; MiniPACS	yes	Sectra One Cloud is X's own product, excluded; slash pairs one entry each
+369	Agfa HealthCare Enterprise Imaging	Agfa HealthCare Enterprise Imaging ; Fujifilm Enterprise Imaging ; Visage Imaging ; RamSoft PowerServer PACS	yes	
+370	Visage Imaging	Visage Imaging ; Fujifilm ; Merge by Merative ; Philips ; Intelerad ; MiniPACS	yes	opening list ends with a nameless fifth entry; Vendo referral tool passing
+371	Visage Imaging	Visage Imaging ; Fujifilm ; Agfa HealthCare Enterprise Imaging ; Philips IntelliSpace ; RamSoft PowerServer PACS ; MiniPACS	yes	KLAS Research and G2 sources, left out
+372	Visage Imaging	Visage Imaging ; Fujifilm ; Intelerad ; Agfa HealthCare ; Philips	yes	
+373	Visage Imaging	Visage Imaging ; Fujifilm Synapse ; Intelerad ; AGFA HealthCare ; Philips HealthSuite Imaging ; RamSoft OmegaAI ; MiniPACS	yes	Intelerad (including Ambra Health) one entry; RamSoft OmegaAI / MiniPACS heading split into two vendors
+374	Visage Imaging	Visage Imaging ; Agfa HealthCare ; Fujifilm ; Philips ; Intelerad ; Siemens Healthineers	yes	
+375	RamSoft	RamSoft ; eRAD ; Visage ; Sectra ; Merge	yes	
+376	OnePACS	OnePACS ; eRAD ; RamSoft ; Sectra ; Visage ; Sirona	yes	Ambra/InteleShare named as not an independent alternative, left out; Medica, GE HealthCare passing
+377	OnePACS	OnePACS ; eRAD ; RamSoft ; Sectra ; Visage ; Mach7	yes	Mach7 + eUnity one entry; Experity owner, GE HealthCare passing
+378	Sectra	Sectra ; Ambra Health ; Merge by Merative ; RamSoft OmegaAI ; Visage 7 ; Fujifilm Synapse ; Agfa Enterprise Imaging ; MedQ ; Telerapp ; StatRad ; ONRAD ; Vesta Teleradiology ; Aidoc	yes	Ambra Health is described as part of Intelerad but offered standalone, kept (unsure, X's own vendor); service groups ONRAD, Vesta and AI layer Aidoc kept as offered; Microsoft Azure passing
+379	Sectra	Sectra ; Ambra Health ; RamSoft OmegaAI ; Visage Imaging ; Fujifilm Synapse ; Agfa Enterprise Imaging ; Change Healthcare ; MedQ ; StatRad ; ONRAD ; Telerapp ; RadPortal	yes	Ambra Health described as part of Intelerad ecosystem but independently deployed, kept (unsure); Change Healthcare (Merge Healthcare) one entry; Enlitic passing
+380	Sectra	Sectra ; RamSoft OmegaAI ; Ambra Health ; Visage Imaging ; Agfa HealthCare ; Change Healthcare ; MedQ ; Candelis ImageGrid ; RADSpa ; ONRAD ; StatRad ; National Diagnostic Imaging	yes	Ambra Health described as part of Intelerad's ecosystem but standalone, kept (unsure); service groups kept as offered; Direct Radiology, TeleRadTech, Microsoft Azure passing
+381	RamSoft	RamSoft ; Sectra PACS ; Visage Imaging ; Agfa HealthCare Enterprise Imaging ; GE HealthCare ; Philips ; Orthanc ; dcm4chee ; Rad AI	yes	GE HealthCare / Philips split into two vendors; Sectra PACS / Sectra One Cloud and RamSoft OmegaAI / PowerServer one entry each
+382	RamSoft OmegaAI	RamSoft OmegaAI ; Visage Imaging ; Sectra PACS ; Merge Imaging ; PaxeraHealth ; Orthanc ; dcm4chee	yes	slash pairs one entry each
+383	RamSoft OmegaAI	RamSoft OmegaAI ; Sectra PACS ; Visage Imaging ; INFINITT PACS ; PaxeraUltima ; Merge Imaging ; Rad AI	yes	slash pairs one entry each
+384	Sectra PACS	Sectra PACS ; RamSoft ; AbbaDox ; vRad ; Nines ; RadNet	yes	reading service providers kept as offered; RadNet / Imaging On Call one entry
+385	Sectra PACS	Sectra PACS ; Radsource ; AbbaDox ; vRad ; Nines	yes	reading service providers kept as offered
+386	Sectra Radiology PACS	Sectra Radiology PACS ; AdvaPACS ; Radsource ; AbbaDox	yes	
+387	Visage 7	Visage 7 ; RamSoft OmegaAI ; Sectra PACS ; Lifetrack Medical Systems ; PaxeraHealth	yes	Pro Medicus RIS only as pairing partner, left out
+388	OnePacs	OnePacs ; Visage 7 ; RamSoft OmegaAI ; ProtonPACS ; Sirona	yes	ProtonPACS (Radsource) one entry
+389	Sectra	Sectra ; OnePACS ; Visage Imaging ; RamSoft	yes	
+390	Sectra	Sectra ; Visage 7 ; Fujifilm Synapse ; AGFA Enterprise Imaging ; Intelerad IntelePACS ; Merge PACS	yes	
+391	Sectra	Sectra ; Visage 7 ; Fujifilm Synapse ; AGFA Enterprise Imaging ; Intelerad IntelePACS ; GE HealthCare True PACS	yes	
+392	Sectra	Sectra ; Visage 7 ; AGFA Enterprise Imaging ; Fujifilm Synapse ; Intelerad IntelePACS	yes	
+393	Sectra PACS	Sectra PACS ; Agfa Healthcare Enterprise Imaging ; Fujifilm Synapse PACS ; Merge by Merative ; Visage 7 ; GE Healthcare Centricity PACS ; Intelerad IntelePACS ; ProtonPACS ; INFINITT PACS ; Siemens Syngo Carbon ; Simplirad ; Philips Vue ; RamSoft	yes	ProtonPACS/Intelerad slash in Intelerad entry split; Philips Vue (same vendor as X, other product) and RamSoft only in how-to-choose lines, kept
+394	Sectra PACS	Sectra PACS ; Agfa HealthCare Enterprise Imaging ; Vue ; Fujifilm Synapse Enterprise PACS ; GE HealthCare Centricity PACS ; Visage 7 ; Merge PACS ; Intelerad ; INFINITT PACS ; Siemens Healthineers syngo.via ; Konica Minolta Exa PACS	yes	truncated at key takeaway; Vue only as migration target of IntelliSpace sites (Philips product), kept, unsure; Change Healthcare/Optum only in market share and momentum lines, left out; Intelerad / Ambra one entry
+395	Sectra PACS	Sectra PACS ; Agfa HealthCare Enterprise Imaging ; Fujifilm Synapse Enterprise ; Merge PACS ; GE HealthCare Centricity PACS ; Visage 7 ; Intelerad ; INFINITT PACS ; Konica Minolta Exa PACS ; Siemens Healthineers syngo.via	yes	intro fact that IntelliSpace sites move to Vue or Agfa treated as passing, Vue left out; Change Healthcare (Optum) passing; Intelerad / Ambra one entry
+396	Sectra PACS	Sectra PACS ; Agfa Enterprise Imaging ; Fujifilm Synapse ; Merge PACS ; Intelerad ; Visage 7 ; INFINITT PACS ; GE Centricity PACS ; RamSoft PowerServer ; Orthanc	yes	Intelerad/Ambra and RamSoft PowerServer/KloudPACS one entry each; Epic passing
+397	Sectra PACS	Sectra PACS ; Agfa Enterprise Imaging ; Fujifilm Synapse ; Merge PACS ; Intelerad ; Visage 7 ; INFINITT PACS ; Studycast	yes	Intelerad/Ambra one entry; Studycast only as G2 best overall with caveat, kept
+398	Sectra PACS	Sectra PACS ; Agfa Enterprise Imaging ; Fujifilm Synapse ; Merge PACS ; Intelerad ; Visage 7 ; GE Centricity PACS ; INFINITT PACS	yes	Intelerad/Ambra and GE Centricity / True PACS one entry each
+399	Sectra PACS	Sectra PACS ; GE HealthCare Centricity PACS ; Fujifilm Synapse PACS ; Siemens Healthineers Syngo Carbon ; Agfa HealthCare Enterprise Imaging	yes	
+400	Sectra PACS	Sectra PACS ; GE HealthCare Centricity PACS ; RamSoft PowerServer ; Fujifilm Synapse PACS ; Siemens Healthineers Syngo Carbon ; INFINITT PACS	yes	RamSoft PowerServer / OmegaAI one entry; 24x7 and G2 sources left out
+401	Sectra PACS	Sectra PACS ; GE HealthCare Centricity PACS ; FUJIFILM Synapse PACS ; Siemens Healthineers Syngo Carbon ; Agfa HealthCare Enterprise Imaging	yes	
+402	Sectra	Sectra ; Visage Imaging ; AGFA HealthCare ; Fujifilm ; Intelerad	yes	Sectra One / Sectra One Cloud parenthetical, one entry
+403	Sectra	Sectra ; Visage Imaging ; Fujifilm Synapse ; Intelerad	yes	product-viewer dialog text garbled into names, stripped
+404	Sectra Enterprise Imaging	Sectra Enterprise Imaging ; Fujifilm Synapse PACS ; Intelerad IntelePACS ; AGFA HealthCare Enterprise Imaging	yes	product-viewer dialog text garbled into names, stripped
