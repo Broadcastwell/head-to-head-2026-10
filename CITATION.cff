@@ -5,6 +5,7 @@ type: dataset
 authors:
   - name: "Broadcastwell"
 version: "1.0"
+doi: "10.5281/zenodo.23202939"
 date-released: "2026-10-07"
 license: CC-BY-4.0
 repository-code: "https://github.com/Broadcastwell/head-to-head-2026-10"

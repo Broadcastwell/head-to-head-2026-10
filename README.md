@@ -4,6 +4,8 @@ From the September 2026 Absence Index deposit (DOI [10.5281/zenodo.22907695](htt
 
 The full report, with every table: [HEAD_TO_HEAD_REPORT.pdf](HEAD_TO_HEAD_REPORT.pdf).
 
+DOI of this release (v1.0): [10.5281/zenodo.23202939](https://doi.org/10.5281/zenodo.23202939).
+
 ## Findings (every number with its base)
 
 - 75 of 359 scored head to head answers declared a single winner (20.9 percent, 95 percent interval 17.0 to 25.4). The most common verdict was both, a pick for each of two buyer types: 271 of 359.
