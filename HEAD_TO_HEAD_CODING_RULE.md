@@ -34,7 +34,7 @@ Precedents fixed while coding (pass 1):
 - A trophy, winner badge or "overall winner" in the answer's own bottom line counts as a pick (rule 1); a per-factor winner table alone does not (rule 4).
 - An answer cut off mid-sentence in the deposit is coded from the text present and noted as truncated.
 
-Readers: pass 1 and pass 2 were made by separate reader instances working from the same rule and this precedent list, each blind to the other's codes (coding/READER_BRIEF.md); the run lead made every third read.
+Readers: pass 1 and pass 2 were made by separate reader instances working from the same rule and this precedent list, each blind to the other's codes; a third read settled every disagreement.
 
 Precedent fixed at the third read (applied to every disagreement and, as a consistency read, to every agreed A or B code whose deciding sentence carries a condition):
 - A conditional pick is a split, not a default. "A is usually the better choice if your priority is X", "A is the safer default if you need X", or "for [a narrower buyer than the question names], A", set against B for another condition, is coded both (rule 2). A pick is a default (rule 1) only when it holds for the buyer as asked with no further condition the question does not state: "for most [buyers as asked], A", "my default is A", "lean A unless Y", "A; B only if Y". A condition that only restates the question's own buyer ("for a small brokerage" when the question asks about a small broker) is not a further condition.

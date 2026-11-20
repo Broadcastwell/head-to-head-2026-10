@@ -14,7 +14,7 @@ const st = s => `${s.count} of ${s.base} (${pc(s)}; 95 percent interval ${s.ci[0
 const short = s => `${s.count} of ${s.base}`;
 const CAT = { 'construction-project-management': 'Construction project management', 'dealership-management-systems': 'Dealership management systems', 'dental-practice-management': 'Dental practice management', 'field-service-management': 'Field service management', 'hotel-property-management': 'Hotel property management', 'insurance-agency-management': 'Insurance agency management', 'legal-practice-management': 'Legal practice management', 'loan-origination-software': 'Loan origination software', 'radiology-medical-imaging': 'Radiology and medical imaging', 'residential-property-management': 'Residential property management', 'transportation-management-systems': 'Transportation management systems', 'veterinary-practice-management': 'Veterinary practice management' };
 const t = f.totals, v = f.verdicts.overall;
-const fontDir = 'C:/Users/saira/Documents/bw-client-data/.claude/worktrees/broadcastwell-what-ai-said-8dbfba/public/assets/fonts/';
+const fontDir = (process.env.FONT_DIR || 'fonts') + '/';
 const font = n => 'data:font/woff2;base64,' + fs.readFileSync(fontDir + n).toString('base64');
 
 const winnerRows = f.winnerTable.map(r => `<tr><td>${e(CAT[r.category])}</td><td>${e(r.a)} vs ${e(r.b)}</td><td>${r.A}</td><td>${r.B}</td><td>${r.both}</td><td>${r.depends}</td><td>${r.neither}</td><td>${r.base}</td><td>${e(r.leader)}</td><td>${r.both_measured ? `${r.a_index} / ${r.b_index} of ${r.index_base}` : 'not both measured'}</td></tr>`).join('');
